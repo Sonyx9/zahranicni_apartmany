@@ -1,0 +1,317 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import FAQ from '../../components/home/FAQ.astro';
+import { getCollection } from 'astro:content';
+import { getCountries, getCountry, getOffersByCountryLimited } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const countries = getCountries();
+  const destinations = await getCollection('destinations');
+  
+  return countries.map((country) => {
+    const destination = destinations.find(d => d.data.countrySlug === country.slug);
+    return {
+      params: { country: country.slug },
+      props: { 
+        countrySlug: country.slug,
+        destination: destination || null
+      }
+    };
+  });
+}
+
+const { countrySlug, destination } = Astro.props;
+const country = getCountry(countrySlug);
+const offers = getOffersByCountryLimited(countrySlug, 6);
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const base = import.meta.env.BASE_URL;
+
+function getImagePath(img: string) {
+  if (img.startsWith('/')) {
+    return `${base}${img.slice(1)}`;
+  }
+  return img;
+}
+
+if (!country) {
+  return Astro.redirect('/destinace/');
+}
+
+// Use FAQ from Content Collection if available, otherwise use defaults
+const faqs = destination?.data.faq || [
+  {
+    q: `Jaké jsou podmínky koupě nemovitosti v ${country.name}?`,
+    a: `Koupě nemovitosti v ${country.name} je relativně jednoduchá. Je důležité mít právní zastoupení a ověřit všechny dokumenty. Doporučujeme konzultaci s místním právníkem.`
+  },
+  {
+    q: `Jaké jsou daňové povinnosti při vlastnictví nemovitosti v ${country.name}?`,
+    a: `Daňové povinnosti se liší podle typu nemovitosti a způsobu využití. Obecně platí, že vlastníci nemovitostí jsou povinni platit daně z nemovitostí a případně daně z příjmů z pronájmu.`
+  },
+  {
+    q: `Je možné získat hypotéku na nemovitost v ${country.name}?`,
+    a: `Ano, je možné získat hypotéku, ale podmínky se liší podle banky a vaší finanční situace. Doporučujeme konzultaci s finančním poradcem.`
+  }
+];
+
+// Get content from markdown if available
+let content = null;
+if (destination) {
+  const rendered = await destination.render();
+  content = rendered;
+}
+
+const canonical = `${siteUrl}/destinace/${country.slug}/`;
+
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Place",
+    "name": `Nemovitosti u moře – ${country.name}`,
+    "description": `Nemovitosti u moře v ${country.name}`,
+    "url": canonical,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.a
+      }
+    }))
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Domů",
+        "item": siteUrl
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Destinace",
+        "item": `${siteUrl}/destinace/`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": country.name,
+        "item": canonical
+      }
+    ]
+  }
+];
+---
+
+<SiteLayout 
+  title={`Nemovitosti u moře – ${country.name}`}
+  description={`Kurátorovaný přehled nemovitostí u moře v ${country.name}. Kontext, fakta a vybrané nabídky.`}
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+    <section class="page-header">
+      <div class="container">
+        <h1>{destination?.data.title || `Nemovitosti u moře – ${country.name}`}</h1>
+        <p class="page-intro">
+          {destination?.data.summary || `${country.name} je jednou z nejoblíbenějších destinací pro investice do nemovitostí u moře. Kombinuje krásné přírodní prostředí, příznivé klima a skvělé investiční příležitosti.`}
+        </p>
+      </div>
+    </section>
+
+    {content && (
+      <section class="content-section">
+        <div class="container">
+          <article class="content-article">
+            <content.Content />
+          </article>
+        </div>
+      </section>
+    )}
+
+    {!content && (
+      <>
+        <section class="content-section">
+          <div class="container">
+            <h2>Proč investovat do nemovitosti v {country.name}?</h2>
+            <p>
+              {country.name} nabízí jedinečnou kombinaci faktorů, které z něj činí ideální destinaci 
+              pro investici do nemovitosti u moře. Příznivé klima, kvalitní infrastruktura a stabilní 
+              právní rámec vytvářejí ideální podmínky pro dlouhodobou investici.
+            </p>
+            <p>
+              Nemovitosti v této destinaci mají silný potenciál pro zhodnocení a zároveň poskytují 
+              možnost celoročního využití pro osobní účely nebo pronájem.
+            </p>
+          </div>
+        </section>
+
+        <section class="content-section">
+          <div class="container">
+            <h2>Lokality a prostředí</h2>
+            <p>
+              Každá lokalita v {country.name} má své jedinečné kouzlo. Od klidných pobřežních oblastí 
+              až po živá města s bohatou kulturní scénou. Naše kurátorovaná nabídka zahrnuje nemovitosti 
+              v těch nejzajímavějších lokalitách, které kombinují přístup k moři s kvalitní infrastrukturou.
+            </p>
+          </div>
+        </section>
+      </>
+    )}
+
+    {offers.length > 0 && (
+      <section style="padding:42px 0;">
+        <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+            {offers.slice(0, 6).map((offer) => (
+              <a class="focus-ring offer-card-link-wrap" href={offer.url} rel="noopener nofollow sponsored" style="border:1px solid var(--c-line);border-radius:var(--radius);overflow:hidden;background:var(--bg-card);display:flex;flex-direction:column;text-decoration:none;color:inherit;">
+                <div style="aspect-ratio:4/3;background:#ddd;flex-shrink:0;">
+                  <img src={getImagePath(offer.image)} alt="Ilustrační fotografie nemovitosti u moře" width="640" height="480" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;" />
+                </div>
+                <div class="offer-card-body" style="padding:14px 14px 16px;">
+                  <div style="font-family:'Playfair Display',serif;font-size:16px;line-height:1.25;">{offer.title}</div>
+                  <div class="muted" style="margin-top:6px;font-size:12px;display:flex;gap:10px;flex-wrap:wrap;">
+                    <span>{offer.country}</span>
+                    {offer.price ? <span>• {offer.price}</span> : null}
+                  </div>
+                  <span class="link-cta offer-card-cta" style="display:inline-flex;margin-top:12px;">
+                    Prohlédnout detail nemovitosti →
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- Výhody koupě u nás -->
+    <section class="section-alt" style="padding:42px 0;">
+      <div class="container">
+        <h2 style="font-size:28px;margin:0 0 18px;">Výhody koupě u nás</h2>
+        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+          <div style="border:1px solid var(--c-line);border-radius:var(--radius);padding:18px;background:var(--bg-card);">
+            <div style="font-family:'Playfair Display',serif;font-size:18px;margin-bottom:10px;">Kurátorovaný výběr</div>
+            <p class="muted" style="margin:0;line-height:1.8;">
+              Nejsme marketplace. Každá nabídka prochází kontrolou a vybíráme pouze nemovitosti, které dávají smysl pro reálné použití.
+            </p>
+          </div>
+          <div style="border:1px solid var(--c-line);border-radius:var(--radius);padding:18px;background:var(--bg-card);">
+            <div style="font-family:'Playfair Display',serif;font-size:18px;margin-bottom:10px;">Kontext a fakta</div>
+            <p class="muted" style="margin:0;line-height:1.8;">
+              Poskytujeme detailní informace o lokalitách, infrastruktuře a procesu koupě. Chcete chápat kontext, ne jen cenu.
+            </p>
+          </div>
+          <div style="border:1px solid var(--c-line);border-radius:var(--radius);padding:18px;background:var(--bg-card);">
+            <div style="font-family:'Playfair Display',serif;font-size:18px;margin-bottom:10px;">Transparentní proces</div>
+            <p class="muted" style="margin:0;line-height:1.8;">
+              Žádné skryté poplatky ani agresivní prodej. Nabídky jsou inspirace – rozhodující jsou fakta, proces a lokalita.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <FAQ items={faqs} />
+</SiteLayout>
+
+<style>
+  .page-header {
+    padding: 64px 0 24px;
+  }
+
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .page-header h1 {
+    font-size: 44px;
+    line-height: 1.05;
+    margin: 0 0 14px;
+  }
+
+  .page-intro {
+    font-size: 18px;
+    line-height: 1.75;
+    color: var(--slate);
+    margin: 0;
+    max-width: 68ch;
+  }
+
+  .content-section {
+    padding: 42px 0;
+  }
+
+  .content-section h2 {
+    font-size: 28px;
+    margin: 0 0 12px;
+  }
+
+  .content-section p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--slate);
+    margin-bottom: 1.5rem;
+    max-width: 68ch;
+  }
+
+  .content-section p:last-child {
+    margin-bottom: 0;
+  }
+
+  .content-article {
+    max-width: 68ch;
+  }
+
+  .content-article h2 {
+    font-size: 28px;
+    margin: 3rem 0 12px;
+  }
+
+  .content-article h2:first-child {
+    margin-top: 0;
+  }
+
+  .content-article h3 {
+    font-size: 22px;
+    margin: 2rem 0 10px;
+  }
+
+  .content-article p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--slate);
+    margin-bottom: 1.5rem;
+  }
+
+  .content-article ul,
+  .content-article ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+  }
+
+  .content-article li {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--slate);
+    margin-bottom: 0.75rem;
+  }
+
+  .section-alt {
+    background: var(--bg-section);
+  }
+
+  @media (max-width: 900px) {
+    section[style*="repeat(3,1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>
+

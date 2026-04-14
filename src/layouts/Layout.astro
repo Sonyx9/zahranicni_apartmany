@@ -1,0 +1,157 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+  jsonLd?: object;
+}
+
+const {
+  title,
+  description = "Nemovitosti u moře v nejkrásnějších destinacích Evropy",
+  canonical,
+  ogImage = "/images/og-default.jpg",
+  jsonLd
+} = Astro.props;
+
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const fullCanonical = canonical ? `${siteUrl}${canonical}` : `${siteUrl}${Astro.url.pathname}`;
+const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+---
+
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={fullCanonical} />
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={fullOgImage} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={fullCanonical} />
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={fullOgImage} />
+    
+    <title>{title}</title>
+    
+    {jsonLd && (
+      <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    )}
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Inter:wght@300;400;500;600&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+  * {
+    box-sizing: border-box;
+  }
+
+  :root {
+    /* COASTAL SIGNATURE Palette */
+    --color-navy: #071A2D;
+    --color-sand: #C7B48A;
+    --color-ivory: #F5F2EA;
+    --color-slate: #4A5568;
+    
+    /* Typography */
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Inter', 'Source Sans 3', system-ui, sans-serif;
+    
+    /* Spacing */
+    --spacing-section: 96px;
+    --spacing-section-mobile: 48px;
+    --max-width: 1280px;
+  }
+
+  html {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-navy);
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: var(--color-ivory);
+  }
+
+  main {
+    flex: 1;
+  }
+
+  a {
+    color: var(--color-sand);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  a:hover {
+    color: var(--color-navy);
+  }
+
+  a:focus {
+    outline: 2px solid var(--color-sand);
+    outline-offset: 2px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--color-navy);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+  }
+
+  h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 500;
+  }
+
+  h2 {
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 400;
+  }
+
+  h3 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 400;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  p {
+    line-height: 1.6;
+    font-size: 18px;
+    color: var(--color-slate);
+  }
+
+  /* Tabulární číslice pro ceny */
+  .price {
+    font-variant-numeric: tabular-nums;
+  }
+</style>
+

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "offer-001",
+    "title": "Apartmán u moře – Costa Blanca",
+    "country": "spanelsko",
+    "price": "od 245 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-002",
+    "title": "Villa s výhledem na Jadran",
+    "country": "chorvatsko",
+    "price": "od 320 000 €",
+    "image": "/images/placeholders/property-2.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-003",
+    "title": "Luxusní apartmán v Toskánsku",
+    "country": "italie",
+    "price": "od 180 000 €",
+    "image": "/images/placeholders/property-3.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-004",
+    "title": "Dům na řeckém ostrově",
+    "country": "recko",
+    "price": "od 195 000 €",
+    "image": "/images/placeholders/property-4.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-005",
+    "title": "Apartmán v Algarve",
+    "country": "portugalsko",
+    "price": "od 165 000 €",
+    "image": "/images/placeholders/property-5.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-006",
+    "title": "Villa na Azurovém pobřeží",
+    "country": "francie",
+    "price": "od 450 000 €",
+    "image": "/images/placeholders/property-6.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-007",
+    "title": "Apartmán v Antalyi",
+    "country": "turecko",
+    "price": "od 95 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-008",
+    "title": "Dům u Černého moře",
+    "country": "bulharsko",
+    "price": "od 75 000 €",
+    "image": "/images/placeholders/property-2.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-009",
+    "title": "Luxusní villa na Kypru",
+    "country": "cyprus",
+    "price": "od 280 000 €",
+    "image": "/images/placeholders/property-3.jpg",
+    "url": "https://partner-web.cz/detail"
+  },
+  {
+    "id": "offer-010",
+    "title": "Apartmán na Maltě",
+    "country": "malta",
+    "price": "od 220 000 €",
+    "image": "/images/placeholders/property-4.jpg",
+    "url": "https://partner-web.cz/detail"
+  }
+]
+

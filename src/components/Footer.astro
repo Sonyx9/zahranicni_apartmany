@@ -1,0 +1,124 @@
+---
+// Footer component
+---
+
+<footer class="footer">
+  <div class="footer-container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>Domy na pláži</h3>
+        <p>Váš průvodce nemovitostmi u moře</p>
+      </div>
+      <div class="footer-section">
+        <h4>Navigace</h4>
+        <ul>
+          <li><a href="/">Domů</a></li>
+          <li><a href="/destinace/">Nejoblíbenější lokality</a></li>
+          <li><a href="/nabidky/">Nabídky</a></li>
+          <li><a href="https://www.nemovitostbulharsko.cz/category/pruvodce-koupi-nemovitosti-v-bulharsku/" rel="noopener noreferrer">Průvodce</a></li>
+          <li><a href="/o-projektu/">O projektu</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Kontakt</h4>
+        <p>Email: info@domynaplazi.cz</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2024 Domy na pláži. Všechna práva vyhrazena.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-navy);
+    color: var(--color-ivory);
+    margin-top: var(--spacing-section);
+  }
+
+  .footer-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 4rem 96px 2rem;
+  }
+
+  .footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .footer-section h3 {
+    font-family: var(--font-heading);
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--color-ivory);
+  }
+
+  .footer-section h4 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 0.9375rem;
+    color: var(--color-ivory);
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .footer-section p {
+    color: rgba(245, 242, 234, 0.7);
+    line-height: 1.6;
+    font-size: 0.9375rem;
+  }
+
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-section ul li {
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-section a {
+    color: rgba(245, 242, 234, 0.7);
+    text-decoration: none;
+    font-size: 0.9375rem;
+    transition: color 0.2s ease;
+  }
+
+  .footer-section a:hover,
+  .footer-section a:focus {
+    color: var(--color-sand);
+  }
+
+  .footer-section a:focus {
+    outline: 2px solid var(--color-sand);
+    outline-offset: 2px;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(199, 180, 138, 0.2);
+    padding-top: 2rem;
+    text-align: center;
+    color: rgba(245, 242, 234, 0.5);
+    font-size: 0.875rem;
+  }
+
+  @media (max-width: 768px) {
+    .footer-container {
+      padding: 3rem 48px 1.5rem;
+    }
+
+    .footer-content {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+</style>
+

@@ -1,0 +1,99 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((guide) => ({
+    params: { slug: guide.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const content = await guide.render();
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/pruvodce/${guide.slug}/`;
+
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": guide.data.title,
+  "description": guide.data.description,
+  "datePublished": guide.data.published.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Coastal Signature"
+  }
+}];
+---
+
+<SiteLayout 
+  title={`${guide.data.title} – Průvodce koupí u moře`}
+  description={guide.data.description}
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section style="padding:64px 0 24px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <nav aria-label="Breadcrumb" style="margin-bottom:14px;font-size:14px;color:var(--slate);">
+        <a href="/" style="color:var(--c-sand);">Domů</a> / 
+        <a href="/pruvodce/" style="color:var(--c-sand);">Průvodce</a> / 
+        <span>{guide.data.title}</span>
+      </nav>
+      <h1 style="font-size:44px;line-height:1.05;margin:0 0 14px;">{guide.data.title}</h1>
+      <p class="muted" style="font-size:18px;line-height:1.75;margin:0;max-width:68ch;">
+        {guide.data.description}
+      </p>
+    </div>
+  </section>
+
+  <section style="padding:42px 0 64px;">
+    <div style="max-width:900px;margin:0 auto;padding:0 20px;">
+      <article style="line-height:1.8;">
+        <content.Content />
+      </article>
+    </div>
+  </section>
+</SiteLayout>
+
+<style>
+  article h2 {
+    font-size: 28px;
+    margin: 3rem 0 12px;
+  }
+
+  article h2:first-child {
+    margin-top: 0;
+  }
+
+  article h3 {
+    font-size: 22px;
+    margin: 2rem 0 10px;
+  }
+
+  article p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--slate);
+    margin-bottom: 1.5rem;
+  }
+
+  article ul,
+  article ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+  }
+
+  article li {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--slate);
+    margin-bottom: 0.75rem;
+  }
+
+  article strong {
+    color: var(--navy);
+    font-weight: 500;
+  }
+</style>

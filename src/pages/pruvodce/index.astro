@@ -1,0 +1,62 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import { getCollection } from 'astro:content';
+
+const guides = await getCollection('guides');
+const sortedGuides = guides.sort((a, b) => b.data.published.getTime() - a.data.published.getTime());
+
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/pruvodce/`;
+
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Průvodce koupí u moře",
+  "itemListElement": sortedGuides.map((guide, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": guide.data.title,
+    "url": `${siteUrl}/pruvodce/${guide.slug}/`
+  }))
+}];
+---
+
+<SiteLayout 
+  title="Průvodce nákupem nemovitosti u moře"
+  description="Kompletní průvodce nákupem nemovitosti u moře. Vše, co potřebujete vědět před investicí."
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section style="padding:64px 0 24px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <h1 style="font-size:44px;line-height:1.05;margin:0 0 14px;">Průvodce nákupem nemovitosti u moře</h1>
+      <p class="muted" style="font-size:18px;line-height:1.75;margin:0;max-width:68ch;">
+        Kompletní průvodce, který vás provede celým procesem nákupu nemovitosti u moře.
+      </p>
+    </div>
+  </section>
+
+  <section style="padding:42px 0 64px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+        {sortedGuides.map((guide) => (
+          <a class="focus-ring" href={`/pruvodce/${guide.slug}/`} style="border:1px solid var(--line);border-radius:var(--radius);padding:18px;background:rgba(255,255,255,.35);">
+            <div style="font-family:'Playfair Display',serif;font-size:18px;line-height:1.25;">{guide.data.title}</div>
+            <p class="muted" style="margin:10px 0 0;line-height:1.8;">{guide.data.description}</p>
+            <div style="margin-top:12px;font-size:12px;color:var(--slate);">
+              {guide.data.published.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</SiteLayout>
+
+<style>
+  @media (max-width: 900px) {
+    section div[style*="repeat(3,1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

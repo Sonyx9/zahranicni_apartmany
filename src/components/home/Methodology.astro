@@ -1,0 +1,181 @@
+---
+const sectionTitle = "Jak vybíráme nemovitosti u moře";
+const sectionIntro = "Neprodáváme katalog. Vybíráme nemovitosti u moře, které dávají dlouhodobý investiční i životní smysl.";
+
+const blocks = [
+  {
+    title: "Kontext je víc než jen cena",
+    intro: "",
+    introLabel: "U každé nemovitosti sledujeme:",
+    bullets: [
+      "Stabilitu země a právního systému",
+      "Rozvoj infrastruktury (letiště, dálnice, služby)",
+      "Turistickou poptávku a obsazenost",
+      "Dlouhodobou udržitelnost lokality",
+    ],
+    closing: "Investice do apartmánu u moře není jen o výhledu. Je o tom, zda bude lokalita atraktivní i za 10 let.",
+  },
+  {
+    title: "Čitelnost a fakta",
+    intro: "Naše prezentace nemovitostí jsou strukturované a přehledné – pro lidi i vyhledávače.",
+    introLabel: "Uvádíme:",
+    bullets: [
+      "Reálné ceny a poplatky",
+      "Informace o správě nemovitosti",
+      "Možnosti výnosu z pronájmu",
+      "Rizika i omezení dané země",
+    ],
+    closing: "Věříme, že informovaný klient dělá lepší rozhodnutí.",
+  },
+  {
+    title: "Menší výběr, vyšší kvalita",
+    intro: "Nejsme inzertní portál s tisíci nabídkami. Každý apartmán u moře vybíráme selektivně.",
+    introLabel: "Zařazujeme pouze projekty, které splňují:",
+    bullets: [
+      "Investiční potenciál (růst hodnoty / pronájem)",
+      "Transparentní právní strukturu",
+      "Kvalitního developera",
+      "Smysluplnou cenovou hladinu",
+    ],
+    closing: "Raději méně nabídek – ale takových, za které se postavíme.",
+  },
+];
+---
+
+<section class="methodology section-alt" aria-labelledby="methodology-heading">
+  <div class="methodology-inner">
+    <h2 id="methodology-heading" class="methodology-title">{sectionTitle}</h2>
+    <p class="methodology-intro muted">{sectionIntro}</p>
+
+    <div class="methodology-grid-wrap">
+      <div class="methodology-grid">
+        {blocks.map((block) => (
+          <div class="methodology-card">
+          <div class="methodology-card-header">
+            <h3 class="methodology-card-title">{block.title}</h3>
+            {block.intro && <p class="methodology-card-text muted">{block.intro}</p>}
+            {block.introLabel && <p class="methodology-card-label">{block.introLabel}</p>}
+          </div>
+          <ul class="methodology-list">
+            {block.bullets.map((item) => (
+              <li>{item}</li>
+            ))}
+          </ul>
+          <p class="methodology-card-text methodology-card-closing muted">{block.closing}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .methodology {
+    padding: 42px 0 56px;
+  }
+  .methodology-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .methodology-title {
+    font-size: 28px;
+    margin: 0 0 12px;
+  }
+  .methodology-intro {
+    margin: 0;
+    max-width: 68ch;
+    line-height: 1.7;
+    font-size: 15px;
+  }
+  .methodology-grid-wrap {
+    margin-top: 28px;
+    overflow: hidden;
+  }
+  .methodology-grid {
+    margin-top: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    align-items: stretch;
+  }
+  .methodology-card {
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    padding: 22px;
+    background: var(--bg-card);
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .methodology-card-header {
+    min-height: 165px;
+    flex-shrink: 0;
+  }
+  .methodology-card-title {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+    margin: 0 0 12px;
+  }
+  .methodology-card-text {
+    font-size: 14px;
+    line-height: 1.65;
+    margin: 0 0 10px;
+  }
+  .methodology-card-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: inherit;
+    margin: 0 0 8px;
+  }
+  .methodology-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    flex-shrink: 0;
+  }
+  .methodology-list li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 6px;
+  }
+  .methodology-list li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #15803d;
+    font-weight: 600;
+  }
+  .methodology-card-closing {
+    margin-top: auto;
+    margin-bottom: 0;
+  }
+  @media (max-width: 900px) {
+    .methodology-grid-wrap {
+      margin: 28px -20px 0;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 4px 20px 24px;
+    }
+    .methodology-grid-wrap::-webkit-scrollbar {
+      display: none;
+    }
+    .methodology-grid {
+      display: flex;
+      gap: 20px;
+      grid-template-columns: unset;
+      width: max-content;
+    }
+    .methodology-card {
+      flex: 0 0 min(88%, 320px);
+      min-width: 280px;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+    }
+  }
+</style>

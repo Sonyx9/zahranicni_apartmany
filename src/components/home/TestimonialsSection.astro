@@ -1,0 +1,146 @@
+---
+type Testimonial = { quote: string; author: string; location: string };
+type Props = { items: Testimonial[] };
+const { items } = Astro.props;
+const count = items.length;
+---
+
+<section style="padding:42px 0 64px;">
+  <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+    <div class="testimonials-header">
+      <h2 style="font-size:28px;margin:0;">Reference klientů</h2>
+      <a class="focus-ring link-cta" href="https://www.mojenemovitostumore.cz/reference?aff=l4todz91fb" rel="noopener noreferrer">více referencí →</a>
+    </div>
+    <p class="testimonials-intro muted">Koupě apartmánu u moře v zahraničí je velké rozhodnutí. Proto si vážíme důvěry každého klienta, který se rozhodl investovat do nemovitosti s naší pomocí.</p>
+    <div class="testimonials-carousel" data-count={count}>
+      <div class="testimonials-track">
+        {items.map((t, i) => (
+          <blockquote class={`testimonial${i === 0 ? ' is-active' : ''}`} data-index={i} aria-hidden={i !== 0}>
+            <p class="testimonial-quote">"{t.quote}"</p>
+            <footer class="testimonial-author">
+              <strong>{t.author}</strong>
+              <span class="muted">{t.location}</span>
+            </footer>
+          </blockquote>
+        ))}
+      </div>
+      {count > 1 && (
+        <div class="testimonials-dots" role="tablist" aria-label="Výběr reference">
+          {items.map((_, i) => (
+            <button type="button" class="testimonial-dot" data-index={i} aria-label={`Reference ${i + 1}`} aria-selected={i === 0}></button>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .testimonials-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+  .testimonials-intro {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 0 0 24px;
+    max-width: 72ch;
+  }
+  .testimonials-carousel {
+    position: relative;
+    min-height: 180px;
+  }
+  .testimonials-track {
+    position: relative;
+  }
+  .testimonial {
+    margin: 0;
+    padding: 24px 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.4s ease, visibility 0.4s ease;
+  }
+  .testimonial.is-active {
+    position: relative;
+    opacity: 1;
+    visibility: visible;
+  }
+  .testimonial-quote {
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--c-ink, #071A2D);
+    margin: 0 0 16px;
+  }
+  .testimonial-author {
+    font-size: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .testimonial-author strong {
+    font-weight: 500;
+  }
+  .testimonials-dots {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  .testimonial-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: none;
+    background: var(--c-line);
+    cursor: pointer;
+    padding: 0;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+  .testimonial-dot:hover {
+    background: var(--c-sand);
+  }
+  .testimonial-dot[aria-selected="true"] {
+    background: var(--c-gold, #C6A75E);
+    transform: scale(1.2);
+  }
+</style>
+
+<script>
+  (function () {
+    const carousel = document.querySelector('.testimonials-carousel');
+    if (!carousel) return;
+    const count = parseInt(carousel.dataset.count ?? '0', 10);
+    if (count <= 1) return;
+
+    const quotes = carousel.querySelectorAll('.testimonial');
+    const dots = carousel.querySelectorAll('.testimonial-dot');
+    let index = 0;
+    const INTERVAL_MS = 6000;
+
+    function goTo(i) {
+      index = ((i % count) + count) % count;
+      quotes.forEach((el, j) => {
+        el.classList.toggle('is-active', j === index);
+        el.setAttribute('aria-hidden', j !== index ? 'true' : 'false');
+      });
+      dots.forEach((el, j) => el.setAttribute('aria-selected', j === index ? 'true' : 'false'));
+    }
+
+    dots.forEach((btn, i) => {
+      btn.addEventListener('click', () => goTo(i));
+    });
+
+    let timer = setInterval(() => goTo(index + 1), INTERVAL_MS);
+    carousel.addEventListener('mouseenter', () => clearInterval(timer));
+    carousel.addEventListener('mouseleave', () => { timer = setInterval(() => goTo(index + 1), INTERVAL_MS); });
+  })();
+</script>

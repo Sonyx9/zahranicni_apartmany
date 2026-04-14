@@ -1,0 +1,377 @@
+---
+import SiteLayout from '../components/layout/SiteLayout.astro';
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/o-projektu/`;
+const partnerUrl = "https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb";
+
+function telHref(phone: string) {
+  return 'tel:' + phone.replace(/\s/g, '');
+}
+
+const team = [
+  {
+    slug: "adam-kovarik",
+    name: "Mgr. Adam Kovařík",
+    role: "Zakladatel, realitní specialista",
+    image: `${basePath}images/site/team-adam-kovarik.webp`,
+    bio: "Jsem Adam Kovařík a stojím za projektem Kovařík Reality. Moje cesta nezačala v obleku, ale s batohem na zádech – cestováním, které mě naučilo milovat svobodu, objevování a nové začátky.\n\nPrávě díky tomu jsem pochopil, že spousta lidí sní o vlastním apartmánu u moře, ale často neví, kde začít. Proto jsem založil Kovařík Reality – abychom pomohli tenhle sen proměnit ve skutečnost. Jednoduše, férově a bez zbytečného stresu.\n\nDnes s týmem pomáháme lidem najít místo, které pro ně bude víc než jen nemovitostí. Bude to jejich útočiště, investice nebo nový životní styl.",
+    phone: "+420 775 347 915",
+    email: "adam.kovarik@zahranicniapartmany.cz",
+  },
+  {
+    slug: "katerina-holubova",
+    name: "Kateřina Holubová",
+    role: "Klientská podpora",
+    image: `${basePath}images/site/team-katerina-holubova.webp`,
+    bio: "Jmenuji se Kateřina a u nás v Kovařík Reality se starám o to, abyste měli vždycky po ruce někoho, kdo vám poradí, vysvětlí nebo prostě jen zvedne telefon a mluví s vámi jako člověk.\n\nV realitách jsem už přes 15 let a za tu dobu jsem poznala, že každý klient má trochu jiné obavy, otázky i sny. A přesně to mě na téhle práci baví – být tím klidným hlasem na druhém konci, který vás provede každým krokem.\n\nAť už řešíte rezervaci apartmánu, potřebujete se v něčem ujistit, nebo si jen ověřit, že jdete správným směrem – jsem tu pro vás.",
+    phone: "+420 775 347 915",
+    email: "info@zahranicniapartmany.cz",
+  },
+  {
+    slug: "tomas-vavra",
+    name: "Ing. Tomáš Vávra",
+    role: "Realitní analytik",
+    image: `${basePath}images/site/team-tomas-vavra.webp`,
+    bio: "Jsem Tomáš a v Kovařík Reality mám na starosti čísla, trhy a to, aby každá nabídka, kterou vám představíme, dávala smysl i z investičního pohledu.\n\nReality mě baví, protože jsou kombinací emocí a logiky. A právě tu druhou část přináším do týmu já. Sleduji tržní vývoj, porovnávám lokality a hledám příležitosti, které nejsou jen krásné na fotce, ale mají i reálný potenciál růstu.\n\nZa více než deset let v oboru jsem pomáhal vyhodnocovat desítky projektů, ať už pro developery, nebo soukromé investory. Dnes své zkušenosti využívám proto, abyste se mohli rozhodovat chytře – a s klidnou hlavou.",
+    email: "analytik@zahranicniapartmany.cz",
+  },
+  {
+    slug: "lenka-dolezalova",
+    name: "Bc. Lenka Doležalová",
+    role: "Realitní makléřka",
+    image: `${basePath}images/site/team-lenka-dolezalova.webp`,
+    bio: "Jsem Lenka a v Kovařík Reality působím jako realitní makléřka. Mojí hlavní rolí je být vám k dispozici – pomáhat s výběrem apartmánů, odpovídat na dotazy a být po ruce, když potřebujete nasměrovat nebo poradit.\n\nSpolupracuji přímo s Adamem Kovaříkem, od kterého se každý den učím nejen o realitách, ale i o tom, jak ke klientům přistupovat s respektem a lidskostí. Díky tomu vám můžu nabídnout nejen fakta, ale i reálné zkušenosti z praxe.\n\nBaví mě propojovat lidi s místy, kde se budou cítit dobře. Ať už hledáte investici, odpočinek u moře nebo nový životní styl – pomůžu vám najít přesně to, co hledáte.",
+    email: "info@zahranicniapartmany.cz",
+  },
+  {
+    slug: "anna-horakova",
+    name: "Anna Horáková",
+    role: "Asistentka, komunikace",
+    image: `${basePath}images/site/team-anna-horakova.png`,
+    bio: "Jsem Anna a v Kovařík Reality mě nejčastěji potkáte… ve videu.\n\nJsem totiž hlasem a tváří naší komunikace – právě prostřednictvím videí s vámi sdílím novinky, tipy a informace o tom, jak funguje nákup apartmánů v zahraničí.\n\nPomocí moderních technologií se snažíme být co nejblíž – kdykoli, kdekoli, online. Mým úkolem je představit vám naši filozofii jednoduše a lidsky. Tak, abyste se s námi cítili dobře hned od prvního momentu.\n\nBaví mě komunikace, příběhy lidí a jasná sdělení bez zbytečných frází. Pokud se na vás usmívám z obrazovky, věřte, že je to s radostí – a s cílem vám všechno co nejvíc usnadnit.",
+  },
+];
+---
+
+<SiteLayout
+  title="O projektu – Kovařík Reality"
+  description="Jsme Kovařík Reality, tým profesionálů a nadšenců, kteří pomáhají najít ideální apartmány v zahraničí – jednoduše, bezpečně a za férové ceny."
+  canonical={canonical}
+>
+  <section class="page-hero page-hero--compact">
+    <div class="container">
+      <h1 class="page-title">Jednoduše, lidsky, s námi.</h1>
+      <p class="page-lead">
+        Cestování se stalo naší vášní. A z vášně vznikla vize, kterou dnes žijeme.
+      </p>
+    </div>
+  </section>
+
+  <section class="content-section about-intro">
+    <div class="container">
+      <div class="about-intro-grid">
+        <div class="about-intro-text">
+          <p class="body-text">
+            Jsme Kovařík Reality, tým profesionálů a nadšenců, kteří milují cestování, svobodu a příležitosti. Věříme, že každý by měl mít možnost vlastnit kousek světa – a právě to umožňujeme. Na začátku stál náš zakladatel Adam Kovařík, realitní expert, který se rozhodl spojit své zkušenosti s láskou k objevování nových míst. Brzy se k němu přidal silný tým, se kterým dnes pomáháme lidem nacházet ideální apartmány v zahraničí – jednoduše, bezpečně a za férové ceny.
+          </p>
+          <p class="body-text body-text--last">
+            Nejsme klasická realitka. Jsme parta lidí, která ví, jaké to je chtít změnit prostředí, žít u moře, nebo si jen dopřát pravidelný únik od každodenní rutiny. A právě proto děláme všechno pro to, aby se váš sen stal realitou – ať už hledáte druhý domov, chytrou investici, nebo místo pro vysněnou dovolenou.
+          </p>
+        </div>
+        <div class="about-intro-video">
+          <div class="video-wrap">
+            <iframe
+              src="https://www.youtube.com/embed/UnpGjIT7IrA?si=UyMPRRnByVgPQmaw"
+              title="Poznejte nás blíž – Kovařík Reality"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            />
+          </div>
+        </div>
+      </div>
+      <div class="about-intro-full">
+        <h2 class="section-heading">Vaše cesta, naše zkušenosti</h2>
+        <p class="body-text body-text--last">
+          Naším cílem není vám něco „prodat“. Naším posláním je vás inspirovat, poradit a provést vás celým procesem tak, abyste se cítili jistě, bezpečně a pohodlně. Zajistíme vše od výběru nemovitosti, přes rezervaci až po předání klíčů. Vy si jen užíváte cestu. Krok za krokem, s lidským přístupem a profesionálním zázemím.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="nas-tym" class="content-section team-page-section">
+    <div class="container">
+      <h2 class="section-heading">Náš tým</h2>
+      <p class="section-sub">Seznamte se s naším týmem</p>
+      <div class="team-list">
+        {team.map((member) => (
+          <article id={`team-${member.slug}`} class="team-card-page">
+            <div class="team-card-photo">
+              <img src={member.image} alt={member.name} width="400" height="500" loading="lazy" />
+            </div>
+            <div class="team-card-body">
+              <h3 class="team-card-name">{member.name}</h3>
+              <p class="team-card-role">{member.role}</p>
+              <div class="team-card-bio">
+                {member.bio.split('\n\n').map((para) => (
+                  <p>{para}</p>
+                ))}
+              </div>
+              <div class="team-card-contact">
+                {member.phone && (
+                  <p>
+                    <a class="focus-ring" href={telHref(member.phone)}>{member.phone}</a>
+                  </p>
+                )}
+                {member.email && (
+                  <p>
+                    <a class="focus-ring" href={"mailto:" + member.email}>{member.email}</a>
+                  </p>
+                )}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container container-narrow cta-section-inner">
+      <h2 class="section-heading">Ozvěte se nám</h2>
+      <p class="cta-lead">Připraveni udělat první krok?</p>
+      <a class="cta-button focus-ring" href={partnerUrl} rel="noopener nofollow sponsored">Najděte svůj apartmán</a>
+    </div>
+  </section>
+</SiteLayout>
+
+<style>
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .container-narrow {
+    max-width: 900px;
+  }
+  .page-hero {
+    padding: 64px 0 32px;
+  }
+  .page-hero--compact {
+    padding: 48px 0 24px;
+  }
+  .page-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 38px;
+    line-height: 1.15;
+    margin: 0 0 12px;
+    color: var(--c-ink);
+  }
+  .page-lead {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    color: var(--c-slate);
+    max-width: 40ch;
+  }
+  .content-section {
+    padding: 32px 0 48px;
+  }
+  .about-intro {
+    padding: 40px 0 56px;
+  }
+  .about-intro-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 56px;
+    align-items: start;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .about-intro-text {
+    min-width: 0;
+  }
+  .about-intro-full {
+    margin-top: 48px;
+    padding-top: 40px;
+    border-top: 1px solid var(--c-line);
+    max-width: 100%;
+  }
+  .about-intro-full .section-heading {
+    margin-bottom: 0.75rem;
+  }
+  .body-text--last {
+    margin-bottom: 0;
+  }
+  .about-intro-video {
+    min-width: 0;
+    position: sticky;
+    top: 100px;
+  }
+  .video-wrap {
+    aspect-ratio: 16 / 9;
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--c-line);
+    box-shadow: 0 4px 24px rgba(7, 26, 45, 0.08);
+  }
+  .video-wrap iframe {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+  }
+  .body-text {
+    font-size: 17px;
+    line-height: 1.75;
+    margin: 0 0 1.25rem;
+    color: var(--c-ink);
+  }
+  .body-text:last-child,
+  .body-text--last {
+    margin-bottom: 0;
+  }
+  .section-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    margin: 0 0 8px;
+    color: var(--c-ink);
+  }
+  .section-sub {
+    font-size: 16px;
+    color: var(--c-slate);
+    margin: 0 0 32px;
+  }
+  .team-page-section {
+    padding-top: 48px;
+  }
+  .team-list {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+  }
+  .team-card-page {
+    display: grid;
+    grid-template-columns: minmax(280px, 400px) 1fr;
+    gap: 32px;
+    align-items: start;
+  }
+  .team-card-photo {
+    aspect-ratio: 4/5;
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--c-line);
+  }
+  .team-card-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .team-card-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0 0 4px;
+    color: var(--c-ink);
+  }
+  .team-card-role {
+    font-size: 14px;
+    color: var(--c-slate);
+    margin: 0 0 20px;
+  }
+  .team-card-bio {
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--c-ink);
+  }
+  .team-card-bio p {
+    margin: 0 0 1rem;
+  }
+  .team-card-bio p:last-child {
+    margin-bottom: 0;
+  }
+  .team-card-contact {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .team-card-contact p {
+    margin: 0 0 6px;
+  }
+  .team-card-contact a {
+    color: var(--c-gold);
+    text-decoration: none;
+  }
+  .team-card-contact a:hover {
+    text-decoration: underline;
+  }
+  .cta-section {
+    padding: 56px 0 80px;
+    background: var(--bg-section, #F5F2EA);
+  }
+  .cta-section-inner {
+    text-align: center;
+    max-width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cta-section-inner .section-heading {
+    margin-bottom: 8px;
+  }
+  .cta-lead {
+    font-size: 18px;
+    margin: 0 0 20px;
+    color: var(--c-ink);
+  }
+  .cta-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 32px;
+    background: #B8964E;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none !important;
+    border-radius: 999px;
+    transition: background 0.2s ease, color 0.2s ease;
+    box-shadow: 0 2px 12px rgba(184, 150, 78, 0.25);
+  }
+  .cta-button:hover {
+    background: #111111;
+    color: #fff;
+    text-decoration: none !important;
+    box-shadow: 0 4px 16px rgba(17, 17, 17, 0.2);
+  }
+  @media (max-width: 768px) {
+    .page-title {
+      font-size: 32px;
+    }
+    .page-lead {
+      font-size: 18px;
+    }
+    .about-intro-grid {
+      grid-template-columns: 1fr;
+      gap: 32px;
+      max-width: none;
+    }
+    .about-intro-video {
+      position: static;
+    }
+    .about-intro-full {
+      margin-top: 36px;
+      padding-top: 32px;
+    }
+    .team-card-page {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+    .team-card-photo {
+      max-width: 320px;
+      margin: 0 auto;
+    }
+  }
+</style>

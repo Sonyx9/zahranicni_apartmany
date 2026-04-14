@@ -1,0 +1,90 @@
+---
+const sectionTitle = "Jak probíhá koupě apartmánu u moře?";
+const steps = [
+  "Výběr lokality",
+  "Výběr nemovitosti",
+  "Rezervace nemovitosti",
+  "Právní kontrola a kupní smlouva",
+  "Notářský převod a zápis do katastru",
+  "Předání klíčů a případná správa pronájmu",
+];
+---
+<section class="purchase-steps section-alt" aria-labelledby="purchase-steps-heading">
+  <div class="purchase-steps-inner">
+    <h2 id="purchase-steps-heading" class="purchase-steps-title">{sectionTitle}</h2>
+    <ol class="purchase-steps-grid">
+      {steps.map((step, i) => (
+        <li class="purchase-steps-card">
+          <span class="purchase-steps-num" aria-hidden="true">{i + 1}</span>
+          <span class="purchase-steps-text">{step}</span>
+        </li>
+      ))}
+    </ol>
+  </div>
+</section>
+
+<style>
+  .purchase-steps {
+    padding: 48px 0 56px;
+  }
+  .purchase-steps-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .purchase-steps-title {
+    font-size: 28px;
+    margin: 0 0 28px;
+  }
+  .purchase-steps-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .purchase-steps-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    font-size: 15px;
+    line-height: 1.4;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .purchase-steps-card:hover {
+    border-color: var(--c-gold, #b8860b);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  }
+  .purchase-steps-num {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #111111;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .purchase-steps-text {
+    padding-top: 6px;
+    font-weight: 500;
+  }
+  @media (max-width: 900px) {
+    .purchase-steps-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 520px) {
+    .purchase-steps-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

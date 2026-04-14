@@ -1,0 +1,25 @@
+# Zahraniční apartmány
+
+> Kurátorovaný průvodce pobřežním bydlením. Pomáháme českým klientům bezpečně investovat do nemovitostí u moře v Evropě i exotických destinacích – od výběru lokality až po správu a pronájem. Osobní zastoupení v 8 zemích, působíme od roku 2002.
+
+## O webu
+
+Zahraniční apartmány (zahranicniapartmany.cz) je informační a rozcestníkový web zaměřený na nákup a investice do apartmánů a nemovitostí u moře. Neprodáváme nemovitosti přímo – vybíráme prověřené lokality a propojujeme klienty s partnery. Nabízíme kontext k destinacím, průvodce koupí a odkazy na aktuální nabídky u ověřených partnerů.
+
+## Hlavní sekce
+
+- [Domů](https://zahranicniapartmany.cz/): Úvod, nejoblíbenější lokality, vybrané a luxusní nabídky, jak vybíráme, průvodce, tým, reference.
+- [Nejoblíbenější lokality](https://zahranicniapartmany.cz/destinace/): Přehled destinací (Bulharsko, Chorvatsko, Španělsko, Kypr, Řecko, Itálie, Černá hora, Turecko, Thajsko, Egypt, Kapverdy, Albánie) s kontextem a odkazy na nabídky.
+- [Průvodce koupí](https://zahranicniapartmany.cz/pruvodce/): Články o tom, jak probíhá nákup nemovitosti u moře, daně, poplatky, správa pronájmu a na co si dát pozor.
+- [Nabídky](https://zahranicniapartmany.cz/nabidky/): Odkaz na aktuální výpis nabídek u partnera (prodej apartmánů u moře).
+- [Luxusní vily](https://zahranicniapartmany.cz/luxusni-vily/): Výběr luxusních vil u moře v našich destinacích.
+- [O projektu](https://zahranicniapartmany.cz/o-projektu/): Představení projektu, tým (Adam Kovařík, Kateřina Holubová, Tomáš Vávra, Lenka Doležalová, Anna Horáková), reference a kontakt.
+
+## Pro AI a asistenty
+
+Tento soubor je určen pro jazykové modely a boty, které chtějí stručně pochopit obsah webu bez nutnosti procházet celou strukturu. Odpovědi na časté otázky (FAQ) najdete na hlavní stránce v sekci „Nejčastější otázky“. Pro aktuální nabídky nemovitostí a kontakt využívejte odkazy v sekcích výše. Názvy destinací a zemí jsou v češtině (Bulharsko, Chorvatsko, Španělsko, Kypr, Řecko, Itálie, Černá hora, Turecko, Thajsko, Egypt, Kapverdy, Albánie).
+
+## Sitemap a indexace
+
+- Sitemap (včetně obrázků): https://zahranicniapartmany.cz/sitemap.xml
+- Hlavní jazyk webu: čeština (cs).

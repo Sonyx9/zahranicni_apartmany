@@ -1,0 +1,45 @@
+# Denní stažení feedu nemovitostí v 1:00 UTC (= 2:00 SEČ); od této chvíle běží 24h odpočet do další výměny.
+# Při úspěchu zapíše src/data/offers-feed.json, featured-property.json a pushne změny; deploy poběží na push.
+name: Fetch offers feed
+
+on:
+  schedule:
+    # 1:00 UTC = 2:00 SEČ (v zimě); featured Kypr se mění každých 24 h ve 2:00, odpočet od této chvíle
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch offers feed
+        run: npm run fetch-offers
+        env:
+          NODE_OPTIONS: '--max-old-space-size=512'
+
+      - name: Fetch featured property (Kypr)
+        run: npm run fetch-featured
+        env:
+          NODE_OPTIONS: '--max-old-space-size=512'
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/offers-feed.json src/data/offers-luxury.json src/data/featured-property.json
+          git diff --staged --quiet || (git commit -m "chore: update offers feed and featured property" && git push)

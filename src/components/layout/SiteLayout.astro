@@ -1,0 +1,235 @@
+---
+import SEOHead from "../seo/SEOHead.astro";
+import JsonLd from "../seo/JsonLd.astro";
+import Header from "./Header.astro";
+import Footer from "./Footer.astro";
+
+type Props = {
+  title: string;
+  description: string;
+  canonical: string;
+  ogImage?: string;
+  jsonLd?: any[];
+};
+
+const { title, description, canonical, ogImage, jsonLd } = Astro.props;
+---
+<!doctype html>
+<html lang="cs">
+  <head>
+    <SEOHead title={title} description={description} canonical={canonical} ogImage={ogImage} />
+    {jsonLd?.map((d) => <JsonLd data={d} />)}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Playfair+Display:wght@400;500&display=swap" as="style" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet" /></noscript>
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="C3D9DfIedVyJNTx/G3rONw" async></script>
+    <style is:global>
+      :root {
+        --c-ink: #071A2D;
+        --c-ivory: #F5F2EA;
+        --c-sand: #C7B48A;
+        --c-gold: #C6A75E;
+        --c-slate: #4A5568;
+        --c-line: #E7E3DA;
+
+        --bg-page: var(--c-ivory);
+        --bg-section: #F5F2EA;
+        --bg-card: rgba(255, 255, 255, 0.35);
+
+        --btn-primary-bg: #C6A75E;
+        --btn-primary-text: #fff;
+        --btn-primary-hover: #111111;
+        --btn-primary-active: #0a0a0a;
+
+        --btn-secondary-border: #C6A75E;
+        --btn-secondary-color: #C6A75E;
+        --btn-secondary-hover: #111111;
+        --btn-secondary-hover-text: #fff;
+        --btn-secondary-active: #0a0a0a;
+
+        --focus-ring: rgba(199, 180, 138, 0.65);
+        --radius: 18px;
+
+        /* Legacy aliases for backward compatibility */
+        --navy: var(--c-ink);
+        --ivory: var(--c-ivory);
+        --sand: var(--c-sand);
+        --slate: var(--c-slate);
+        --line: var(--c-line);
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        background: var(--bg-page);
+        color: var(--c-ink);
+        font-family: Inter, system-ui, -apple-system, sans-serif;
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        font-family: "Playfair Display", serif;
+        font-weight: 500;
+        letter-spacing: -0.2px;
+        line-height: 1.2;
+        margin: 0;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      a:hover:not(.btn-primary):not(.btn-secondary):not(.link-cta):not(.locality-card-link):not(.nav-cta-btn):not(.nav-link):not(.dropdown-link):not(.site-logo):not(.quick-nav-tab):not(.offer-card-link-wrap):not(.guide-teaser-card):not(.luxury-filter-btn):not(.faq-more):not(.team-card-link):not(.cta-button) {
+        text-decoration: underline;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 4px;
+      }
+
+      .focus-ring:focus-visible {
+        outline: 3px solid var(--focus-ring);
+        outline-offset: 3px;
+        border-radius: 12px;
+      }
+
+      .muted {
+        color: var(--c-slate);
+      }
+
+      .line {
+        border-top: 1px solid var(--c-line);
+      }
+
+      /* CTA Button Classes */
+      .btn-primary {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 20px;
+        background: var(--btn-primary-bg);
+        color: var(--btn-primary-text);
+        border: none;
+        border-radius: 999px;
+        font-size: 14px;
+        font-weight: 500;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+
+      .btn-primary:hover {
+        background: var(--btn-primary-hover);
+        text-decoration: none;
+      }
+
+      .btn-primary:active {
+        background: var(--btn-primary-active);
+      }
+
+      .btn-secondary {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 16px;
+        background: transparent;
+        color: var(--btn-secondary-color);
+        border: 1px solid var(--btn-secondary-border);
+        border-radius: 999px;
+        font-size: 14px;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.2s ease, color 0.2s ease;
+      }
+
+      .btn-secondary:hover {
+        background: var(--btn-secondary-hover);
+        color: var(--btn-secondary-hover-text);
+        text-decoration: none;
+      }
+
+      .btn-secondary:active {
+        background: var(--btn-secondary-active);
+        color: #fff;
+        text-decoration: none;
+      }
+
+      .link-cta {
+        color: #C6A75E;
+        text-decoration: none;
+        font-size: 14px;
+        transition: color 0.2s ease;
+      }
+
+      .link-cta:hover {
+        color: #b3954e;
+        text-decoration: none;
+      }
+
+      .link-cta:visited {
+        color: #7E6A3F;
+      }
+
+      /* Karty nemovitostí – tlačítko „Prohlédnout detail“ ve stejné výšce */
+      .offer-card-link-wrap {
+        display: flex;
+        flex-direction: column;
+      }
+      .offer-card-body {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+      }
+      .offer-card-cta {
+        margin-top: auto;
+        padding-top: 12px;
+      }
+
+      /* Všechny sekce podbarvy #F5F2EA (hero vynecháno – má vlastní úvodní fotku) */
+      main > section:not(.hero-section) {
+        background: var(--bg-section);
+      }
+
+      .section-alt {
+        background: var(--bg-section);
+      }
+
+      main {
+        flex: 1;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      p {
+        margin: 0;
+        line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="focus-ring" href="#content" style="position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;">Přeskočit na obsah</a>
+    <Header />
+    <main id="content">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

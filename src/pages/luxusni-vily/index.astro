@@ -1,0 +1,218 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import FAQ from '../../components/home/FAQ.astro';
+import { getOffersLuxury } from '../../lib/data';
+import countriesData from '../../data/countries.json';
+
+const allOffers = getOffersLuxury();
+const displayCount = 15;
+const offers = allOffers.slice(0, displayCount);
+const hasMore = allOffers.length > displayCount;
+
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/luxusni-vily/`;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+
+const partnerAllUrl = "https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb";
+const partnerRel = "noopener nofollow sponsored";
+
+const countries = countriesData as { slug: string; name: string; partnerOffersUrl?: string }[];
+
+function getImagePath(img: string) {
+  if (img.startsWith('/')) {
+    return `${base}${img.slice(1)}`;
+  }
+  return img;
+}
+
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Luxusní vily u moře",
+  "description": "Výběr luxusních vil u moře v našich destinacích",
+  "itemListElement": offers.map((offer, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": offer.title,
+    "url": offer.url
+  }))
+}];
+
+const faqLuxury = [
+  { q: "Jak vybíráte luxusní vily?", a: "Vybíráme nemovitosti s důrazem na lokalitu, kvalitu zpracování a reálné využití. Preferujeme vily s bazénem, dobrým zázemím a dlouhodobou atraktivitou pro pronájem i vlastní užívání." },
+  { q: "V jakých zemích nabízíte luxusní vily?", a: "Luxusní vily máme v destinacích od Středomoří po exotiku: Chorvatsko, Kypr, Řecko, Španělsko, Turecko, Bulharsko, Černá hora, Thajsko, Egypt, Kapverdy a další." },
+  { q: "Mohu si prohlédnout vily na místě?", a: "Ano. Po výběru konkrétní nemovitosti vás propojíme s partnerem a můžete domluvit prohlídku. Doporučujeme kombinovat s dovolenou v dané lokalitě." },
+];
+---
+
+<SiteLayout 
+  title="Luxusní vily u moře"
+  description="Prohlédněte si výběr luxusních vil u moře v různých destinacích."
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section style="padding:64px 0 24px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <h1 style="font-size:44px;line-height:1.05;margin:0 0 14px;">Luxusní vily</h1>
+      <p class="muted" style="font-size:18px;line-height:1.75;margin:0;max-width:68ch;">
+        Výběr luxusních vil u moře v našich destinacích.
+      </p>
+
+      <!-- Filtr – sbalitelný, tlačítko Vybrat stát -->
+      <details class="luxury-filter" id="luxury-filter-details">
+        <summary class="luxury-filter-trigger focus-ring">
+          <span>Vybrat stát</span>
+          <span class="luxury-filter-chevron" aria-hidden="true">▼</span>
+        </summary>
+        <div class="luxury-filter-inner">
+          <p class="muted luxury-filter-label">Zobrazit nabídky:</p>
+          <div class="luxury-filter-grid">
+            <a class="focus-ring luxury-filter-btn luxury-filter-btn--active" href={`${basePath}luxusni-vily/`}>Všechny vily</a>
+            {countries.map((c) => (
+              <a class="focus-ring luxury-filter-btn" href={c.partnerOffersUrl ?? `${basePath}destinace/${c.slug}/`} rel={c.partnerOffersUrl ? partnerRel : undefined}>
+                {c.name}
+              </a>
+            ))}
+          </div>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <section style="padding:42px 0 32px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      {offers.length > 0 ? (
+        <>
+          <div class="luxury-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+            {offers.map((offer) => (
+              <a class="focus-ring offer-card-link-wrap" href={offer.url} rel={partnerRel} style="border:1px solid var(--c-line);border-radius:var(--radius);overflow:hidden;background:var(--bg-card);display:flex;flex-direction:column;text-decoration:none;color:inherit;">
+                <div style="aspect-ratio:4/3;background:#ddd;flex-shrink:0;">
+                  <img src={getImagePath(offer.image)} alt="Ilustrační fotografie luxusní vily u moře" width="640" height="480" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;" />
+                </div>
+                <div class="offer-card-body" style="padding:14px 14px 16px;">
+                  <div style="font-family:'Playfair Display',serif;font-size:16px;line-height:1.25;">{offer.title}</div>
+                  {offer.price ? (
+                    <div style="margin-top:8px;">
+                      <span class="offer-price">{offer.price}</span>
+                    </div>
+                  ) : null}
+                  <span class="link-cta offer-card-cta" style="display:inline-flex;margin-top:12px;">
+                    Prohlédnout detail nemovitosti →
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+
+          {hasMore && (
+            <div class="luxury-more-cta" style="text-align:center;margin-top:40px;">
+              <a class="focus-ring btn-primary" href={partnerAllUrl} rel={partnerRel}>
+                Prohlédnout více luxusních vil
+              </a>
+            </div>
+          )}
+        </>
+      ) : (
+        <p class="muted" style="text-align:center;padding:4rem 2rem;">Momentálně nemáme žádné dostupné luxusní vily.</p>
+      )}
+    </div>
+  </section>
+
+  <FAQ items={faqLuxury} />
+</SiteLayout>
+
+<style>
+  .luxury-filter {
+    margin-top: 24px;
+  }
+  .luxury-filter-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    border: 1px solid var(--c-line);
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    list-style: none;
+    background: var(--bg-card);
+    color: var(--c-ink);
+    transition: background 0.2s ease, border-color 0.2s ease;
+  }
+  .luxury-filter-trigger::-webkit-details-marker,
+  .luxury-filter-trigger::marker {
+    display: none;
+  }
+  .luxury-filter-trigger:hover {
+    background: rgba(198, 167, 94, 0.15);
+    border-color: #C6A75E;
+  }
+  .luxury-filter-chevron {
+    font-size: 10px;
+    transition: transform 0.25s ease;
+  }
+  .luxury-filter[open] .luxury-filter-chevron {
+    transform: rotate(180deg);
+  }
+  .luxury-filter-inner {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--c-line);
+  }
+  .luxury-filter-label {
+    font-size: 14px;
+    margin: 0 0 12px;
+  }
+  .luxury-filter-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  .luxury-filter-btn {
+    display: block;
+    text-align: center;
+    padding: 10px 16px;
+    border: 1px solid var(--c-line);
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--c-ink);
+    background: var(--bg-card);
+    transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  }
+  .luxury-filter-btn:hover {
+    text-decoration: none;
+    background: #111111;
+    border-color: #111111;
+    color: #fff;
+  }
+  .luxury-filter-btn--active {
+    background: #C6A75E;
+    border-color: #C6A75E;
+    color: #fff;
+  }
+  .luxury-filter-btn--active:hover {
+    background: #111111;
+    border-color: #111111;
+    color: #fff;
+  }
+  .offer-price {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--c-navy, #1a2744);
+  }
+  @media (max-width: 900px) {
+    .luxury-grid {
+      grid-template-columns: 1fr !important;
+    }
+  }
+  @media (max-width: 700px) {
+    .luxury-filter-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

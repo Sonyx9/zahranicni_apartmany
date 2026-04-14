@@ -1,0 +1,93 @@
+---
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const currentYear = new Date().getFullYear();
+---
+
+<footer style="margin-top:80px;background:#111111;color:rgba(245,242,234,.92);">
+  <div style="max-width:1240px;margin:0 auto;padding:48px 20px;display:grid;grid-template-columns:repeat(3,1fr);gap:40px;">
+    <!-- Sloupec 1: O nás -->
+    <div>
+      <h3 style="font-family:'Playfair Display',serif;font-size:20px;font-weight:500;margin:0 0 16px;color:rgba(245,242,234,.92);">O nás</h3>
+      <p style="margin:0 0 18px;color:rgba(245,242,234,.78);line-height:1.7;font-size:15px;">
+        Jsme nadšenci do nemovitostí u moře a naším cílem je pomoci vám najít dostupný apartmán u moře, ať už pro rekreaci, bydlení nebo jako chytrou investici.
+      </p>
+      <div style="display:flex;align-items:center;">
+        <a class="focus-ring" href="https://facebook.com" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;background:#000;border-radius:50%;color:rgba(245,242,234,.92);text-decoration:none;font-size:16px;font-weight:bold;">f</a>
+      </div>
+    </div>
+
+    <!-- Sloupec 2: Důležité odkazy -->
+    <div>
+      <h3 style="font-family:'Playfair Display',serif;font-size:20px;font-weight:500;margin:0 0 16px;color:rgba(245,242,234,.92);">Důležité odkazy</h3>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href="https://www.nemovitostbulharsko.cz/" rel="noopener noreferrer" style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Nemovitosti Bulharsko</a>
+        </li>
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href="https://www.mojenemovitostumore.cz/i7/proces-nakupu-v-bulharsku?aff=l4todz91fb" rel="noopener noreferrer" style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Proces nákupu nemovitosti</a>
+        </li>
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href={`${base}o-projektu/`} style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Reference</a>
+        </li>
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href="https://www.mojenemovitostumore.cz/tipy?countryId=146&aff=l4todz91fb" rel="noopener noreferrer" style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Užitečné informace</a>
+        </li>
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href="https://www.mojenemovitostumore.cz/i5/sluzby?countryId=146&aff=l4todz91fb" rel="noopener noreferrer" style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Poprodejní služby</a>
+        </li>
+        <li style="margin-bottom:10px;">
+          <a class="focus-ring" href="https://www.mojenemovitostumore.cz/i21/garantovany-vynos?aff=l4todz91fb" rel="noopener noreferrer" style="color:rgba(245,242,234,.78);text-decoration:none;font-size:15px;line-height:1.6;display:block;">Garantovaný výnos</a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Sloupec 3: Provozovatel webu -->
+    <div>
+      <h3 style="font-family:'Playfair Display',serif;font-size:20px;font-weight:500;margin:0 0 16px;color:rgba(245,242,234,.92);">Provozovatel webu</h3>
+      <div style="color:rgba(245,242,234,.78);font-size:15px;line-height:1.8;">
+        <p style="margin:0 0 8px;">Adam Kovařík – reality</p>
+        <p style="margin:0 0 8px;">
+          <a class="focus-ring" href="tel:+420775347915" style="color:rgba(245,242,234,.78);text-decoration:none;">+420 775 347 915</a>
+        </p>
+        <p style="margin:0 0 18px;">
+          <a class="focus-ring" href="mailto:info@zahranicniapartmany.cz" style="color:rgba(245,242,234,.78);text-decoration:none;">info@zahranicniapartmany.cz</a>
+        </p>
+      </div>
+      <div style="width:80px;height:80px;border-radius:50%;overflow:hidden;background:#ddd;margin-top:8px;">
+        <img src={`${basePath}images/site/team-adam-kovarik-square.png`} alt="Adam Kovařík" width="80" height="80" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <p>Adam Kovařík – Reality {currentYear} © Všechna práva vyhrazena.</p>
+  </div>
+</footer>
+
+<style>
+  .footer-copyright {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 24px 20px 32px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+  }
+  .footer-copyright p {
+    margin: 0;
+    font-size: 14px;
+    color: rgba(245, 242, 234, 0.65);
+  }
+  footer a:hover {
+    color: var(--c-sand) !important;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+  }
+
+  @media (max-width: 900px) {
+    footer > div {
+      grid-template-columns: 1fr !important;
+      gap: 32px !important;
+    }
+  }
+</style>

@@ -1,0 +1,38 @@
+---
+type Props = {
+  title: string;
+  description: string;
+  canonical: string;
+  ogImage?: string;
+};
+
+const { title, description, canonical, ogImage } = Astro.props;
+
+const siteName = "Coastal Signature";
+const defaultOg = "/images/og-default.jpg";
+const og = ogImage ?? defaultOg;
+const fullOg = og.startsWith('http') ? og : `${Astro.site?.href || ''}${og}`;
+const fullCanonical = canonical.startsWith('http') ? canonical : `${Astro.site?.href || ''}${canonical}`;
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="google-site-verification" content="kgsYdMGXDQ1xQRv7I-l9ehIAh8KlBywzwWxExmUnYxQ" />
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={fullCanonical} />
+
+<meta name="robots" content="index, follow" />
+
+<meta property="og:site_name" content={siteName} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={fullCanonical} />
+<meta property="og:image" content={fullOg} />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={fullOg} />

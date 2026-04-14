@@ -1,0 +1,158 @@
+---
+type Locality = { name: string; description?: string; slug: string; image: string; priceLabel?: string; offersUrl: string };
+type Props = { localities: Locality[] };
+const { localities } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const partnerRel = "noopener nofollow sponsored";
+---
+
+<section class="popular-localities" style="padding: 48px 0;">
+  <div class="popular-localities-inner">
+    <h2 class="popular-localities-title">Nejoblíbenější lokality pro apartmány u moře</h2>
+    <div class="popular-localities-intro">
+      <p class="popular-localities-subtitle">Rostoucí zájem o nemovitosti u moře není náhoda. Čeští investoři dnes hledají kombinaci výnosu z pronájmu, ochrany úspor před inflací a vlastního zázemí u moře.</p>
+      <p class="popular-localities-subtitle">Vybrali jsme destinace, kde dává nákup apartmánu smysl – ekonomicky i životně.</p>
+    </div>
+    <div class="locality-cards-wrap">
+      <div class="locality-cards">
+        {localities.map((loc) => (
+          <a
+            class="focus-ring locality-card locality-card-link"
+            href={loc.offersUrl}
+            rel={loc.offersUrl.startsWith('http') ? partnerRel : undefined}
+          >
+            <div class="locality-card-img-wrap">
+              <img src={loc.image} alt={loc.name} width="400" height="260" loading="lazy" decoding="async" />
+            </div>
+            <div class="locality-card-body">
+              {loc.priceLabel && <div class="locality-card-price muted">{loc.priceLabel}</div>}
+              <div class="locality-card-name">{loc.name}</div>
+              {loc.description && <p class="locality-card-description">{loc.description}</p>}
+              <div class="locality-card-top">
+                <span class="locality-card-discover">Objevte {loc.name} →</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .popular-localities-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .popular-localities-title {
+    font-size: 28px;
+    margin: 0 0 6px;
+  }
+  .popular-localities-intro {
+    margin: 0 0 24px;
+  }
+  .popular-localities-subtitle {
+    font-size: 14px;
+    color: var(--c-slate);
+    margin: 0 0 8px;
+    line-height: 1.6;
+  }
+  .popular-localities-subtitle:last-child {
+    margin-bottom: 0;
+  }
+  .locality-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .locality-card {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+  }
+  .locality-card-img-wrap {
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    background: #ddd;
+  }
+  .locality-card-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    filter: grayscale(100%);
+    transition: filter 0.35s ease;
+  }
+  .locality-card:hover .locality-card-img-wrap img {
+    filter: grayscale(0%);
+  }
+  .locality-card-body {
+    padding: 16px 0 0;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  .locality-card-price {
+    font-size: 12px;
+    margin-bottom: 4px;
+  }
+  .locality-card-name {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  .locality-card-description {
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--c-slate);
+    margin: 10px 0 0;
+  }
+  .locality-card-top {
+    margin-top: auto;
+    padding-top: 12px;
+  }
+  .locality-card-discover {
+    color: #C6A75E;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .locality-card:hover .locality-card-discover {
+    text-decoration: underline;
+  }
+  @media (max-width: 900px) {
+    .popular-localities-inner {
+      padding: 0 24px;
+    }
+    .locality-cards-wrap {
+      margin: 0 -24px;
+      overflow: hidden;
+    }
+    .locality-cards {
+      display: flex;
+      gap: 16px;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 4px 24px 20px;
+    }
+    .locality-cards::-webkit-scrollbar {
+      display: none;
+    }
+    .locality-card {
+      flex: 0 0 min(85%, 320px);
+      min-width: 280px;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+    }
+  }
+</style>

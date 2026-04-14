@@ -1,0 +1,84 @@
+---
+import type { Country } from '../lib/data';
+
+interface Props {
+  country: Country;
+}
+
+const { country } = Astro.props;
+---
+
+<a href={`/destinace/${country.slug}/`} class="country-card">
+  <div class="country-card-image">
+    <img 
+      src={country.heroImage} 
+      alt={`Nemovitosti u moře – ${country.name}`}
+      loading="lazy"
+    />
+    <div class="country-card-overlay">
+      <h3 class="country-card-name">{country.name}</h3>
+    </div>
+  </div>
+</a>
+
+<style>
+  .country-card {
+    display: block;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+  }
+
+  .country-card-image {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+  .country-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .country-card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(7, 26, 45, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease;
+  }
+
+  .country-card:hover .country-card-overlay,
+  .country-card:focus .country-card-overlay {
+    background: rgba(7, 26, 45, 0.4);
+  }
+
+  .country-card-name {
+    font-family: var(--font-heading);
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    font-weight: 400;
+    color: var(--color-ivory);
+    margin: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .country-card:hover .country-card-name,
+  .country-card:focus .country-card-name {
+    opacity: 1;
+  }
+
+  .country-card:focus {
+    outline: 2px solid var(--color-sand);
+    outline-offset: 4px;
+  }
+</style>
+

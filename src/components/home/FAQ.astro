@@ -1,0 +1,156 @@
+---
+type Props = {
+  items: { q: string; a: string }[];
+  sectionTitle?: string;
+  sectionDescription?: string;
+};
+const { items, sectionTitle = "Nejčastější otázky při koupi apartmánu u moře", sectionDescription } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const faqImageUrl = `${basePath}images/site/Anna-otazky-a-odpovedi.png`;
+---
+
+<section id="faq" class="faq-section">
+  <div class="faq-inner">
+    <div class="faq-content">
+      <p class="faq-eyebrow">NEJČASTĚJŠÍ OTÁZKY</p>
+      <h2 class="faq-title">{sectionTitle}</h2>
+      {sectionDescription && <p class="faq-description muted">{sectionDescription}</p>}
+      <div class="faq-accordion">
+        {items.map((it, idx) => (
+          <details class="faq-item">
+            <summary class="focus-ring faq-summary">
+              <span class="faq-question">{it.q}</span>
+              <span class="faq-icon" aria-hidden="true">+</span>
+            </summary>
+            <p class="muted faq-answer faq-answer-text">{it.a}</p>
+          </details>
+        ))}
+      </div>
+      <a class="focus-ring faq-more" href={`${basePath}#faq`}>Více otázek a odpovědí</a>
+    </div>
+    <div class="faq-image-wrap">
+      <img src={faqImageUrl} alt="Nejčastější otázky – konzultace" width="400" height="600" loading="lazy" decoding="async" />
+    </div>
+  </div>
+</section>
+
+<style>
+  .faq-section {
+    background: var(--bg-section);
+    padding: 56px 0;
+  }
+  .faq-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 48px;
+    align-items: stretch;
+  }
+  .faq-eyebrow {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-slate);
+    margin: 0 0 8px;
+  }
+  .faq-title {
+    font-size: 28px;
+    margin: 0 0 12px;
+  }
+  .faq-description {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 0 0 24px;
+    max-width: 68ch;
+  }
+  .faq-accordion {
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.5);
+  }
+  .faq-item {
+    border-bottom: 1px solid var(--c-line);
+  }
+  .faq-item:last-child {
+    border-bottom: none;
+  }
+  .faq-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px 18px;
+    cursor: pointer;
+    font-weight: 500;
+    list-style: none;
+  }
+  .faq-summary::-webkit-details-marker,
+  .faq-summary::marker {
+    display: none;
+  }
+  .faq-question {
+    flex: 1;
+  }
+  .faq-icon {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--c-slate);
+    transition: transform 0.2s ease;
+  }
+  .faq-item[open] .faq-icon {
+    transform: rotate(45deg);
+  }
+  .faq-answer {
+    padding: 0 18px 16px 18px;
+    margin: 0;
+    line-height: 1.8;
+    max-width: 90ch;
+  }
+  .faq-answer-text {
+    white-space: pre-line;
+  }
+  .faq-more {
+    display: inline-block;
+    margin-top: 20px;
+    color: #C6A75E;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .faq-more:hover {
+    text-decoration: none;
+  }
+  .faq-image-wrap {
+    min-height: 320px;
+    height: 100%;
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .faq-image-wrap img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: var(--radius);
+    object-fit: cover;
+    object-position: center top;
+  }
+  @media (max-width: 900px) {
+    .faq-inner {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+    .faq-image-wrap {
+      display: none;
+    }
+  }
+</style>

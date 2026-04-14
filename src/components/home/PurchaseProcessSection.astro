@@ -1,0 +1,198 @@
+---
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+
+const sectionTitle = "Vlastnit apartmán u moře je dnes jednodušší, než si myslíte";
+
+const steps = [
+  {
+    title: "Projděte si nabídku nemovitostí u moře",
+    icon: "search",
+    body: [
+      { type: "p", text: "Pečlivě vybíráme apartmány a byty u moře v Evropě i exotice, které dávají smysl investičně i životně." },
+      { type: "ul", items: ["Prověřené lokality", "Transparentní ceny", "Projekty s potenciálem výnosu z pronájmu", "Možnost osobního užívání"], check: true },
+    ],
+    ctaText: "Prozkoumat nemovitosti",
+    ctaHref: "https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb",
+  },
+  {
+    title: "Poraďte se s experty na zahraniční nemovitosti",
+    icon: "people",
+    body: [
+      { type: "p", text: "Nákup nemovitosti v zahraničí vyžaduje znalost místního trhu, právního systému i daňových pravidel." },
+      { type: "p", text: "Zajistíme pro vás:", class: "list-label" },
+      { type: "ul", items: ["Analýzu investičního potenciálu (ROI)", "Kontrolu katastru a vlastnických vztahů", "Přípravu a kontrolu kupní smlouvy", "Asistenci při převodu vlastnictví"], check: true },
+    ],
+    ctaText: "Kontaktovat tým",
+    ctaHref: `${basePath}o-projektu/#tym`,
+  },
+  {
+    title: "Výnos z pronájmu a ochrana před inflací",
+    icon: "shield",
+    body: [
+      { type: "p", text: "Apartmán u moře může plnit dvojí roli:" },
+      { type: "ul", items: ["generovat výnos z krátkodobého nebo dlouhodobého pronájmu", "chránit kapitál před inflací a oslabením měny"], check: false },
+      { type: "p", text: "V mnoha destinacích je možné využít:", class: "list-label" },
+      { type: "ul", items: ["Kompletní správu nemovitosti", "Marketing a obsazenost přes rezervační platformy", "Servisní balíčky bez starostí"], check: true },
+    ],
+    ctaText: "Jak probíhá celý proces",
+    ctaHref: "https://www.nemovitostbulharsko.cz/category/pruvodce-koupi-nemovitosti-v-bulharsku/",
+  },
+];
+---
+
+<section class="purchase-process" style="padding: 56px 0;">
+  <div class="purchase-process-inner">
+    <h2 class="purchase-process-title">{sectionTitle}</h2>
+    <div class="purchase-process-grid-wrap">
+      <div class="purchase-process-grid">
+        {steps.map((step) => (
+        <div class="purchase-process-card">
+          <div class="purchase-process-icon" aria-hidden="true">
+            {step.icon === "search" && (
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            )}
+            {step.icon === "people" && (
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            )}
+            {step.icon === "shield" && (
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            )}
+          </div>
+          <h3 class="purchase-process-card-title">{step.title}</h3>
+          <div class="purchase-process-card-body">
+            {step.body.map((block) => (
+              block.type === "p" ? (
+                <p class={`purchase-process-card-text muted ${'class' in block ? (block as { class?: string }).class : ''}`.trim()}>{block.text}</p>
+              ) : block.type === "ul" ? (
+                <ul class={block.check ? "purchase-process-list purchase-process-list-check" : "purchase-process-list"}>
+                  {block.items.map((item) => (
+                    <li>{item}</li>
+                  ))}
+                </ul>
+              ) : null
+            ))}
+          </div>
+          <a class="focus-ring purchase-process-cta" href={step.ctaHref} rel={step.ctaHref.startsWith('http') ? 'noopener nofollow sponsored' : undefined}>
+            {step.ctaText} →
+          </a>
+        </div>
+      ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .purchase-process-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .purchase-process-title {
+    font-size: 28px;
+    margin: 0 0 28px;
+  }
+  .purchase-process-grid-wrap {
+    overflow: hidden;
+  }
+  .purchase-process-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+  }
+  .purchase-process-card {
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: var(--radius);
+    display: flex;
+    flex-direction: column;
+  }
+  .purchase-process-icon {
+    color: #111111;
+    margin-bottom: 14px;
+  }
+  .purchase-process-icon svg {
+    display: block;
+  }
+  .purchase-process-card-title {
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  .purchase-process-card-body {
+    flex: 1;
+    margin-bottom: 16px;
+  }
+  .purchase-process-card-body .purchase-process-card-text {
+    font-size: 14px;
+    line-height: 1.65;
+    margin: 0 0 12px;
+  }
+  .purchase-process-card-body .purchase-process-card-text.list-label {
+    margin-bottom: 6px;
+    font-weight: 500;
+    color: inherit;
+  }
+  .purchase-process-list {
+    padding-left: 1.25em;
+    margin: 0 0 12px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .purchase-process-list:not(.purchase-process-list-check) {
+    list-style-type: disc;
+  }
+  .purchase-process-list-check {
+    list-style: none;
+    padding-left: 0;
+  }
+  .purchase-process-list li {
+    position: relative;
+    margin-bottom: 6px;
+  }
+  .purchase-process-list-check li {
+    padding-left: 1.5em;
+  }
+  .purchase-process-list-check li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #15803d;
+    font-weight: 600;
+  }
+  .purchase-process-cta {
+    margin-top: auto;
+    color: #111111;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .purchase-process-cta:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 900px) {
+    .purchase-process-grid-wrap {
+      margin: 0 -24px;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 4px 24px 20px 24px;
+    }
+    .purchase-process-grid-wrap::-webkit-scrollbar {
+      display: none;
+    }
+    .purchase-process-grid {
+      display: flex;
+      gap: 20px;
+      grid-template-columns: unset;
+      width: max-content;
+    }
+    .purchase-process-card {
+      flex: 0 0 min(88%, 340px);
+      min-width: 300px;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+    }
+  }
+</style>

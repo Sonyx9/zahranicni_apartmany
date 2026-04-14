@@ -1,0 +1,172 @@
+---
+type Offer = {
+  id: string;
+  title: string;
+  country: string;
+  price?: string;
+  image: string;
+  url: string;
+};
+type Props = {
+  offers: Offer[];
+  sectionTitle?: string;
+  sectionDescription?: string;
+  viewAllHref?: string;
+  limit?: number;
+};
+const { offers, sectionTitle = "Vybrané nemovitosti", sectionDescription, viewAllHref = "https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb", limit = 9 } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const displayOffers = offers.slice(0, limit);
+
+function safeRel() {
+  return "noopener nofollow sponsored";
+}
+
+function getImagePath(img: string) {
+  if (img.startsWith('/')) {
+    return `${base}${img.slice(1)}`;
+  }
+  return img;
+}
+---
+
+<section style="padding:42px 0 64px;">
+  <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+    <div class="featured-offers-header">
+      <h2 class="featured-offers-title">{sectionTitle}</h2>
+      <a class="focus-ring link-cta featured-offers-desktop-cta" href={viewAllHref} rel="noopener nofollow sponsored">Více nemovitostí →</a>
+    </div>
+    {sectionDescription && (
+      <p class="featured-offers-description">{sectionDescription}</p>
+    )}
+
+    <div class="featured-offers-grid">
+      {displayOffers.map((o) => (
+        <a class="focus-ring offer-card-link-wrap" href={o.url} rel={safeRel()}>
+          <div class="offer-card-img-wrap">
+            <img src={getImagePath(o.image)} alt="Ilustrační fotografie nemovitosti u moře" width="640" height="480" loading="lazy" decoding="async" />
+          </div>
+          <div class="offer-card-body">
+            <div class="offer-card-title">{o.title}</div>
+            {o.price ? (
+              <div class="offer-card-price-wrap">
+                <span class="offer-price">{o.price}</span>
+              </div>
+            ) : null}
+            <span class="link-cta offer-card-cta">Prohlédnout detail nemovitosti →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <p class="featured-offers-mobile-cta">
+      <a class="focus-ring btn-more-offers" href={viewAllHref} rel="noopener nofollow sponsored">Další apartmány</a>
+    </p>
+  </div>
+</section>
+
+<style>
+  .featured-offers-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .featured-offers-title {
+    font-size: 28px;
+    margin: 0;
+  }
+  .featured-offers-description {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--c-slate);
+    margin: 12px 0 0;
+    max-width: 72ch;
+  }
+  .featured-offers-grid {
+    margin-top: 18px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+  .offer-card-link-wrap {
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--bg-card);
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+  }
+  .offer-card-img-wrap {
+    aspect-ratio: 4/3;
+    background: #ddd;
+    flex-shrink: 0;
+  }
+  .offer-card-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .offer-card-body {
+    padding: 14px 14px 16px;
+  }
+  .offer-card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+  .offer-card-price-wrap {
+    margin-top: 8px;
+  }
+  .offer-price {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--c-navy, #1a2744);
+  }
+  .offer-card-cta {
+    display: inline-flex;
+    margin-top: 12px;
+  }
+  .featured-offers-mobile-cta {
+    display: none;
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .btn-more-offers {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 24px;
+    background: #C6A75E;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 999px;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  .btn-more-offers:hover {
+    background: #111111;
+    color: #fff;
+  }
+  @media (max-width: 900px) {
+    .featured-offers-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .featured-offers-grid .offer-card-link-wrap:nth-child(n+9) {
+      display: none;
+    }
+    .featured-offers-desktop-cta {
+      display: none;
+    }
+    .featured-offers-mobile-cta {
+      display: block;
+    }
+  }
+</style>

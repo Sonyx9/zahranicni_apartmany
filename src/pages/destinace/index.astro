@@ -1,0 +1,39 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import DestinationGrid from '../../components/home/DestinationGrid.astro';
+import { getCountries } from '../../lib/data';
+
+const countries = getCountries();
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/destinace/`;
+
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Destinace",
+  "itemListElement": countries.map((country, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": country.name,
+    "url": `${siteUrl}/destinace/${country.slug}/`
+  }))
+}];
+---
+
+<SiteLayout 
+  title="Destinace – Nemovitosti u moře"
+  description="Prozkoumejte všechny destinace, kde nabízíme nemovitosti u moře. Od Španělska po Maltu."
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section style="padding:64px 0 24px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <h1 style="font-size:44px;line-height:1.05;margin:0 0 14px;">Destinace</h1>
+      <p class="muted" style="font-size:18px;line-height:1.75;margin:0;max-width:68ch;">
+        Vyberte si z našich destinací a objevte nemovitosti u moře v nejkrásnějších místech Evropy.
+      </p>
+    </div>
+  </section>
+
+  <DestinationGrid countries={countries} />
+</SiteLayout>

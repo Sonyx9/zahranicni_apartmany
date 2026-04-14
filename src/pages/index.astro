@@ -1,0 +1,201 @@
+---
+import SiteLayout from "../components/layout/SiteLayout.astro";
+import Hero from "../components/home/Hero.astro";
+import PopularLocalitiesSection from "../components/home/PopularLocalitiesSection.astro";
+import PurchaseProcessSection from "../components/home/PurchaseProcessSection.astro";
+import DestinationGrid from "../components/home/DestinationGrid.astro";
+import Methodology from "../components/home/Methodology.astro";
+import FAQ from "../components/home/FAQ.astro";
+import GuideTeasers from "../components/home/GuideTeasers.astro";
+import FeaturedOffers from "../components/home/FeaturedOffers.astro";
+import PurchaseStepsSection from "../components/home/PurchaseStepsSection.astro";
+import TeamSection from "../components/home/TeamSection.astro";
+import TestimonialsSection from "../components/home/TestimonialsSection.astro";
+
+import { getCollection } from 'astro:content';
+import countriesData from "../data/countries.json";
+import { getOffersForHomepage, getOffersLuxuryForHomepage, getFeaturedProperties } from "../lib/data";
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const countries = countriesData as { slug: string; name: string; heroImage?: string; partnerOffersUrl?: string }[];
+
+const popularSlugs = ['bulharsko', 'chorvatsko', 'spanelsko'];
+const popularTitles: Record<string, string> = {
+  bulharsko: 'Nemovitost Bulharsko',
+  chorvatsko: 'Apartmán u moře Chorvatsko',
+  spanelsko: 'Nemovitost Španělsko u moře',
+};
+const popularDescriptions: Record<string, string> = {
+  bulharsko: 'Bulharsko patří mezi cenově nejdostupnější destinace v Evropě, kde můžete koupit nemovitost u moře s potenciálem výnosu i osobního využití.',
+  chorvatsko: 'Apartmány u moře v Chorvatsku patří mezi nejvyhledávanější. Blízkost autem, euro, silná turistická sezóna.',
+  spanelsko: 'Nemovitosti u moře ve Španělsku nabízejí 300+ slunečných dní ročně. Costa del Sol, Costa Blanca i ostrovy.',
+};
+const popularCountries = countries.filter((c) => popularSlugs.includes(c.slug));
+const localities = popularCountries.map((c) => ({
+  name: popularTitles[c.slug] ?? c.name,
+  description: popularDescriptions[c.slug],
+  slug: c.slug,
+  image: c.heroImage?.startsWith('/') ? `${basePath}${c.heroImage.slice(1)}` : (c.heroImage ?? `${basePath}images/hero/ocean-horizon.jpg`),
+  priceLabel: undefined,
+  offersUrl: c.partnerOffersUrl ?? `${basePath}destinace/${c.slug}/`,
+}));
+const offersGlobal = getOffersForHomepage();
+const offersLuxury = getOffersLuxuryForHomepage();
+const featuredProperties = getFeaturedProperties();
+
+// Get guides from Content Collections
+const guidesCollection = await getCollection('guides');
+const guides = guidesCollection
+  .sort((a, b) => b.data.published.getTime() - a.data.published.getTime())
+  .slice(0, 3)
+  .map(guide => ({
+    slug: guide.slug,
+    title: guide.data.title,
+    description: guide.data.description
+  }));
+
+const faqDescription = "Investice do nemovitosti u moře přináší nejen radost, ale i řadu praktických otázek. Níže odpovídáme na ty nejčastější, které řeší naši klienti před nákupem.";
+
+const faq = [
+  {
+    q: "Jak probíhá koupě apartmánu u moře v zahraničí?",
+    a: "Proces obvykle zahrnuje:\n\nVýběr lokality a konkrétní nemovitosti\nRezervační smlouvu\nPrávní kontrolu (katastr, vlastnické vztahy)\nPodpis kupní smlouvy\nNotářský převod a zápis do registru nemovitostí\n\nV každé zemi se detaily liší, proto zajišťujeme kompletní právní servis a místní zastoupení.",
+  },
+  {
+    q: "Je nákup nemovitosti u moře bezpečný?",
+    a: "Ano, pokud je správně ošetřen právně i smluvně.\n\nKaždou nemovitost v zahraničí prověřujeme z hlediska:\nvlastnického práva\ndeveloperské historie\nstavebního povolení\nzávazků a omezení\n\nBez právní kontroly doporučujeme do nákupu nikdy nevstupovat.",
+  },
+  {
+    q: "Jaký může být výnos z pronájmu apartmánu u moře?",
+    a: "Výnos závisí na:\nlokalitě\nsezónnosti\ntypu nemovitosti\nsprávě a marketingu\n\nV turisticky silných oblastech může krátkodobý pronájem pokrýt náklady na provoz a přinášet zajímavý sezónní příjem. Každý projekt ale posuzujeme individuálně – negarantujeme nereálné výnosy.",
+  },
+  {
+    q: "Lze koupit apartmán u moře na hypotéku?",
+    a: "Ano, ale možnosti financování se liší podle země.\n\nMožnosti:\nhypotéka v ČR se zástavou jiné nemovitosti\nfinancování přímo v dané zemi\nkombinace vlastních zdrojů a bankovního úvěru\n\nKonkrétní řešení vždy navrhujeme podle rozpočtu a cíle klienta.",
+  },
+  {
+    q: "Jaké jsou daně a poplatky při koupi nemovitosti v zahraničí?",
+    a: "Každá země má jiný systém.\n\nObvykle počítejte s:\ndaní z převodu nemovitosti\nnotářskými poplatky\nzápisem do katastru\npřípadnou roční daní z nemovitosti\n\nPřesnou kalkulaci vždy připravíme před podpisem smlouvy.",
+  },
+  {
+    q: "Musím se starat o správu a pronájem osobně?",
+    a: "Ne. Ve většině destinací je možné využít:\nmístní správu nemovitosti\núklidový servis\nmarketing přes rezervační platformy\nkompletní provozní servis\n\nInvestice do apartmánu u moře tak může být pasivní.",
+  },
+  {
+    q: "Která země je nejlepší pro investici do nemovitosti u moře?",
+    a: "Neexistuje univerzální odpověď.\n\nZáleží na:\nrozpočtu\nočekávaném výnosu\nochotě podstoupit riziko\npreferenci životního stylu\n\nKonzervativní investoři často volí Chorvatsko nebo Španělsko. Dynamický růstový potenciál může nabídnout Albánie nebo Černá Hora.",
+  },
+];
+
+const teamMembers = [
+  { name: "Mgr. Adam Kovařík", role: "Realitní makléř", image: `${basePath}images/site/team-adam-kovarik.webp`, slug: "adam-kovarik" },
+  { name: "Kateřina Holubová", role: "Klientská podpora", image: `${basePath}images/site/team-katerina-holubova.webp`, slug: "katerina-holubova" },
+  { name: "Ing. Tomáš Vávra", role: "Realitní analytik", image: `${basePath}images/site/team-tomas-vavra.webp`, slug: "tomas-vavra" },
+  { name: "Lenka Doležalová", role: "Realitní makléř", image: `${basePath}images/site/team-lenka-dolezalova.webp`, slug: "lenka-dolezalova" },
+  { name: "Anna Horáková", role: "Asistentka", image: `${basePath}images/site/team-anna-horakova.png`, slug: "anna-horakova" },
+];
+
+const testimonials = [
+  {
+    quote: "Rádi bychom poděkovali týmu Zahraniční apartmány, a především skvělému Tomáši Vávrovi, za perfektní spolupráci při koupi našeho apartmánu na Slunečním pobřeží v Bulharsku. Celý proces proběhl naprosto hladce – od prvního kontaktu až po předání klíčů. Vše bylo skvěle zorganizované, rychlé, přehledné a hlavně bez stresu. Tomáš nám pomohl vybrat přesně to, co jsme hledali, a na místě nám poskytl veškerou podporu a cenné rady. Velmi oceňujeme lidský přístup, ochotu a spolehlivost. Díky jeho profesionálnímu vedení jsme se po celou dobu cítili jistě a v dobrých rukou. Dnes už si užíváme náš nový apartmán kousek od pláže a jsme maximálně spokojení. Děkujeme za skvělý servis!",
+    author: "Petra Benešová",
+    location: "Plzeň",
+  },
+  {
+    quote: "S panem Adamem Kovaříkem jsme koupili apartmán v Albánii a od začátku až do konce to byla skvělá zkušenost. Přestože jsme měli spoustu otázek a obav spojených s koupí nemovitosti v zahraničí, díky jeho profesionálnímu přístupu vše proběhlo hladce, srozumitelně a bez stresu. Pan Kovařík měl perfektní přehled o trhu, nabídl nám ověřené nemovitosti, vše trpělivě vysvětlil a byl kdykoliv připraven poradit. Oceňujeme jeho ochotu, férové jednání a maximální péči o klienta. Dnes jsme hrdými majiteli krásného apartmánu v Albánii, který využíváme jak pro vlastní odpočinek, tak i jako investici. Děkujeme za skvělou spolupráci a Zahraniční apartmány můžeme s jistotou doporučit každému, kdo hledá bezpečnou a výhodnou investici v zahraničí.",
+    author: "Jana a Tomáš Novotní",
+    location: "Brno",
+  },
+  {
+    quote: "Koupě apartmánu na Kypru přes pana Kovaříka byla naprosto bezproblémová. Všechno bylo srozumitelně vysvětlené, komunikace vynikající a předání klíčů proběhlo přesně podle plánu. Doporučuji.",
+    author: "Martin Dvořák",
+    location: "Kypr",
+  },
+];
+
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/`;
+
+// JSON-LD: WebSite + Organization + FAQPage (home FAQ je viditelná)
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Coastal Signature",
+    url: canonical,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Coastal Signature",
+    url: canonical,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faq.map((x) => ({
+      "@type": "Question",
+      name: x.q,
+      acceptedAnswer: { "@type": "Answer", text: x.a },
+    })),
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: "Jak probíhá koupě apartmánu u moře?",
+    step: [
+      { "@type": "HowToStep", name: "Výběr lokality" },
+      { "@type": "HowToStep", name: "Výběr nemovitosti" },
+      { "@type": "HowToStep", name: "Rezervace nemovitosti" },
+      { "@type": "HowToStep", name: "Právní kontrola a kupní smlouva" },
+      { "@type": "HowToStep", name: "Notářský převod a zápis do katastru" },
+      { "@type": "HowToStep", name: "Předání klíčů a případná správa pronájmu" },
+    ],
+  },
+];
+
+const title = "Apartmány u moře | Investiční nemovitosti v zahraničí";
+const description = "Prodej apartmánů u moře v Evropě i exotice. Bezpečná investice do nemovitosti v zahraničí s možností výnosu z pronájmu.";
+---
+
+<SiteLayout title={title} description={description} canonical={canonical} jsonLd={jsonLd}>
+  <Hero
+    overTitle="Zahraniční apartmány"
+    title="Apartmány u moře jako investice i druhý domov"
+    subtitle="Vyberte si prověřené apartmány u moře v Evropě i exotice. Pomáháme českým klientům bezpečně investovat do nemovitostí v zahraničí – od výběru až po správu a pronájem."
+    ctaHref="https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb"
+    ctaText="Aktuální nabídka"
+    featuredProperties={featuredProperties}
+  />
+
+  <PopularLocalitiesSection localities={localities} />
+  <PurchaseProcessSection />
+  <PurchaseStepsSection />
+
+  <FeaturedOffers
+    offers={offersGlobal}
+    sectionTitle="Vybrané apartmány a nemovitosti u moře"
+    sectionDescription="Objevte aktuálně dostupné apartmány a nemovitosti u moře v nejžádanějších evropských i exotických destinacích. Každý projekt pečlivě vybíráme s ohledem na lokalitu, investiční potenciál a dlouhodobou hodnotu."
+  />
+
+  <Methodology />
+
+  <DestinationGrid countries={countries} />
+
+  <FAQ items={faq} sectionDescription={faqDescription} />
+
+  {offersLuxury.length > 0 && (
+    <FeaturedOffers
+      offers={offersLuxury}
+      sectionTitle="Luxusní nemovitosti u moře"
+      sectionDescription="Naše luxusní apartmány a vily u moře představují výběr prémiových nemovitostí v Evropě i exotických destinacích. Každý projekt spojuje architekturu, soukromí a dlouhodobou hodnotu."
+      limit={6}
+    />
+  )}
+
+  <GuideTeasers guides={guides} />
+
+  <TeamSection members={teamMembers} />
+  <TestimonialsSection items={testimonials} />
+</SiteLayout>

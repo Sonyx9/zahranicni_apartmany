@@ -1,0 +1,517 @@
+---
+import { getCountries } from '../../lib/data';
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const countries = getCountries();
+const partnerRel = "noopener nofollow sponsored";
+
+const nav = [
+  { href: `${basePath}luxusni-vily/`, label: "Luxusní vily" },
+  { href: `${basePath}destinace/`, label: "Nejoblíbenější lokality", hasDropdown: true },
+  { href: "https://www.nemovitostbulharsko.cz/category/pruvodce-koupi-nemovitosti-v-bulharsku/", label: "Průvodce", rel: "noopener noreferrer" },
+  { href: `${basePath}o-projektu/`, label: "O projektu" },
+  { href: "https://www.mojenemovitostumore.cz/reference?aff=l4todz91fb", label: "Reference", rel: partnerRel },
+  { href: "https://www.mojenemovitostumore.cz/i1/kontakt?aff=l4todz91fb", label: "Kontakt", rel: partnerRel },
+];
+const ctaUrl = "https://www.mojenemovitostumore.cz/nemovitosti?relation_type=1&do=advertList-searchForm-submit&aff=l4todz91fb";
+---
+
+<header class="site-header" id="site-header">
+  <div class="header-inner">
+    <a class="focus-ring site-logo" href={basePath}>
+      <img src={`${basePath}images/site/logo.png`} alt="" width="154" height="46" class="logo-img" decoding="async" fetchpriority="high" />
+      <span class="logo-text">Adam Kovařík</span>
+    </a>
+    <a class="focus-ring nav-cta-btn nav-cta-mobile" href={ctaUrl} rel={partnerRel}>Najít apartmán</a>
+    <button type="button" class="focus-ring hamburger-btn" id="hamburger-btn" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobile-menu">
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+    </button>
+    <nav class="nav-desktop" aria-label="Hlavní navigace">
+      <ul class="nav-list">
+        {nav.map((i) => (
+          i.hasDropdown ? (
+            <li class="nav-item-dropdown">
+              <a class="focus-ring nav-link" href={i.href} aria-haspopup="true" aria-expanded="false" aria-controls="destinace-menu">{i.label}</a>
+              <ul class="dropdown" id="destinace-menu" role="menu">
+                {countries.map((c) => (
+                  <li role="none">
+                    {c.partnerOffersUrl ? (
+                      <a class="focus-ring dropdown-link" href={c.partnerOffersUrl} rel={partnerRel} role="menuitem">{c.name}</a>
+                    ) : (
+                      <a class="focus-ring dropdown-link" href={`${basePath}destinace/${c.slug}/`} role="menuitem">{c.name}</a>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : (
+            <li><a class="focus-ring nav-link" href={i.href} rel={i.rel}>{i.label}</a></li>
+          )
+        ))}
+        <li class="nav-cta">
+          <a class="focus-ring nav-cta-btn" href={ctaUrl} rel={partnerRel}>
+            Najít apartmán
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+    <div class="mobile-menu-header">
+      <button type="button" class="focus-ring mobile-menu-close" id="mobile-menu-close" aria-label="Zavřít menu">
+        <span class="close-icon" aria-hidden="true">
+          <span class="close-line"></span>
+          <span class="close-line"></span>
+        </span>
+      </button>
+    </div>
+    <nav aria-label="Mobilní navigace" class="mobile-menu-nav">
+      <ul class="mobile-nav-list">
+        {nav.map((i) => (
+          i.hasDropdown ? (
+            <li>
+              <a class="focus-ring mobile-nav-link" href={i.href}>{i.label}</a>
+              <ul class="mobile-dropdown-list">
+                {countries.map((c) => (
+                  <li>
+                    {c.partnerOffersUrl ? (
+                      <a class="focus-ring mobile-nav-link mobile-sublink" href={c.partnerOffersUrl} rel={partnerRel}>{c.name}</a>
+                    ) : (
+                      <a class="focus-ring mobile-nav-link mobile-sublink" href={`${basePath}destinace/${c.slug}/`}>{c.name}</a>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : (
+            <li><a class="focus-ring mobile-nav-link" href={i.href} rel={i.rel}>{i.label}</a></li>
+          )
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  (function () {
+    const header = document.getElementById('site-header');
+    if (header) {
+      const toggleSticky = () => {
+        header.classList.toggle('is-sticky', window.scrollY > 20);
+      };
+      toggleSticky();
+      window.addEventListener('scroll', toggleSticky, { passive: true });
+    }
+    function closeMobileMenu() {
+      const mobileMenu = document.getElementById('mobile-menu');
+      const hamburger = document.getElementById('hamburger-btn');
+      if (mobileMenu && hamburger) {
+        mobileMenu.setAttribute('aria-hidden', 'true');
+        hamburger.setAttribute('aria-expanded', 'false');
+        hamburger.setAttribute('aria-label', 'Otevřít menu');
+        document.body.classList.remove('mobile-menu-open');
+      }
+    }
+    function openMobileMenu() {
+      const mobileMenu = document.getElementById('mobile-menu');
+      const hamburger = document.getElementById('hamburger-btn');
+      if (mobileMenu && hamburger) {
+        mobileMenu.setAttribute('aria-hidden', 'false');
+        hamburger.setAttribute('aria-expanded', 'true');
+        hamburger.setAttribute('aria-label', 'Zavřít menu');
+        document.body.classList.add('mobile-menu-open');
+      }
+    }
+    const hamburger = document.getElementById('hamburger-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const mobileMenuClose = document.getElementById('mobile-menu-close');
+    if (hamburger && mobileMenu) {
+      hamburger.addEventListener('click', function () {
+        const isMenuOpen = mobileMenu.getAttribute('aria-hidden') !== 'true';
+        if (isMenuOpen) closeMobileMenu(); else openMobileMenu();
+      });
+      if (mobileMenuClose) {
+        mobileMenuClose.addEventListener('click', closeMobileMenu);
+      }
+      mobileMenu.querySelectorAll('.mobile-nav-link').forEach(function (link) {
+        link.addEventListener('click', closeMobileMenu);
+      });
+    }
+  })();
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: transparent;
+    border-bottom: 1px solid transparent;
+    transition: background-color 0.25s ease, border-color 0.25s ease;
+  }
+  .site-header.is-sticky {
+    background-color: #111111;
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+  }
+  .header-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  :global(body.mobile-menu-open) {
+    overflow: hidden;
+  }
+  .site-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+  }
+  .logo-img {
+    height: 46px;
+    width: auto;
+    object-fit: contain;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .site-header .logo-text,
+  .site-header .nav-link {
+    color: var(--c-ink);
+    transition: color 0.25s ease;
+  }
+  .site-header .nav-link:hover {
+    color: var(--c-ink);
+    background: rgba(7, 26, 45, 0.06);
+  }
+  .site-header.is-sticky .logo-img {
+    filter: brightness(0) invert(1);
+  }
+  .site-header.is-sticky .logo-text,
+  .site-header.is-sticky .nav-link {
+    color: rgba(255, 255, 255, 0.9);
+  }
+  .site-header.is-sticky .nav-link:hover {
+    color: #fff;
+    background: rgba(255, 255, 255, 0.08);
+  }
+  .logo-text {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .nav-link {
+    font-size: 14px;
+    padding: 8px 10px;
+    border-radius: 12px;
+    text-decoration: none;
+    display: block;
+  }
+  .nav-item-dropdown {
+    position: relative;
+  }
+  .nav-item-dropdown .dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    margin: 4px 0 0;
+    padding: 8px 0;
+    list-style: none;
+    background: var(--c-ivory);
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 24px rgba(7, 26, 45, 0.08);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4px);
+    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  }
+  .site-header.is-sticky .nav-item-dropdown .dropdown {
+    background: #111111;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+  .nav-item-dropdown:hover .dropdown,
+  .nav-item-dropdown:focus-within .dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .dropdown-link {
+    display: block;
+    padding: 10px 16px;
+    font-size: 14px;
+    color: var(--c-ink);
+    text-decoration: none;
+  }
+  .site-header.is-sticky .dropdown-link {
+    color: rgba(255, 255, 255, 0.9);
+  }
+  .dropdown-link:hover {
+    background: var(--bg-card);
+    color: var(--c-gold);
+  }
+  .site-header.is-sticky .dropdown-link:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+  }
+  /* Na PC skrýt celé mobilní menu – má se zobrazovat jen na mobilu */
+  .mobile-menu {
+    display: none !important;
+  }
+  /* Pouze mobil: na PC skrýt mobilní CTA a hamburger, aby PC zůstalo beze změny */
+  .nav-cta-mobile,
+  .hamburger-btn {
+    display: none !important;
+    visibility: hidden;
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+  }
+  .nav-cta {
+    margin-left: 8px;
+  }
+  .nav-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 18px;
+    background: #C6A75E;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 999px;
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .nav-cta-btn:hover {
+    background: #111111;
+    color: #fff;
+    text-decoration: none;
+  }
+  .site-header.is-sticky .nav-cta-btn {
+    background: #C6A75E;
+    color: #fff;
+  }
+  .site-header.is-sticky .nav-cta-btn:hover {
+    background: #111111;
+    color: #fff;
+  }
+
+  /* Mobile (max 900px): hamburger + pouze "Najít apartmán" venku – PC se nemění */
+  @media (max-width: 900px) {
+    .header-inner {
+      padding: 12px 16px;
+      gap: 10px;
+      min-width: 0;
+    }
+    .site-logo {
+      min-width: 0;
+      flex-shrink: 1;
+    }
+    .logo-img {
+      height: 40px;
+    }
+    .logo-text {
+      font-size: 15px;
+    }
+    @media (max-width: 380px) {
+      .logo-text {
+        display: none;
+      }
+    }
+    .nav-desktop {
+      display: none;
+    }
+    .nav-cta-mobile,
+    .hamburger-btn {
+      display: inline-flex !important;
+      visibility: visible;
+      position: static;
+      width: auto;
+      height: auto;
+      overflow: visible;
+      clip: auto;
+    }
+    .nav-cta-mobile {
+      align-items: center;
+      padding: 8px 14px;
+      background: #C6A75E;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      border-radius: 999px;
+      text-decoration: none;
+      order: 2;
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+    .nav-cta-mobile:hover {
+      background: #111111;
+      color: #fff;
+    }
+    .site-header.is-sticky .nav-cta-mobile {
+      background: #C6A75E;
+      color: #fff;
+    }
+    .hamburger-btn {
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 44px;
+      height: 44px;
+      padding: 0;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      order: 3;
+    }
+    .site-header .hamburger-btn {
+      color: var(--c-ink);
+    }
+    .site-header.is-sticky .hamburger-btn {
+      color: rgba(255, 255, 255, 0.9);
+    }
+    .hamburger-bar {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: currentColor;
+      border-radius: 1px;
+      transition: transform 0.25s ease, opacity 0.25s ease;
+    }
+    :global(body.mobile-menu-open) .hamburger-bar:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    :global(body.mobile-menu-open) .hamburger-bar:nth-child(2) {
+      opacity: 0;
+    }
+    :global(body.mobile-menu-open) .hamburger-bar:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    .mobile-menu {
+      display: flex !important;
+      flex-direction: column;
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 9;
+      background: #111111;
+      padding: 0;
+      overflow: hidden;
+      transform: translateX(100%);
+      visibility: hidden;
+      transition: transform 0.3s ease, visibility 0.3s ease;
+    }
+    .mobile-menu[aria-hidden="false"] {
+      transform: translateX(0);
+      visibility: visible;
+    }
+    .mobile-menu-header {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 16px 20px 12px;
+      min-height: 60px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .mobile-menu-close {
+      width: 48px;
+      height: 48px;
+      padding: 0;
+      border: none;
+      background: transparent;
+      color: rgba(255, 255, 255, 0.95);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+    .mobile-menu-close:hover,
+    .mobile-menu-close:focus {
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+    }
+    .close-icon {
+      position: relative;
+      width: 24px;
+      height: 24px;
+      display: block;
+    }
+    .close-line {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 22px;
+      height: 2px;
+      background: currentColor;
+      border-radius: 1px;
+    }
+    .close-line:first-child {
+      transform: translate(-50%, -50%) rotate(45deg);
+    }
+    .close-line:last-child {
+      transform: translate(-50%, -50%) rotate(-45deg);
+    }
+    .mobile-menu-nav {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 24px 32px;
+      -webkit-overflow-scrolling: touch;
+    }
+    .mobile-nav-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .mobile-nav-list > li {
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .mobile-nav-link {
+      display: block;
+      padding: 16px 0;
+      font-size: 17px;
+      color: rgba(255, 255, 255, 0.9);
+      text-decoration: none;
+    }
+    .mobile-nav-link:hover {
+      color: #fff;
+    }
+    .mobile-dropdown-list {
+      list-style: none;
+      margin: 0 0 8px 0;
+      padding: 0 0 0 16px;
+      border-left: 2px solid rgba(255, 255, 255, 0.2);
+    }
+    .mobile-dropdown-list li {
+      margin: 0;
+    }
+    .mobile-sublink {
+      padding: 10px 0;
+      font-size: 15px;
+      color: rgba(255, 255, 255, 0.75);
+    }
+  }
+</style>

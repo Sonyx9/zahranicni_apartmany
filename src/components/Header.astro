@@ -1,0 +1,91 @@
+---
+// Header component
+---
+
+<header class="header">
+  <nav class="nav" role="navigation" aria-label="Hlavní navigace">
+    <div class="nav-container">
+      <a href="/" class="logo">Domy na pláži</a>
+      <ul class="nav-links">
+        <li><a href="/">Domů</a></li>
+        <li><a href="/destinace/">Destinace</a></li>
+        <li><a href="/nabidky/">Nabídky</a></li>
+        <li><a href="/pruvodce/">Průvodce</a></li>
+        <li><a href="/o-projektu/">O projektu</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<style>
+  .header {
+    background: var(--color-navy);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .nav-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 1.5rem 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--color-ivory);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+  }
+
+  .logo:hover {
+    color: var(--color-sand);
+  }
+
+  .logo:focus {
+    outline: 2px solid var(--color-sand);
+    outline-offset: 4px;
+  }
+
+  .nav-links {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-links a {
+    color: var(--color-ivory);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 0.9375rem;
+    letter-spacing: 0.01em;
+    transition: color 0.2s ease;
+  }
+
+  .nav-links a:hover,
+  .nav-links a:focus {
+    color: var(--color-sand);
+  }
+
+  @media (max-width: 768px) {
+    .nav-container {
+      flex-direction: column;
+      gap: 1.5rem;
+      padding: 1.5rem 48px;
+    }
+
+    .nav-links {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+    }
+  }
+</style>
+

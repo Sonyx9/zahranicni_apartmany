@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /destinace/
+Allow: /nabidky/
+Allow: /pruvodce/
+Allow: /o-projektu/
+
+Disallow: /destinace/*/detail
+
+Sitemap: https://zahranicniapartmany.cz/sitemap.xml
+
+# Pro AI boty (llms.txt)
+# Informace pro jazykové modely: https://zahranicniapartmany.cz/llms.txt
+

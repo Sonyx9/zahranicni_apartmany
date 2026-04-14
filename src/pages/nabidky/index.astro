@@ -1,0 +1,88 @@
+---
+import SiteLayout from '../../components/layout/SiteLayout.astro';
+import { getOffersDeduplicatedBySeries } from '../../lib/data';
+
+const offers = getOffersDeduplicatedBySeries();
+const siteUrl = Astro.site?.href || "https://zahranicniapartmany.cz";
+const canonical = `${siteUrl}/nabidky/`;
+const base = import.meta.env.BASE_URL;
+
+function getImagePath(img: string) {
+  if (img.startsWith('/')) {
+    return `${base}${img.slice(1)}`;
+  }
+  return img;
+}
+
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Nabídky nemovitostí",
+  "description": "Všechny dostupné nemovitosti u moře",
+  "itemListElement": offers.map((offer, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": offer.title,
+    "url": offer.url
+  }))
+}];
+---
+
+<SiteLayout 
+  title="Nabídky nemovitostí u moře"
+  description="Prohlédněte si všechny dostupné nemovitosti u moře v různých destinacích."
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section style="padding:64px 0 24px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      <h1 style="font-size:44px;line-height:1.05;margin:0 0 14px;">Nabídky nemovitostí</h1>
+      <p class="muted" style="font-size:18px;line-height:1.75;margin:0;max-width:68ch;">
+        Prohlédněte si všechny dostupné nemovitosti u moře v našich destinacích.
+      </p>
+    </div>
+  </section>
+
+  <section style="padding:42px 0 64px;">
+    <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+      {offers.length > 0 ? (
+        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+          {offers.map((offer) => (
+            <a class="focus-ring offer-card-link-wrap" href={offer.url} rel="noopener nofollow sponsored" style="border:1px solid var(--c-line);border-radius:var(--radius);overflow:hidden;background:var(--bg-card);display:flex;flex-direction:column;text-decoration:none;color:inherit;">
+              <div style="aspect-ratio:4/3;background:#ddd;flex-shrink:0;">
+                <img src={getImagePath(offer.image)} alt="Ilustrační fotografie nemovitosti u moře" width="640" height="480" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;" />
+              </div>
+              <div class="offer-card-body" style="padding:14px 14px 16px;">
+                <div style="font-family:'Playfair Display',serif;font-size:16px;line-height:1.25;">{offer.title}</div>
+                {offer.price ? (
+                  <div style="margin-top:8px;">
+                    <span class="offer-price">{offer.price}</span>
+                  </div>
+                ) : null}
+                <span class="link-cta offer-card-cta" style="display:inline-flex;margin-top:12px;">
+                  Prohlédnout detail nemovitosti →
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="muted" style="text-align:center;padding:4rem 2rem;">Momentálně nemáme žádné dostupné nabídky.</p>
+      )}
+    </div>
+  </section>
+</SiteLayout>
+
+<style>
+  .offer-price {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--c-navy, #1a2744);
+  }
+  @media (max-width: 900px) {
+    section div[style*="repeat(3,1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

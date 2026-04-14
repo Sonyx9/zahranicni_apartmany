@@ -1,0 +1,100 @@
+---
+type Guide = { slug: string; title: string; description: string };
+type Props = { guides: Guide[] };
+const { guides } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+---
+
+<section class="section-alt" style="padding:42px 0 80px;">
+  <div style="max-width:1240px;margin:0 auto;padding:0 20px;">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;">
+      <h2 style="font-size:28px;margin:0;">Průvodce koupí nemovitosti u moře</h2>
+      <a class="focus-ring link-cta" href="https://www.nemovitostbulharsko.cz/category/pruvodce-koupi-nemovitosti-v-bulharsku/" rel="noopener noreferrer">Všechny články →</a>
+    </div>
+    <p class="guide-teasers-intro muted">Koupě nemovitosti u moře v zahraničí přináší nejen emoce, ale i praktické otázky. V našem průvodci najdete podrobné články o tom, jak probíhá nákup apartmánu, jaké jsou daně a poplatky, jak funguje správa pronájmu i na co si dát pozor při výběru lokality.</p>
+
+    <div class="guide-teasers-grid-wrap">
+      <div class="guide-teasers-grid">
+        {guides.map((g) => (
+          <a class="focus-ring guide-teaser-card" href={`${basePath}pruvodce/${g.slug}/`}>
+            <div class="guide-teaser-title">{g.title}</div>
+            <p class="muted guide-teaser-desc">{g.description}</p>
+            <span class="link-cta guide-teaser-cta">Přečíst článek →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .guide-teasers-intro {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 12px 0 0;
+    max-width: 72ch;
+  }
+  .guide-teasers-grid-wrap {
+    margin-top: 20px;
+    overflow: hidden;
+  }
+  .guide-teasers-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+  .guide-teaser-card {
+    border: 1px solid var(--c-line);
+    border-radius: var(--radius);
+    padding: 18px;
+    background: var(--bg-card);
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+  }
+  .guide-teaser-card:hover {
+    text-decoration: none;
+  }
+  .guide-teaser-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 1.25;
+  }
+  .guide-teaser-desc {
+    margin: 10px 0 0;
+    line-height: 1.8;
+    flex: 1;
+  }
+  .guide-teaser-cta {
+    display: inline-flex;
+    margin-top: 14px;
+  }
+  @media (max-width: 900px) {
+    .guide-teasers-grid-wrap {
+      margin: 20px -20px 0;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 4px 20px 20px;
+    }
+    .guide-teasers-grid-wrap::-webkit-scrollbar {
+      display: none;
+    }
+    .guide-teasers-grid {
+      display: flex;
+      gap: 16px;
+      grid-template-columns: unset;
+      width: max-content;
+    }
+    .guide-teaser-card {
+      flex: 0 0 min(88%, 300px);
+      min-width: 260px;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+    }
+  }
+</style>
