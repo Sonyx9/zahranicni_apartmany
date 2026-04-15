@@ -2720,14 +2720,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-moznosti-splatek-terasa-v-srdci-byaly-komfort-klid-a-vynikajici-investice-v-jednom/19639?aff=l4todz91fb"
   },
   {
-    "id": "feed-19634",
-    "title": "Prostorný a světlý apartmán 2+kk v komplexu Laguna 1, Slunečné pobřeží – jen 450 m od pláže!",
-    "country": "cz",
-    "price": "74 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19634_17613018151.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-a-svetly-apartman-2-kk-v-komplexu-laguna-1-slunecne-pobrezi-jen-450-m-od-plaze/19634?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19666",
     "title": "Možnost na splátky, nový 2+kk s výhledem na moře v klidné části města Byala, pouhých 500 m od pláže",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "92 100 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/222588_1765890011.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-na-splatky-v-long-beach-residence-hurghada/22258?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22257",
+    "title": "2+kk na splátky v Long Beach Residence Hurghada",
+    "country": "cz",
+    "price": "83 600 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2225713_1765889273.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-na-splatky-v-long-beach-residence-hurghada/22257?aff=l4todz91fb"
   }
 ]
