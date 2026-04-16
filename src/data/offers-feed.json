@@ -1384,14 +1384,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-ve-vybornem-komplexu-esperanto-slunecni-pobrezi/18287?aff=l4todz91fb"
   },
   {
-    "id": "feed-18297",
-    "title": "3+kk s výhledem na moře v komplexu Privilege Fort Beach, Sveti Vlas",
-    "country": "cz",
-    "price": "128 800 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18297_8487298393.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-vyhledem-na-more-v-komplexu-privilege-fort-beach-sveti-vlas/18297?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18350",
     "title": "Pěkný apartmán v oblíbené lokalitě – 2+kk jen 150 metrů od pláže, oblast Durres, Albánie",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "83 600 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2225713_1765889273.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-na-splatky-v-long-beach-residence-hurghada/22257?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22263",
+    "title": "Luxusní studio ihned k nastěhování, první linií, výhled na moře – Lavanda Beach Resort, Hurghada",
+    "country": "cz",
+    "price": "57 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22263_8966747334.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-studio-ihned-k-nastehovani-prvni-linii-vyhled-na-more-lavanda-beach-resort-hurghada/22263?aff=l4todz91fb"
   }
 ]
