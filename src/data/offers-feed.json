@@ -2376,14 +2376,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-1-kk-s-terasou-v-prestiznim-komplexu-poseidon-nesebar/19249?aff=l4todz91fb"
   },
   {
-    "id": "feed-19310",
-    "title": "2+kk s jedinečným výhledem na moře, krásný komplex Privilege Fort Beach, Sveti Vlas- Elenite",
-    "country": "cz",
-    "price": "106 950 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/193100_1759754376.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-jedinecnym-vyhledem-na-more-krasny-komplex-privilege-fort-beach-sveti-vlas-elenite/19310?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19320",
     "title": "Světlo, klid a golfový luxus – váš apartmán v Lighthouse Golf & Spa Resort, Balčik",
     "country": "cz",
@@ -3436,7 +3428,7 @@
     "title": "Útulný 1+kk s výhledem na bazén, komplex Orchid Fort, Sluneční pobřeží",
     "country": "cz",
     "price": "69 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/201329_1763551083.jpg",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2013212_1763551083.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-s-vyhledem-na-bazen-komplex-orchid-fort-slunecni-pobrezi/20132?aff=l4todz91fb"
   },
   {
@@ -3998,5 +3990,13 @@
     "price": "57 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22263_8966747334.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-studio-ihned-k-nastehovani-prvni-linii-vyhled-na-more-lavanda-beach-resort-hurghada/22263?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22265",
+    "title": "Luxusní apartmán 2+kk + vlastní zahradu 18m! – v Cala Sahl Hasheesh",
+    "country": "cz",
+    "price": "109 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22265_8974587553.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-vlastni-zahradu-18m-v-cala-sahl-hasheesh/22265?aff=l4todz91fb"
   }
 ]
