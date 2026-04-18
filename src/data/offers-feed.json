@@ -1144,14 +1144,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-vyhledem-na-more-v-malebne-byale-idealni-pro-rodinnou-dovolenou-i-investici/18098?aff=l4todz91fb"
   },
   {
-    "id": "feed-18111",
-    "title": "Prostorný třípokojový apartmán 123 m² v prestižním komplexu Privilege Fort – jen pár kroků od pláže",
-    "country": "cz",
-    "price": "122 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18111_17522388275.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-tripokojovy-apartman-123-m-2-v-prestiznim-komplexu-privilege-fort-jen-par-kroku-od-plaze/18111?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18119",
     "title": "Luxusní studio ve špičkovém komplexu – váš kousek ráje v Thajsku!",
     "country": "cz",
@@ -2214,14 +2206,6 @@
     "price": "97 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19073_17582130091.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-more-a-klid-vas-dvoupokojovy-apartman-v-elenite-bulharsko/19073?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19062",
-    "title": "2+kk s možností splátek, pohodlí a moderní životní styl u jezera, Pomorie",
-    "country": "cz",
-    "price": "109 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/190626_1758197321.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-moznosti-splatek-pohodli-a-moderni-zivotni-styl-u-jezera-pomorie/19062?aff=l4todz91fb"
   },
   {
     "id": "feed-19056",
@@ -3998,5 +3982,21 @@
     "price": "109 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22265_8974587553.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-vlastni-zahradu-18m-v-cala-sahl-hasheesh/22265?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22291",
+    "title": "Krásný apartmán pro znalce v srdci Hurghady, vhodný na celoroční bydlení a na pronájem",
+    "country": "cz",
+    "price": "79 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/222911_1765979727.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-apartman-pro-znalce-v-srdci-hurghady-vhodny-na-celorocni-bydleni-a-na-pronajem/22291?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22281",
+    "title": "Útulné studio s výhledem na moře - klid a pláž na dosah -Sveti Vlas, Bulharsko",
+    "country": "cz",
+    "price": "69 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22281_17659692311.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-s-vyhledem-na-more-klid-a-plaz-na-dosah-sveti-vlas-bulharsko/22281?aff=l4todz91fb"
   }
 ]
