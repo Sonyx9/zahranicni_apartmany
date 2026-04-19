@@ -3880,22 +3880,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartman-v-atraktivnim-komplexu-pattaya-tropicky-zivot-u-oceanu/20798?aff=l4todz91fb"
   },
   {
-    "id": "feed-21530",
-    "title": "Top cena, nový 4+kk připravený k zařízení podle vašich představ, v Aqua Infinity Resort",
-    "country": "cz",
-    "price": "56 200 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/215301_1765548603.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/top-cena-novy-4-kk-pripraveny-k-zarizeni-podle-vasich-predstav-v-aqua-infinity-resort/21530?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21529",
-    "title": "Top cena, nový 4+kk připravený k zařízení podle vašich představ, v Aqua Infinity Resort",
-    "country": "cz",
-    "price": "51 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/215290_1765547975.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/top-cena-novy-4-kk-pripraveny-k-zarizeni-podle-vasich-predstav-v-aqua-infinity-resort/21529?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21533",
     "title": "3+kk s výhledem na moře a možností na splátky, v Florenza Khamsin, Hurghada",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "69 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22281_17659692311.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-s-vyhledem-na-more-klid-a-plaz-na-dosah-sveti-vlas-bulharsko/22281?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22336",
+    "title": "Luxusně vybavený 1+kk v parádním komplexu Premier Fort Beach, Sveti Vlas",
+    "country": "cz",
+    "price": "73 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22336_1534526849.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusne-vybaveny-1-kk-v-paradnim-komplexu-premier-fort-beach-sveti-vlas/22336?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22345",
+    "title": "Prostorný apartmán s výhledem na moře v exkluzivním komplexu na první linii v Obzoru, Bulharsko",
+    "country": "cz",
+    "price": "109 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223454_1766166183.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-vyhledem-na-more-v-exkluzivnim-komplexu-na-prvni-linii-v-obzoru-bulharsko/22345?aff=l4todz91fb"
   }
 ]
