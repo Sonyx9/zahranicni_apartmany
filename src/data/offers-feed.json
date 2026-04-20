@@ -2712,14 +2712,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-dve-koupelny-v-komplexu-st-valentyn-top-lokace-slunecni-pobrezi/19741?aff=l4todz91fb"
   },
   {
-    "id": "feed-19740",
-    "title": "Apartmán se 2 ložnicemi v Holiday Fort, Slunečné pobřeží",
-    "country": "cz",
-    "price": "82 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19740_8147012143.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-se-2-loznicemi-v-holiday-fort-slunecne-pobrezi/19740?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19712",
     "title": "Prostorný 2+kk apartmán v Grand Kamelia, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "109 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223454_1766166183.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-vyhledem-na-more-v-exkluzivnim-komplexu-na-prvni-linii-v-obzoru-bulharsko/22345?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22346",
+    "title": "2+kk s výhledem na bazén, v komplexu Bravo 3, Sluneční pobřeží",
+    "country": "cz",
+    "price": "89 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223460_1766170261.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-bravo-3-slunecni-pobrezi/22346?aff=l4todz91fb"
   }
 ]
