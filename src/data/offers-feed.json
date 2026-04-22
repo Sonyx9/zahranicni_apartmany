@@ -16,14 +16,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-3-kk-v-komplexu-vyborna-poloha-durres-albanie/11960?aff=l4todz91fb"
   },
   {
-    "id": "feed-13383",
-    "title": "Nový 2+kk v nádherném areálů, prodej na splátky",
-    "country": "cz",
-    "price": "98 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/13383_3548579608.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-v-nadhernem-arealu-prodej-na-splatky/13383?aff=l4todz91fb"
-  },
-  {
     "id": "feed-14151",
     "title": "2+kk v bytovém domě bez poplatku za údržbu, 300m od pláže, Sozopol",
     "country": "cz",
@@ -472,14 +464,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-v-infinity-view-nadherne-byty-v-sofii-v-blizkosti-metra-a-veskere-vybavenosti-bulharsko/16397?aff=l4todz91fb"
   },
   {
-    "id": "feed-16424",
-    "title": "Kompletně vybavený 2+kk v Makadi Heights, top cena",
-    "country": "cz",
-    "price": "73 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/164243_1741110158.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-2-kk-v-makadi-heights-top-cena/16424?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16430",
     "title": "Nový 2+kk, pár kroků od moře, projekt Azurro Beach, Ravda",
     "country": "cz",
@@ -720,14 +704,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-v-lago-y-mar-investicni-moznost-na-splatky-burgas-bulharsko/16892?aff=l4todz91fb"
   },
   {
-    "id": "feed-16915",
-    "title": "Nový a kompletně vybavený 1+kk s výhledem na moře v Princess Resort Hurghada",
-    "country": "cz",
-    "price": "82 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/169155_1743844442.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-a-kompletne-vybaveny-1-kk-s-vyhledem-na-more-v-princess-resort-hurghada/16915?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16905",
     "title": "Plaza Residence – světlý apartmán 2+kk v prestižní lokalitě Burgasu jen pár minut od moře",
     "country": "cz",
@@ -870,14 +846,6 @@
     "price": "89 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17197_6628565837.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-vyhledem-na-bazen-marina-fort-beach-sveti-vlas-bulharsko/17197?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-17219",
-    "title": "Luxusní 3+kk 300m od pláže, prestižní rezidenci Al Dora Hurghada – komfort a investiční příležitost",
-    "country": "cz",
-    "price": "107 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/172191_1745751303.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-3-kk-300m-od-plaze-prestizni-rezidenci-al-dora-hurghada-komfort-a-investicni-prilezitost/17219?aff=l4todz91fb"
   },
   {
     "id": "feed-17228",
@@ -3896,14 +3864,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-nadhernym-vyhledem-na-more-moznost-na-splatky-v-klidne-casti-mesta-byala/22239?aff=l4todz91fb"
   },
   {
-    "id": "feed-22241",
-    "title": "Parádní 2+kk s výhledem na moře, vlastní zahrada cca 30m2, Ravda, Bulharsko",
-    "country": "cz",
-    "price": "88 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2224112_1765729793.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/paradni-2-kk-s-vyhledem-na-more-vlastni-zahrada-cca-30m2-ravda-bulharsko/22241?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22242",
     "title": "2+kk s výhledem na moře – komplex Riviera Fort Beach, Ravda",
     "country": "cz",
@@ -3998,5 +3958,45 @@
     "price": "89 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223460_1766170261.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-bravo-3-slunecni-pobrezi/22346?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22337",
+    "title": "Luxusní 2+kk, luxusní komplex Grand Village homes, Sluneční pobřeží",
+    "country": "cz",
+    "price": "88 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2233713_1766154233.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-luxusni-komplex-grand-village-homes-slunecni-pobrezi/22337?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22339",
+    "title": "2+kk s výhledem na bazén, komplex Green Life Beach Resort, Sozopol",
+    "country": "cz",
+    "price": "130 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223398_1766154917.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-komplex-green-life-beach-resort-sozopol/22339?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22386",
+    "title": "Útulný apartmán 2+kk jen 100m od moře – Golem, Albánie",
+    "country": "cz",
+    "price": "102 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22386_4034442947.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-2-kk-jen-100m-od-more-golem-albanie/22386?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22388",
+    "title": "Hezký apartmán 2+kk v žádané lokalitě, 90m od moře – Golem, Albánie",
+    "country": "cz",
+    "price": "98 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22388_4055491617.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-apartman-2-kk-v-zadane-lokalite-90m-od-more-golem-albanie/22388?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22389",
+    "title": "Výborný apartmán 2+kk v centru Golemu, 180m od moře – Golem, Albánie",
+    "country": "cz",
+    "price": "95 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22389_4061504107.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyborny-apartman-2-kk-v-centru-golemu-180m-od-more-golem-albanie/22389?aff=l4todz91fb"
   }
 ]
