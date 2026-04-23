@@ -496,18 +496,10 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-prostorna-terasa-v-lighthouse-golf-and-spa-resort-balcik/16526?aff=l4todz91fb"
   },
   {
-    "id": "feed-16536",
-    "title": "Parádní a kompletně vybaveny 3+kk v The Green Paradise, Primorsko, Bulharsko",
-    "country": "cz",
-    "price": "107 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16536_7755782018.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/paradni-a-kompletne-vybaveny-3-kk-v-the-green-paradise-primorsko-bulharsko/16536?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16538",
     "title": "Vybavený 2+kk v The Green Paradise, Primorsko, Bulharsko",
     "country": "cz",
-    "price": "103 000 €",
+    "price": "110 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16538_7777943442.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-2-kk-v-the-green-paradise-primorsko-bulharsko/16538?aff=l4todz91fb"
   },
@@ -523,7 +515,7 @@
     "id": "feed-16540",
     "title": "2+kk s výhledem na bazén, komplex The Green Paradise, Primorsko, Bulharsko",
     "country": "cz",
-    "price": "110 000 €",
+    "price": "120 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16540_7794193052.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-komplex-the-green-paradise-primorsko-bulharsko/16540?aff=l4todz91fb"
   },
@@ -3998,5 +3990,13 @@
     "price": "95 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22389_4061504107.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyborny-apartman-2-kk-v-centru-golemu-180m-od-more-golem-albanie/22389?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22488",
+    "title": "Prostorný apartmán 2+kk s výhledem na moře - Privilege Fort Beach, Sveti Vlas - Elenite",
+    "country": "cz",
+    "price": "95 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2248818_1767012820.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-vyhledem-na-more-privilege-fort-beach-sveti-vlas-elenite/22488?aff=l4todz91fb"
   }
 ]
