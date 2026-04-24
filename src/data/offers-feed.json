@@ -3664,14 +3664,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-avalon-slunecne-pobrezi/20786?aff=l4todz91fb"
   },
   {
-    "id": "feed-20782",
-    "title": "2+kk s výhledem na bazén, jen 300 m od pláže, v Sunny Sea Palace, balkon, Sluneční pobřeží",
-    "country": "cz",
-    "price": "68 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/207821_1764584044.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-jen-300-m-od-plaze-v-sunny-sea-palace-balkon-slunecni-pobrezi/20782?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20580",
     "title": "Prostorný apartmán 3+kk s terasou v oblíbeném komplexu Kompas, Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "95 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2248818_1767012820.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-vyhledem-na-more-privilege-fort-beach-sveti-vlas-elenite/22488?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22512",
+    "title": "2+kk s velkým balkonem, v dobře vybaveném komplexu Sunny Day 6 u Slunečního pobřeží",
+    "country": "cz",
+    "price": "57 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22512_0883430199.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-velkym-balkonem-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/22512?aff=l4todz91fb"
   }
 ]
