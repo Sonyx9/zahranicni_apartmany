@@ -2088,14 +2088,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-v-prvni-linii-s-vyhledem-na-more-a-na-splatky-az-na-7-let-premier-fort-beach/18992?aff=l4todz91fb"
   },
   {
-    "id": "feed-19009",
-    "title": "1+kk s výhledem na bazén, v prestižní části Slunečného pobřeží – jen 600 metrů od pláže, Gerber 4",
-    "country": "cz",
-    "price": "55 600 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1900910_1757928709.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-v-prestizni-casti-slunecneho-pobrezi-jen-600-metru-od-plaze-gerber-4/19009?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19024",
     "title": "Krásný 3+kk v komplexu Sunny Day 3, Sluneční pobřeží",
     "country": "cz",
@@ -3280,14 +3272,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-dobre-vybaveny-komplex-sunny-day-6-u-slunecniho-pobrezi/20047?aff=l4todz91fb"
   },
   {
-    "id": "feed-20107",
-    "title": "Krásný byt 3+kk s výhledem na moře – první linie v Byale",
-    "country": "cz",
-    "price": "104 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/201071_1763443077.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-byt-3-kk-s-vyhledem-na-more-prvni-linie-v-byale/20107?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20111",
     "title": "Top nabídka, moře a klidné ráno – váš apartmán 2+kk s výhledem na moře, Aheloy",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "57 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22512_0883430199.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-velkym-balkonem-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/22512?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22554",
+    "title": "2+kk s výhledem na bazén, v komplexu Butterfly, 300 metrů od pláže, Sveti Vlas",
+    "country": "cz",
+    "price": "87 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2255416_1767189335.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-butterfly-300-metru-od-plaze-sveti-vlas/22554?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22555",
+    "title": "2+kk v komplexu Summer Dreams, top poloha, Sluneční pobřeží",
+    "country": "cz",
+    "price": "86 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/225553_1767189482.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/22555?aff=l4todz91fb"
   }
 ]
