@@ -2136,14 +2136,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-dva-balkony-v-komplexu-sunny-day-3-slunecni-pobrezi/19167?aff=l4todz91fb"
   },
   {
-    "id": "feed-19184",
-    "title": "Nový 2+kk v Marina Bay 2, top lokace, možnost splátek, byty v Primorsku, v blízkosti pláže",
-    "country": "cz",
-    "price": "117 400 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/191840_1758819776.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-v-marina-bay-2-top-lokace-moznost-splatek-byty-v-primorsku-v-blizkosti-plaze/19184?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19073",
     "title": "Slunce, moře a klid – váš dvoupokojový apartmán v Elenite, Bulharsko",
     "country": "cz",
@@ -2350,14 +2342,6 @@
     "price": "94 100 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1934841_1760008787.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/studio-v-ikonickem-komplexu-s-panoramatickym-vyhledem-na-cerne-more-vic-nez-jen-bydleni/19348?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19350",
-    "title": "2+kk v srdci Batumi. Prémiové bydlení – pouhých 5 minut chůze od moře. TOP cena!",
-    "country": "cz",
-    "price": "53 800 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19350_4455462421.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-srdci-batumi-premiove-bydleni-pouhych-5-minut-chuze-od-more-top-cena/19350?aff=l4todz91fb"
   },
   {
     "id": "feed-19337",
@@ -3998,5 +3982,21 @@
     "price": "59 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22521_1077754514.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-balkonem-v-komplexu-avalon-slunecne-pobrezi/22521?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22518",
+    "title": "Hezký 3+kk v komplexu Vodenicata, Sveti Vlas - komfortní bydlení jen 300 m od moře",
+    "country": "cz",
+    "price": "120 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22518_0999874540.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-3-kk-v-komplexu-vodenicata-sveti-vlas-komfortni-bydleni-jen-300-m-od-more/22518?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22523",
+    "title": "Nové studio pár minut od moře - La Mer Silver 1, Sluneční pobřeží",
+    "country": "cz",
+    "price": "63 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22523_1116057010.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nove-studio-par-minut-od-more-la-mer-silver-1-slunecni-pobrezi/22523?aff=l4todz91fb"
   }
 ]
