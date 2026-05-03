@@ -2160,14 +2160,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-komplex-glarus-kavarna/19185?aff=l4todz91fb"
   },
   {
-    "id": "feed-19195",
-    "title": "Vybavený 2+kk, s výhledem na moře, v blízkosti pláže, Byala",
-    "country": "cz",
-    "price": "77 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/191951_1758879335.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-2-kk-s-vyhledem-na-more-v-blizkosti-plaze-byala/19195?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19202",
     "title": "3+kk s verandou, v krásném komplexu Nesebar View, panenská příroda, Košarica",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "63 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22523_1116057010.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nove-studio-par-minut-od-more-la-mer-silver-1-slunecni-pobrezi/22523?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22571",
+    "title": "Prostorný apartmán 3+kk s výhledem na moře – Omega Resort, Ravda",
+    "country": "cz",
+    "price": "130 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22571_5269468621.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-s-vyhledem-na-more-omega-resort-ravda/22571?aff=l4todz91fb"
   }
 ]
