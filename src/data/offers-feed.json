@@ -1856,14 +1856,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/na-prodej-prostorny-apartman-2-kk-v-komplexu-sun-and-sea-slunecne-pobrezi/18679?aff=l4todz91fb"
   },
   {
-    "id": "feed-18709",
-    "title": "Slunný apartmán 2+kk s nádherným výhledem na moře v prestižním komplexu Crown Fort Club, Sveti Vlas",
-    "country": "cz",
-    "price": "72 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1870920_1756384020.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunny-apartman-2-kk-s-nadhernym-vyhledem-na-more-v-prestiznim-komplexu-crown-fort-club-sveti-vlas/18709?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18730",
     "title": "První linie! Kompletně vybavený apartmán 2+kk s přímým výhledem na moře – Obzor Beach Resort.",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "130 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22571_5269468621.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-s-vyhledem-na-more-omega-resort-ravda/22571?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22572",
+    "title": "Exkluzivní nabídka – byt 2+kk u moře, Panorama Fort Beach Fort Noks Grand Resort",
+    "country": "cz",
+    "price": "98 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22572_5243308955.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-nabidka-byt-2-kk-u-more-panorama-fort-beach-fort-noks-grand-resort/22572?aff=l4todz91fb"
   }
 ]
