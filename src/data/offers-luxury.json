@@ -2184,14 +2184,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nova-luksuzni-vila-150-m-od-more-panoramaticky-vyhled-bazen-garaz-v-betina-tisno/23577?aff=l4todz91fb"
   },
   {
-    "id": "feed-23580",
-    "title": "Moderní řadový dům s bazénem, zahradou a výhledem na moře ve Vodicích",
-    "country": "cz",
-    "price": "675 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2358012_1770642667.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-radovy-dum-s-bazenem-zahradou-a-vyhledem-na-more-ve-vodicich/23580?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23594",
     "title": "Designová vila s bazénem a saunou 350 m od moře Šibenik",
     "country": "cz",
@@ -3590,5 +3582,37 @@
     "price": "185 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2734534_1777820847.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dum-se-tremi-loznicemi-a-bazenem-v-golfovem-resortu-lighthouse-mezi-kavarnou-a-balcikem/27345?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27385",
+    "title": "Moderní vila 3+1 s bazénem na Kypru – soukromí, prostor a silný investiční potenciál",
+    "country": "cz",
+    "price": "660 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27385_9917254816.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-3-1-s-bazenem-na-kypru-soukromi-prostor-a-silny-investicni-potencial/27385?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27386",
+    "title": "Stylová vila 3+1 s bazénem na Kypru – ideální kombinace soukromí a investice",
+    "country": "cz",
+    "price": "660 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/273862_1777991976.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylova-vila-3-1-s-bazenem-na-kypru-idealni-kombinace-soukromi-a-investice/27386?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27387",
+    "title": "Elegantní vila 3+1 s bazénem v unikátní lokalitě na Kypru nabízející soukromí a prostor",
+    "country": "cz",
+    "price": "655 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/273871_1777992349.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-3-1-s-bazenem-v-unikatni-lokalite-na-kypru-nabizejici-soukromi-a-prostor/27387?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27389",
+    "title": "Prostorná vila 3+1 s bazénem na Kypru – klidná lokalita s investičním potenciálem",
+    "country": "cz",
+    "price": "655 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/273891_1777992859.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-vila-3-1-s-bazenem-na-kypru-klidna-lokalita-s-investicnim-potencialem/27389?aff=l4todz91fb"
   }
 ]

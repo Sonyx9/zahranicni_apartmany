@@ -1312,14 +1312,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-domov-na-dosah-2-kk-v-komplexu-azimut-burgas/18283?aff=l4todz91fb"
   },
   {
-    "id": "feed-18289",
-    "title": "Studio s výhledem na moře – moderní bydlení ve Varně blízko pláže",
-    "country": "cz",
-    "price": "59 523 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18289_17537868173.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/studio-s-vyhledem-na-more-moderni-bydleni-ve-varne-blizko-plaze/18289?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18287",
     "title": "2+kk s výhledem na moře, ve výborném komplexu Esperanto, Sluneční pobřeží",
     "country": "cz",
@@ -1958,14 +1950,6 @@
     "price": "56 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18810_9711356780.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-terasou-klidna-lokalita-bozhurets-kavarna/18810?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18874",
-    "title": "Top cena, moderní apartmán 3+kk v luxusním Aqua Tropical Resortu, Hurghada",
-    "country": "cz",
-    "price": "58 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18874_1828130780.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/top-cena-moderni-apartman-3-kk-v-luxusnim-aqua-tropical-resortu-hurghada/18874?aff=l4todz91fb"
   },
   {
     "id": "feed-18890",
@@ -3832,14 +3816,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-vlastni-zahradu-18m-v-cala-sahl-hasheesh/22265?aff=l4todz91fb"
   },
   {
-    "id": "feed-22291",
-    "title": "Krásný apartmán pro znalce v srdci Hurghady, vhodný na celoroční bydlení a na pronájem",
-    "country": "cz",
-    "price": "79 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/222911_1765979727.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-apartman-pro-znalce-v-srdci-hurghady-vhodny-na-celorocni-bydleni-a-na-pronajem/22291?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22281",
     "title": "Útulné studio s výhledem na moře - klid a pláž na dosah -Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "98 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22572_5243308955.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-nabidka-byt-2-kk-u-more-panorama-fort-beach-fort-noks-grand-resort/22572?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22628",
+    "title": "Nádherný 2+kk s výhledem na moře, top lokace, 150 metrů od pláže, krásný komplex Babylon",
+    "country": "cz",
+    "price": "101 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22628_7055804744.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-s-vyhledem-na-more-top-lokace-150-metru-od-plaze-krasny-komplex-babylon/22628?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22623",
+    "title": "2+kk s terasou, možnost koupě na splátky! komplex Garden of Eden, Sveti Vlas",
+    "country": "cz",
+    "price": "110 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22623_7020430664.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-moznost-koupe-na-splatky-komplex-garden-of-eden-sveti-vlas/22623?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22590",
+    "title": "Hezký 2+kk s výhledem na bazén, komplex Garden of Eden, Sveti Vlas",
+    "country": "cz",
+    "price": "110 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22590_6080976602.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-2-kk-s-vyhledem-na-bazen-komplex-garden-of-eden-sveti-vlas/22590?aff=l4todz91fb"
   }
 ]
