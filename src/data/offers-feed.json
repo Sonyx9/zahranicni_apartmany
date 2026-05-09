@@ -944,14 +944,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-komplexu-elit-4-na-slunecnem-pobrezi-jen-5-minut-od-more/17631?aff=l4todz91fb"
   },
   {
-    "id": "feed-17656",
-    "title": "Vaše letní útočiště u moře – stylové studio ve Valencia Gardens, Nesebar",
-    "country": "cz",
-    "price": "118 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17656_174894483317.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vase-letni-utociste-u-more-stylove-studio-ve-valencia-gardens-nesebar/17656?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17682",
     "title": "2+kk s vlastní jacuzzi, v komplexu Pomorie Residence, Pomorie",
     "country": "cz",
@@ -3248,14 +3240,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-50m-od-plaze-komplex-planeta-slunecni-pobrezi/20130?aff=l4todz91fb"
   },
   {
-    "id": "feed-20128",
-    "title": "Světlý apartmán 2+kk jen 200 metrů od pláže ve Sveti Vlasu",
-    "country": "cz",
-    "price": "110 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20128_176354645015.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-apartman-2-kk-jen-200-metru-od-plaze-ve-sveti-vlasu/20128?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20155",
     "title": "Krásný 2+kk s výhledem na moře, jen 450m od pláže, komplex Sea Fort Club, Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "100 890 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2265212_1767872618.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-u-plaze-moznost-splatek-veranda-sahl-hasheesh-top-cena-egypt/22652?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22735",
+    "title": "2+kk s prostornou terasou, 5* komplex v první linií, Marina Cape, Aheloy",
+    "country": "cz",
+    "price": "83 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/227356_1768228698.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-prostornou-terasou-5-komplex-v-prvni-linii-marina-cape-aheloy/22735?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22783",
+    "title": "Klid, zeleň a moře na dosah - apartmán 2+kk v Elitonia Garden 4, Ravda",
+    "country": "cz",
+    "price": "85 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22783_3981225706.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-zelen-a-more-na-dosah-apartman-2-kk-v-elitonia-garden-4-ravda/22783?aff=l4todz91fb"
   }
 ]
