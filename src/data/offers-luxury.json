@@ -1608,14 +1608,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-obrovskou-terasou-a-zahradou-klidna-zona-u-serena-golf-los-alcazares/20168?aff=l4todz91fb"
   },
   {
-    "id": "feed-20146",
-    "title": "Elegantní vila s bazénem, otevřený výhled na moře  Privlaka",
-    "country": "cz",
-    "price": "890 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20146_9824455795.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-otevreny-vyhled-na-more-privlaka/20146?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20257",
     "title": "Prostorná dvoupodlažní vila s panoramatickým výhledem na moře – Floral Hills, Aheloy",
     "country": "cz",
@@ -1662,14 +1654,6 @@
     "price": "314 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/212122_1765127813.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/patrova-vila-v-lovina-hills-residence-vas-tropicky-domov-na-bali-indonesie-moznost-na-splatky/21212?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21272",
-    "title": "Elegantní vila s bazénem a letní kuchyní v klidné zóně Privlaki Ideální místo pro odpočinek a zábavu",
-    "country": "cz",
-    "price": "655 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21272_0593315070.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-letni-kuchyni-v-klidne-zone-privlaki-idealni-misto-pro-odpocinek-a-zabavu/21272?aff=l4todz91fb"
   },
   {
     "id": "feed-20573",
@@ -2451,7 +2435,7 @@
     "id": "feed-26194",
     "title": "Exkluzivní samostatná vila pár kroků od pláže | 2 ložnice | 138 m² | ihned k užívání",
     "country": "cz",
-    "price": "703 990 €",
+    "price": "685 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26194_5497994090.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-samostatna-vila-par-kroku-od-plaze-2-loznice-138-m-2-ihned-k-uzivani/26194?aff=l4todz91fb"
   },
@@ -3638,5 +3622,69 @@
     "price": "213 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27347_8425591126.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-kk-s-vlastnim-bazenem-a-vyhledem-na-golf-lighthouse-golf-resort/27347?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27537",
+    "title": "Luxusní vila s výhledem na moře a soukromým bazénem, Benissa",
+    "country": "cz",
+    "price": "3.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27537_17783043600.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-benissa/27537?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27544",
+    "title": "Elegantní vila s bazénem a letní kuchyní v klidné zóně Privlaki Ideální místo pro odpočinek a zábavu",
+    "country": "cz",
+    "price": "645 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27544_3429545415.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-letni-kuchyni-v-klidne-zone-privlaki-idealni-misto-pro-odpocinek-a-zabavu/27544?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27553",
+    "title": "Luxusní vila se 2 bazény 50 m od moře a střešní terasou, Vir",
+    "country": "cz",
+    "price": "920 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27553_17783473499.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-2-bazeny-50-m-od-more-a-stresni-terasou-vir/27553?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27555",
+    "title": "Luxusní vila s bazénem a střešní terasou 90 m od moře, Privlaka",
+    "country": "cz",
+    "price": "875 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27555_17783495651.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-stresni-terasou-90-m-od-more-privlaka/27555?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27557",
+    "title": "Moderní vila s bazénem 330 m od moře a terasami, Privlaka",
+    "country": "cz",
+    "price": "550 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27557_177835145620.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-330-m-od-more-a-terasami-privlaka/27557?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27559",
+    "title": "Luxusní vila s vyhřívaným bazénem a střešní terasou u moře, Zaton",
+    "country": "cz",
+    "price": "890 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27559_17783529542.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhrivanym-bazenem-a-stresni-terasou-u-more-zaton/27559?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27560",
+    "title": "Luxusní vila s bazénem a panoramatickým výhledem na moře, Maslenica",
+    "country": "cz",
+    "price": "897 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27560_17783537280.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-panoramatickym-vyhledem-na-more-maslenica/27560?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27561",
+    "title": "Elegantní vila s bazénem, otevřený výhled na moře  Privlaka",
+    "country": "cz",
+    "price": "890 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2756143_1778356108.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-otevreny-vyhled-na-more-privlaka/27561?aff=l4todz91fb"
   }
 ]
