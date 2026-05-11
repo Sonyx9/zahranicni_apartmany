@@ -2504,14 +2504,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vetsi-terasou-v-srdci-byaly-na-splatky-komfort-klid-a-vynikajici-investice-v-jednom/19638?aff=l4todz91fb"
   },
   {
-    "id": "feed-19639",
-    "title": "2+kk s možností splátek, terasa, v srdci Byaly, komfort, klid a vynikající investice v jednom!",
-    "country": "cz",
-    "price": "78 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19639_3102464343.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-moznosti-splatek-terasa-v-srdci-byaly-komfort-klid-a-vynikajici-investice-v-jednom/19639?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19666",
     "title": "Možnost na splátky, nový 2+kk s výhledem na moře v klidné části města Byala, pouhých 500 m od pláže",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "85 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22783_3981225706.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-zelen-a-more-na-dosah-apartman-2-kk-v-elitonia-garden-4-ravda/22783?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22768",
+    "title": "Klid mezi mořem a horami - elegantní apartmán s terasami a výhledem na moře ve Sveti Vlas",
+    "country": "cz",
+    "price": "98 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22768_176831462512.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-mezi-morem-a-horami-elegantni-apartman-s-terasami-a-vyhledem-na-more-ve-sveti-vlas/22768?aff=l4todz91fb"
   }
 ]
