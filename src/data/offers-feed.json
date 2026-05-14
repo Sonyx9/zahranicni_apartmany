@@ -872,14 +872,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-balkonem-komplex-sunny-day-5-tankovo/17306?aff=l4todz91fb"
   },
   {
-    "id": "feed-17318",
-    "title": "Investiční apartmán 500 m od moře s garantovaným výnosem a plným servisem v Manilvě, Costa del Sol",
-    "country": "cz",
-    "price": "120 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17318_6108474043.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-apartman-500-m-od-more-s-garantovanym-vynosem-a-plnym-servisem-v-manilve-costa-del-sol/17318?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17370",
     "title": "Hezký 2+kk v komplexu s parkováním, žádaná lokalita, oblast Durres, Albánie",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "98 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22768_176831462512.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-mezi-morem-a-horami-elegantni-apartman-s-terasami-a-vyhledem-na-more-ve-sveti-vlas/22768?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22730",
+    "title": "Luxusní 2+kk v komplexu Harmony Suites Monte Carlo, Sluneční pobřeží",
+    "country": "cz",
+    "price": "112 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22730_2213409651.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-v-komplexu-harmony-suites-monte-carlo-slunecni-pobrezi/22730?aff=l4todz91fb"
   }
 ]
