@@ -3200,14 +3200,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-s-vyhledem-na-bazen-komplex-orchid-fort-slunecni-pobrezi/20132?aff=l4todz91fb"
   },
   {
-    "id": "feed-20148",
-    "title": "Prostorný 3+kk v klidném komplexu Laguna 3, u pláže – Slunečné pobřeží",
-    "country": "cz",
-    "price": "110 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20148_176356623113.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-klidnem-komplexu-laguna-3-u-plaze-slunecne-pobrezi/20148?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20144",
     "title": "Dvoupokojový apartmán v Crown Fort Clubu, Sveti Vlas",
     "country": "cz",
@@ -3414,14 +3406,6 @@
     "price": "109 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20127_5463110161.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-5-komplexu-royal-beach-barcelo-slunecne-pobrezi-bulharsko/20127?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20524",
-    "title": "Možnost na splátky, 1+kk s obrovskou terasou i dvorkem 20m2 a výhledem na moře, Byala",
-    "country": "cz",
-    "price": "57 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2052412_1764244162.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moznost-na-splatky-1-kk-s-obrovskou-terasou-i-dvorkem-20m2-a-vyhledem-na-more-byala/20524?aff=l4todz91fb"
   },
   {
     "id": "feed-20135",
@@ -3998,5 +3982,21 @@
     "price": "112 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22730_2213409651.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-v-komplexu-harmony-suites-monte-carlo-slunecni-pobrezi/22730?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22732",
+    "title": "3+kk s velikou terasou a výhledem na moře, 150m od pláže, komplex Royal Palm, Sveti Vlas",
+    "country": "cz",
+    "price": "122 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22732_2231553226.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-velikou-terasou-a-vyhledem-na-more-150m-od-plaze-komplex-royal-palm-sveti-vlas/22732?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22712",
+    "title": "Plně zařízený apartmán s jednou ložnicí v komplexu Sea Diamond, Slunečné pobřeží",
+    "country": "cz",
+    "price": "85 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22712_176804644318.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/plne-zarizeny-apartman-s-jednou-loznici-v-komplexu-sea-diamond-slunecne-pobrezi/22712?aff=l4todz91fb"
   }
 ]
