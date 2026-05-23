@@ -3680,14 +3680,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-vlastni-zahradu-18m-v-cala-sahl-hasheesh/22265?aff=l4todz91fb"
   },
   {
-    "id": "feed-22336",
-    "title": "Luxusně vybavený 1+kk v parádním komplexu Premier Fort Beach, Sveti Vlas",
-    "country": "cz",
-    "price": "73 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22336_1534526849.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusne-vybaveny-1-kk-v-paradnim-komplexu-premier-fort-beach-sveti-vlas/22336?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22345",
     "title": "Prostorný apartmán s výhledem na moře v exkluzivním komplexu na první linii v Obzoru, Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "74 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22725_2163916536.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-nove-studio-a-klidna-zelena-lokalita-a-celorocni-vyuziti-slunecne-pobrezi/22725?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22805",
+    "title": "Nádherný 2+kk s výhledem na moře, první linie v prestižním komplexu Dolce Vita 2, Sveti Vlas",
+    "country": "cz",
+    "price": "122 400 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2280517_1768479662.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-s-vyhledem-na-more-prvni-linie-v-prestiznim-komplexu-dolce-vita-2-sveti-vlas/22805?aff=l4todz91fb"
   }
 ]

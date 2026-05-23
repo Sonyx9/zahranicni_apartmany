@@ -1696,14 +1696,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-vila-3-1-s-velkym-pozemkem-a-bazenem-blizko-golfu-ski-resortu-a-s-vyhledem-na-more/22247?aff=l4todz91fb"
   },
   {
-    "id": "feed-22266",
-    "title": "Luxusní vila 200m2 s vlastním bazénem, pozemek 600m2 – Mubarak 6, Hurghada",
-    "country": "cz",
-    "price": "375 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22266_9033267675.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-200m2-s-vlastnim-bazenem-pozemek-600m2-mubarak-6-hurghada/22266?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22320",
     "title": "Exkluzivní pobřežní vila 4+kk, 150 m od písečné pláže, Kalyves, Apokoronas",
     "country": "cz",
@@ -3742,5 +3734,37 @@
     "price": "156 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27801_17792298221.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-rodinny-dum-s-bazenem-a-klidem-prirody-jen-20-km-od-plaze-ekolokalita-gorica/27801?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27918",
+    "title": "Luxusní vila s výhledem na moře a soukromým bazénem, Finestrat",
+    "country": "cz",
+    "price": "3.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27918_17794283580.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-finestrat/27918?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27919",
+    "title": "Luxusní vila, s výhledem na moře a soukromým bazénem, Finestrat",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27919_17794284370.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-finestrat/27919?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27928",
+    "title": "Luxusní vila 200m2 s vlastním bazénem, pozemek 600m2 – Mubarak 6, Hurghada",
+    "country": "cz",
+    "price": "370 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/279281_1779479447.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-200m2-s-vlastnim-bazenem-pozemek-600m2-mubarak-6-hurghada/27928?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27929",
+    "title": "Luxusní vila u Rudého moře s privátním bazénem a rooftopem",
+    "country": "cz",
+    "price": "850 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27929_4803116677.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-rudeho-more-s-privatnim-bazenem-a-rooftopem/27929?aff=l4todz91fb"
   }
 ]
