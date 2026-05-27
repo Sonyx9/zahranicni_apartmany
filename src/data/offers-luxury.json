@@ -1840,14 +1840,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-a-panoramatickym-vyhledem-na-more-podstrana/22808?aff=l4todz91fb"
   },
   {
-    "id": "feed-22809",
-    "title": "Velkorysá vila s bazénem, soukromí a investiční potenciál, Kaštel Stari v Chorvatsku",
-    "country": "cz",
-    "price": "740 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2280911_1768481987.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velkorysa-vila-s-bazenem-soukromi-a-investicni-potencial-kastel-stari-v-chorvatsku/22809?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22810",
     "title": "Luxusní vila s panoramatickým výhledem na moře v blízkosti Splitu",
     "country": "cz",
@@ -3806,5 +3798,13 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27947_17795147430.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-1-km-od-more-s-bazenem-a-zahradou-benidorm/27947?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27837",
+    "title": "Luxusní řadová vila 3+1 s možností soukromého bazénu v prestižní části Pafosu",
+    "country": "cz",
+    "price": "410 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27837_17792784571.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-radova-vila-3-1-s-moznosti-soukromeho-bazenu-v-prestizni-casti-pafosu/27837?aff=l4todz91fb"
   }
 ]
