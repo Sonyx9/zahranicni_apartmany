@@ -1128,14 +1128,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupodlazni-apartman-1-1-na-splatky-v-zelenem-rezortu-forest-apartments-2-u-zlatych-pisku/18189?aff=l4todz91fb"
   },
   {
-    "id": "feed-18212",
-    "title": "2+kk přímo u moře, v klidném koutě starobylého Sozopolu – váš nový letní příběh",
-    "country": "cz",
-    "price": "122 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18212_175331342513.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-primo-u-more-v-klidnem-koute-starobyleho-sozopolu-vas-novy-letni-pribeh/18212?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18243",
     "title": "1+kk s výhledem na moře, jen pár kroků od pláže ve Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -2952,14 +2944,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-2-kk-ve-skvelem-komplexu-mesembria-resort-slunecni-pobrezi/20080?aff=l4todz91fb"
   },
   {
-    "id": "feed-20065",
-    "title": "Elegantní apartmán 2+kk jen pár kroků od moře – Sveti Vlas",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20065_17631144241.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-apartman-2-kk-jen-par-kroku-od-more-sveti-vlas/20065?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20033",
     "title": "Útulný 1+kk, v komplexu Flores Park, 300 metrů od pláže, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "101 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229452_1768929336.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-k-v-nadhernem-komplexu-sweet-homes-2-slunecni-pobrezi/22945?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22928",
+    "title": "Prostorný 3+kk s terasou, v Lighthouse Golf and Spa Resort, Balčik",
+    "country": "cz",
+    "price": "103 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22928_9080915965.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-terasou-v-lighthouse-golf-and-spa-resort-balcik/22928?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22976",
+    "title": "Zařízený útulný apartmán, 2 patro v Ulcinj",
+    "country": "cz",
+    "price": "54 414 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229761_1768981117.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizeny-utulny-apartman-2-patro-v-ulcinj/22976?aff=l4todz91fb"
   }
 ]
