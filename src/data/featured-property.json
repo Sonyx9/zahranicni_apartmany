@@ -1,13 +1,6 @@
 {
   "properties": [
     {
-      "title": "2+ kk na Kypru s výhledem na moře za top cenu",
-      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25552_8940178884.jpg",
-      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-na-kypru-s-vyhledem-na-more-za-top-cenu/25552?aff=l4todz91fb",
-      "price": "135 000 €",
-      "state": "Kypr"
-    },
-    {
       "title": "2+1 dvě koupelny na Kypru s výhledem na moře za top cenu",
       "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/255531_1772898507.jpg",
       "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-1-dve-koupelny-na-kypru-s-vyhledem-na-more-za-top-cenu/25553?aff=l4todz91fb",
@@ -15,13 +8,20 @@
       "state": "Kypr"
     },
     {
-      "title": "2 + 1 dvě koupelny za super cenu kousek od moře",
-      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/255510_1772892292.jpg",
-      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-1-dve-koupelny-za-super-cenu-kousek-od-more/25551?aff=l4todz91fb",
-      "price": "210 000 €",
+      "title": "Výhodný 2+1 se dvěma koupelnami a parkovacím stáním v atraktivní lokalitě Paralimni",
+      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27130_1334983731.jpg",
+      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyhodny-2-1-se-dvema-koupelnami-a-parkovacim-stanim-v-atraktivni-lokalite-paralimni/27130?aff=l4todz91fb",
+      "price": "175 000 €",
+      "state": "Kypr"
+    },
+    {
+      "title": "2+kk kousek od moře za top startovací cenu, ideální na pronájem nebo kapitálový výnos",
+      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27175_3654904586.jpg",
+      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-kousek-od-more-za-top-startovaci-cenu-idealni-na-pronajem-nebo-kapitalovy-vynos/27175?aff=l4todz91fb",
+      "price": "176 000 €",
       "state": "Kypr"
     }
   ],
-  "date": "2026-05-30",
-  "nextChangeAt": "2026-05-31T01:00:00.000Z"
+  "date": "2026-05-31",
+  "nextChangeAt": "2026-06-01T01:00:00.000Z"
 }
