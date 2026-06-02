@@ -1112,22 +1112,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-2-kk-jen-150m-od-plaze-idealni-utociste-oblast-durres-albanie/18179?aff=l4todz91fb"
   },
   {
-    "id": "feed-18190",
-    "title": "Mezonet 1+1 na splátky, v zeleném rezortu Forest Apartments 2 u Zlatých písků",
-    "country": "cz",
-    "price": "56 100 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1819020_1753188609.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonet-1-1-na-splatky-v-zelenem-rezortu-forest-apartments-2-u-zlatych-pisku/18190?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18189",
-    "title": "Dvoupodlažní apartmán 1+1 na splátky, v zeleném rezortu Forest Apartments 2 u Zlatých písků",
-    "country": "cz",
-    "price": "70 700 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18189_1883201610.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupodlazni-apartman-1-1-na-splatky-v-zelenem-rezortu-forest-apartments-2-u-zlatych-pisku/18189?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18243",
     "title": "1+kk s výhledem na moře, jen pár kroků od pláže ve Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -1360,14 +1344,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-komplexu-sunset-kosarica-v-blizkosti-plaze-bulharsko/18465?aff=l4todz91fb"
   },
   {
-    "id": "feed-18470",
-    "title": "Útulný 1+kk s výhledem na bazén, komplex Orchid Fort, Sluneční pobřeží",
-    "country": "cz",
-    "price": "60 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18470_6539413134.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-s-vyhledem-na-bazen-komplex-orchid-fort-slunecni-pobrezi/18470?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18464",
     "title": "2+kk v klidném komplexu Sunset, Košarica, Bulharsko",
     "country": "cz",
@@ -1406,14 +1382,6 @@
     "price": "93 600 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18503_9856112854.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-150-m-od-more-v-oblibene-lokalite-oblast-durres-albanie/18503?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18499",
-    "title": "2+kk s výhledem na moře, luxusní komplex Nirvana, Sveti Vlas",
-    "country": "cz",
-    "price": "96 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18499_9754405600.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-luxusni-komplex-nirvana-sveti-vlas/18499?aff=l4todz91fb"
   },
   {
     "id": "feed-18501",
@@ -3998,5 +3966,37 @@
     "price": "54 414 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229761_1768981117.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizeny-utulny-apartman-2-patro-v-ulcinj/22976?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22979",
+    "title": "Příjemný apartmán s terasou v Ulcinj",
+    "country": "cz",
+    "price": "62 028 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229796_1768983213.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prijemny-apartman-s-terasou-v-ulcinj/22979?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22980",
+    "title": "Praktický apartmán, terasa a klid blízko centra Ulcinje",
+    "country": "cz",
+    "price": "69 228 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229803_1768983678.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prakticky-apartman-terasa-a-klid-blizko-centra-ulcinje/22980?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22902",
+    "title": "2+kk s výhledem na moře, obytný dům Rusalka, bez poplatku za údržbu, Sveti Vlas, Bulharsko",
+    "country": "cz",
+    "price": "113 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22902_8261315993.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-obytny-dum-rusalka-bez-poplatku-za-udrzbu-sveti-vlas-bulharsko/22902?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22913",
+    "title": "Výhled na moře a klid u pláže - dvoupokojový apartmán v komplexu Sunset, Ravda",
+    "country": "cz",
+    "price": "75 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22913_17688330243.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyhled-na-more-a-klid-u-plaze-dvoupokojovy-apartman-v-komplexu-sunset-ravda/22913?aff=l4todz91fb"
   }
 ]
