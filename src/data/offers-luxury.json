@@ -3480,14 +3480,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-v-prvni-linii-s-vyhledem-na-more-marbella/27076?aff=l4todz91fb"
   },
   {
-    "id": "feed-27084",
-    "title": "Investiční apartmán v 4★ resortu s garantovaným výnosem a službami Benahavís",
-    "country": "cz",
-    "price": "180 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27084_17770219621.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-apartman-v-4-resortu-s-garantovanym-vynosem-a-sluzbami-benahavis/27084?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27108",
     "title": "Luxusní vily, soukromé bazény a výhled na moře, Marbella",
     "country": "cz",
@@ -3894,5 +3886,21 @@
     "price": "1.9 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28162_17800326770.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-1-km-od-more-a-se-soukromym-bazenem-cumbre-del-sol/28162?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28500",
+    "title": "Exkluzivní vila u golfového hřiště s výhledem na moře, Buenas Noches",
+    "country": "cz",
+    "price": "2.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28500_17803783270.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfoveho-hriste-s-vyhledem-na-more-buenas-noches/28500?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28609",
+    "title": "Luxusní vila u moře, soukromý bazén a garáž, Estepona",
+    "country": "cz",
+    "price": "2.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28609_17804644930.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-soukromy-bazen-a-garaz-estepona/28609?aff=l4todz91fb"
   }
 ]
