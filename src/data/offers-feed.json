@@ -2984,14 +2984,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-o-162-m-2-v-klidne-casti-slunecneho-pobrezi-jedinecny-prostor-jen-par-kroku-od-more/20098?aff=l4todz91fb"
   },
   {
-    "id": "feed-20113",
-    "title": "Zařízený apartmán s terasou v Ulcinj",
-    "country": "cz",
-    "price": "77 976 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/201134_1763465970.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizeny-apartman-s-terasou-v-ulcinj/20113?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20117",
     "title": "2+kk s balkonem, v komplexu Sunny Day 6 u Slunečního pobřeží",
     "country": "cz",
@@ -3254,14 +3246,6 @@
     "price": "54 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20135_5534797527.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-balkonem-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/20135?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20577",
-    "title": "Útulný apartmán blízko centra a dostupné pláže v Ulcinji",
-    "country": "cz",
-    "price": "53 028 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/205772_1764324489.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-blizko-centra-a-dostupne-plaze-v-ulcinji/20577?aff=l4todz91fb"
   },
   {
     "id": "feed-20721",
@@ -3952,30 +3936,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-terasou-v-lighthouse-golf-and-spa-resort-balcik/22928?aff=l4todz91fb"
   },
   {
-    "id": "feed-22976",
-    "title": "Zařízený útulný apartmán, 2 patro v Ulcinj",
-    "country": "cz",
-    "price": "54 414 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229761_1768981117.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizeny-utulny-apartman-2-patro-v-ulcinj/22976?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22979",
-    "title": "Příjemný apartmán s terasou v Ulcinj",
-    "country": "cz",
-    "price": "62 028 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229796_1768983213.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prijemny-apartman-s-terasou-v-ulcinj/22979?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22980",
-    "title": "Praktický apartmán, terasa a klid blízko centra Ulcinje",
-    "country": "cz",
-    "price": "69 228 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229803_1768983678.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prakticky-apartman-terasa-a-klid-blizko-centra-ulcinje/22980?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22902",
     "title": "2+kk s výhledem na moře, obytný dům Rusalka, bez poplatku za údržbu, Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3998,5 +3958,45 @@
     "price": "104 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22892_176881324217.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klidny-tripokojovy-apartman-s-nizkymi-naklady-prostor-a-pohoda-aheloy-bulharsko/22892?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22893",
+    "title": "Prostorný 2+kk s možností splátek, pohodlí a moderní životní styl u jezera, Pomorie",
+    "country": "cz",
+    "price": "98 700 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228939_1768813485.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-moznosti-splatek-pohodli-a-moderni-zivotni-styl-u-jezera-pomorie/22893?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22894",
+    "title": "2+kk,  možnost na splátky, pohodlí a moderní životní styl u jezera, Pomorie",
+    "country": "cz",
+    "price": "105 400 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228945_1768814478.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-moznost-na-splatky-pohodli-a-moderni-zivotni-styl-u-jezera-pomorie/22894?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22915",
+    "title": "Prostorný apartmán s jednou ložnicí v luxusním komplexu Vineyards Resort - Aheloy",
+    "country": "cz",
+    "price": "72 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22915_9057519689.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-jednou-loznici-v-luxusnim-komplexu-vineyards-resort-aheloy/22915?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23038",
+    "title": "Moře na dosah a bazén za dveřmi – dvoupokojový apartmán ve Sveti Vlas",
+    "country": "cz",
+    "price": "107 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23038_176909942924.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-a-bazen-za-dvermi-dvoupokojovy-apartman-ve-sveti-vlas/23038?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22599",
+    "title": "Moderní 2+kk v rezidenčním projektu, privátní bazén - Mali i Robit, Albánie",
+    "country": "cz",
+    "price": "95 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22599_6385552627.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-v-rezidencnim-projektu-privatni-bazen-mali-i-robit-albanie/22599?aff=l4todz91fb"
   }
 ]
