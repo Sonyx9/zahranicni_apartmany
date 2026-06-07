@@ -2656,14 +2656,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-panoramatickym-vyhledem-na-more-prvni-linie-byala/19962?aff=l4todz91fb"
   },
   {
-    "id": "feed-19938",
-    "title": "Slunce, klid a vůně léta – váš apartmán 2+kk v Sunny Day 5, Tankovo, Bulharsko",
-    "country": "cz",
-    "price": "66 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19938_7669424392.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-klid-a-vune-leta-vas-apartman-2-kk-v-sunny-day-5-tankovo-bulharsko/19938?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19991",
     "title": "1+kk ve výstavbě, prodej na splátky, výhled na moře, jen 200 metrů od pláže –  v Byale",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "95 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22599_6385552627.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-v-rezidencnim-projektu-privatni-bazen-mali-i-robit-albanie/22599?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23109",
+    "title": "Apartmán 2+kk v architektonicky výjimečném projektu v Golemu – 200 m od moře",
+    "country": "cz",
+    "price": "75 330 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23109_4195896100.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-architektonicky-vyjimecnem-projektu-v-golemu-200-m-od-more/23109?aff=l4todz91fb"
   }
 ]
