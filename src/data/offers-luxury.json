@@ -2192,14 +2192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/okouzlujici-vila-s-vyhledem-na-more-a-soukromym-bazenem-benissa/25397?aff=l4todz91fb"
   },
   {
-    "id": "feed-25369",
-    "title": "Elegantní vila s bazénem a výhledem na moře Vir",
-    "country": "cz",
-    "price": "680 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25369_5318639489.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-vyhledem-na-more-vir/25369?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25543",
     "title": "Exkluzivní vila, 100 m od moře s privátním bazénem, Las Farolas",
     "country": "cz",
@@ -2416,14 +2408,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-1-km-od-golfu-estepona/26538?aff=l4todz91fb"
   },
   {
-    "id": "feed-26547",
-    "title": "Luxusní vila v první řadě u moře s výhledem na Hvar v Živogošće",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2654726_1775127194.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-v-prvni-rade-u-more-s-vyhledem-na-hvar-v-zivogosce/26547?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26545",
     "title": "Exkluzivní apartmánová vila s bazénem 200 m od moře investiční potenciál Vinišće",
     "country": "cz",
@@ -2590,14 +2574,6 @@
     "price": "1.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26922_17764909880.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-radove-domy-vyhled-na-more-a-3-km-od-pobrezi-mijas/26922?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-26945",
-    "title": "Luxusní vila s výhledem a bazénem v blízkostí pláže v přírodní oáze – Pavićini, Duga Uvala, Istrie",
-    "country": "cz",
-    "price": "820 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/269455_1776692590.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-a-bazenem-v-blizkosti-plaze-v-prirodni-oaze-pavicini-duga-uvala-istrie/26945?aff=l4todz91fb"
   },
   {
     "id": "feed-26935",
@@ -3520,14 +3496,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-benissa/27537?aff=l4todz91fb"
   },
   {
-    "id": "feed-27544",
-    "title": "Elegantní vila s bazénem a letní kuchyní v klidné zóně Privlaki Ideální místo pro odpočinek a zábavu",
-    "country": "cz",
-    "price": "645 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27544_3429545415.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-letni-kuchyni-v-klidne-zone-privlaki-idealni-misto-pro-odpocinek-a-zabavu/27544?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27553",
     "title": "Luxusní vila se 2 bazény 50 m od moře a střešní terasou, Vir",
     "country": "cz",
@@ -3902,5 +3870,37 @@
     "price": "429 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28975_17807773330.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-morem-na-dosah-punta-prima/28975?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29093",
+    "title": "Luxusní vila s výhledem a bazénem v blízkostí pláže v přírodní oáze – Pavićini, Duga Uvala, Istrie",
+    "country": "cz",
+    "price": "680 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290935_1780919489.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-a-bazenem-v-blizkosti-plaze-v-prirodni-oaze-pavicini-duga-uvala-istrie/29093?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29095",
+    "title": "Elegantní vila s bazénem a letní kuchyní v klidné zóně Privlaki Ideální místo pro odpočinek a zábavu",
+    "country": "cz",
+    "price": "645 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2909520_1780920855.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-letni-kuchyni-v-klidne-zone-privlaki-idealni-misto-pro-odpocinek-a-zabavu/29095?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29096",
+    "title": "Elegantní vila s bazénem a výhledem na moře Vir",
+    "country": "cz",
+    "price": "680 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290967_1780921000.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-vyhledem-na-more-vir/29096?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29097",
+    "title": "Exkluzivní vila v první řadě u moře s výhledem na Hvar, Živogošće",
+    "country": "cz",
+    "price": "1.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290972_1780921275.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-v-prvni-rade-u-more-s-vyhledem-na-hvar-zivogosce/29097?aff=l4todz91fb"
   }
 ]
