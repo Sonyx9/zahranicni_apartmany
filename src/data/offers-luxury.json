@@ -200,14 +200,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-vila-vedle-nejnovejsi-mariny-na-kypru-vlastni-pozemek-a-bazen/14239?aff=l4todz91fb"
   },
   {
-    "id": "feed-14372",
-    "title": "Překrásná vila s bazénem v Torrevieji, nedaleko pláže Eliseos",
-    "country": "cz",
-    "price": "390 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/14372_1385908537.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prekrasna-vila-s-bazenem-v-torrevieji-nedaleko-plaze-eliseos/14372?aff=l4todz91fb"
-  },
-  {
     "id": "feed-14400",
     "title": "Prodej vily v Byala, Bulharsko – prostorný dům s garáží a terasou",
     "country": "cz",
@@ -3918,5 +3910,21 @@
     "price": "330 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29060_17809002361.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-se-3-loznicemi-a-soukromou-zahradou-frenaros-kypr/29060?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28725",
+    "title": "Prostorná samostatně stojící vila 3+1 v klidné lokalitě Frenaros, Kypr",
+    "country": "cz",
+    "price": "300 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28725_17805595941.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-samostatne-stojici-vila-3-1-v-klidne-lokalite-frenaros-kypr/28725?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28733",
+    "title": "Luxusní vila 4+1 s velkorysou střešní terasou v lokalitě Protaras, Kypr",
+    "country": "cz",
+    "price": "800 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28733_17805596951.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-s-velkorysou-stresni-terasou-v-lokalite-protaras-kypr/28733?aff=l4todz91fb"
   }
 ]
