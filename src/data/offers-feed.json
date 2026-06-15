@@ -3336,14 +3336,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-moznost-splatek-v-centru-mesta-byala/21016?aff=l4todz91fb"
   },
   {
-    "id": "feed-21018",
-    "title": "možnost splátek, 2+kk s výhledem na moře, v centru města Byala",
-    "country": "cz",
-    "price": "82 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2101816_1764868095.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moznost-splatek-2-kk-s-vyhledem-na-more-v-centru-mesta-byala/21018?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21019",
     "title": "Možnost na splátky, 2+kk v klidné části města Byala, pouhých 500 m od pláže",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "75 330 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23109_4195896100.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-architektonicky-vyjimecnem-projektu-v-golemu-200-m-od-more/23109?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23121",
+    "title": "Dvoupokojový apartmán v první linie u moře a klid pláže, Obzor, Bulharsko",
+    "country": "cz",
+    "price": "88 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23121_4349846047.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-prvni-linie-u-more-a-klid-plaze-obzor-bulharsko/23121?aff=l4todz91fb"
   }
 ]
