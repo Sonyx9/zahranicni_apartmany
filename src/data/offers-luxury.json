@@ -1920,14 +1920,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vila-3-kk-v-lovina-hills-residence-vas-tropicky-domov-na-bali-indonesie-moznost-na-splatky/22890?aff=l4todz91fb"
   },
   {
-    "id": "feed-22905",
-    "title": "Vícegenerační vila s panoramatickým výhledem na moře a obrovským potenciálem ve Sveti Vlas",
-    "country": "cz",
-    "price": "399 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22905_17688276409.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vicegeneracni-vila-s-panoramatickym-vyhledem-na-more-a-obrovskym-potencialem-ve-sveti-vlas/22905?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22904",
     "title": "Klid, prostor a dechberoucí výhled na moře – nová třípodlažní vila v Košarici",
     "country": "cz",
@@ -3950,5 +3942,21 @@
     "price": "180 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27084_17770219621.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-apartman-v-4-resortu-s-garantovanym-vynosem-a-sluzbami-benahavis/27084?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29045",
+    "title": "Stylová samostatná vila v lokalitě Famagusta, Kypr",
+    "country": "cz",
+    "price": "300 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29045_17808408401.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylova-samostatna-vila-v-lokalite-famagusta-kypr/29045?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29331",
+    "title": "Luxusní vila s výhledem na moře a bazénem, Cumbre del Sol",
+    "country": "cz",
+    "price": "2.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29331_17815873310.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-bazenem-cumbre-del-sol/29331?aff=l4todz91fb"
   }
 ]
