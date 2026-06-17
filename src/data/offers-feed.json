@@ -80,14 +80,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-vyhledem-na-more-150m-od-plaze-komplex-royal-palm-sveti-vlas/15036?aff=l4todz91fb"
   },
   {
-    "id": "feed-15142",
-    "title": "Top 2+kk, jen 30 metrů od pláže Bambo, Sozopol",
-    "country": "cz",
-    "price": "110 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/15142_9731357456.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/top-2-kk-jen-30-metru-od-plaze-bambo-sozopol/15142?aff=l4todz91fb"
-  },
-  {
     "id": "feed-15143",
     "title": "Jedinečný 2+kk s terasou, jen 30 metrů od pláže Bambo, Sozopol",
     "country": "cz",
@@ -118,14 +110,6 @@
     "price": "85 250 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/15388_4698792252.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-saint-george-palace-sveti-vlas-bulharsko/15388?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-15486",
-    "title": "Kompletně vybavený 2+kk se zahrádkou, komplex Vinejards, Aheloy",
-    "country": "cz",
-    "price": "56 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/154869_1733311391.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-2-kk-se-zahradkou-komplex-vinejards-aheloy/15486?aff=l4todz91fb"
   },
   {
     "id": "feed-15365",
@@ -1622,14 +1606,6 @@
     "price": "59 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18640_6917853740.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-terasou-v-komplexu-fregata-sveti-vlas/18640?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18633",
-    "title": "2+kk, moře na dosah ruky – váš nový domov v komplexu Excelsior, Slunečné pobřeží",
-    "country": "cz",
-    "price": "113 400 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18633_7583121806.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-more-na-dosah-ruky-vas-novy-domov-v-komplexu-excelsior-slunecne-pobrezi/18633?aff=l4todz91fb"
   },
   {
     "id": "feed-15813",
@@ -3998,5 +3974,29 @@
     "price": "88 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23121_4349846047.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-prvni-linie-u-more-a-klid-plaze-obzor-bulharsko/23121?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23112",
+    "title": "Útulný 1+kk s výhledem na bazén, prostorná terasa, komplex  Midia Resort, Aheloy",
+    "country": "cz",
+    "price": "67 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23112_4273841204.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-s-vyhledem-na-bazen-prostorna-terasa-komplex-midia-resort-aheloy/23112?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23184",
+    "title": "Apartmán 2+kk v moderním projektu v Golemu – 200 m od moře",
+    "country": "cz",
+    "price": "77 410 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/231842_1769507298.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-modernim-projektu-v-golemu-200-m-od-more/23184?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23201",
+    "title": "Apartmán 2+kk v rezidenčním projektu v Golemu – 200 m od moře",
+    "country": "cz",
+    "price": "86 510 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/232015_1769530002.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-rezidencnim-projektu-v-golemu-200-m-od-more/23201?aff=l4todz91fb"
   }
 ]

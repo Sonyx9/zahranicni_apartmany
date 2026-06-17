@@ -3656,14 +3656,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-1-km-od-more-s-bazenem-a-zahradou-benidorm/27947?aff=l4todz91fb"
   },
   {
-    "id": "feed-27837",
-    "title": "Luxusní řadová vila 3+1 s možností soukromého bazénu v prestižní části Pafosu",
-    "country": "cz",
-    "price": "410 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27837_17792784571.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-radova-vila-3-1-s-moznosti-soukromeho-bazenu-v-prestizni-casti-pafosu/27837?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28019",
     "title": "Exkluzivní vila, 1 km od moře s privátním bazénem, Benidorm",
     "country": "cz",
@@ -3710,14 +3702,6 @@
     "price": "460 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27902_17793936301.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-rodinna-vila-3-1-se-zahradou-v-klidne-rezidencni-casti-pafosu/27902?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-27921",
-    "title": "Prostorná rodinná vila 3+1 v rezidenční části Pafosu poblíž občanských vymožeností",
-    "country": "cz",
-    "price": "480 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27921_17794458211.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-rodinna-vila-3-1-v-rezidencni-casti-pafosu-pobliz-obcanskych-vymozenosti/27921?aff=l4todz91fb"
   },
   {
     "id": "feed-28156",
@@ -3958,5 +3942,45 @@
     "price": "2.2 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29331_17815873310.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-bazenem-cumbre-del-sol/29331?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29345",
+    "title": "Luxusní vila 3+1 s bazénem a velkorysou terasou v oblíbené lokalitě Pafos, Kypr",
+    "country": "cz",
+    "price": "900 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29345_17815950281.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-s-bazenem-a-velkorysou-terasou-v-oblibene-lokalite-pafos-kypr/29345?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29327",
+    "title": "Luxusní vila se soukromým bazénem v pěší vzdálenosti od pláže – Pafos, Kypr",
+    "country": "cz",
+    "price": "920 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29327_17815806541.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-soukromym-bazenem-v-pesi-vzdalenosti-od-plaze-pafos-kypr/29327?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29324",
+    "title": "Exkluzivní vila se soukromým bazénem v prestižní přímořské lokalitě – Pafos, Kypr",
+    "country": "cz",
+    "price": "940 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29324_17815806251.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-se-soukromym-bazenem-v-prestizni-primorske-lokalite-pafos-kypr/29324?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29322",
+    "title": "Luxusní vila se střešní terasou a soukromým bazénem v blízkosti písečné pláže – Pafos, Kypr",
+    "country": "cz",
+    "price": "795 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29322_17815662541.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-soukromym-bazenem-v-blizkosti-pisecne-plaze-pafos-kypr/29322?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29319",
+    "title": "Mistrovská rezidence 7+1 poblíž moře a golfu v prestižní lokalitě Pafos, Kypr",
+    "country": "cz",
+    "price": "4.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29319_17815644541.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mistrovska-rezidence-7-1-pobliz-more-a-golfu-v-prestizni-lokalite-pafos-kypr/29319?aff=l4todz91fb"
   }
 ]
