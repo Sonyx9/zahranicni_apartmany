@@ -3024,14 +3024,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-5-km-od-more-mijas/21873?aff=l4todz91fb"
   },
   {
-    "id": "feed-21872",
-    "title": "Exkluzivní vily → privátní bazén a výhled na moře → Mijas",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21872_17655917540.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-privatni-bazen-a-vyhled-na-more-mijas/21872?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21871",
     "title": "Exkluzivní vily → výhled na moře, soukromé bazény → Mijas",
     "country": "cz",
@@ -3489,11 +3481,11 @@
   },
   {
     "id": "feed-27557",
-    "title": "Moderní vila s bazénem 330 m od moře a terasami, Privlaka",
+    "title": "Luxusní vila s bazénem a částečným výhledem na moře, Privlaka, Chorvatsko",
     "country": "cz",
-    "price": "550 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27557_177835145620.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-330-m-od-more-a-terasami-privlaka/27557?aff=l4todz91fb"
+    "price": "580 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27557_6809158716.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-castecnym-vyhledem-na-more-privlaka-chorvatsko/27557?aff=l4todz91fb"
   },
   {
     "id": "feed-27559",
@@ -3982,5 +3974,13 @@
     "price": "4.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29319_17815644541.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mistrovska-rezidence-7-1-pobliz-more-a-golfu-v-prestizni-lokalite-pafos-kypr/29319?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29429",
+    "title": "Moderní vila s bazénem, střešní terasou a výhledem na moře, Vir, Chorvatsko",
+    "country": "cz",
+    "price": "470 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29429_17816815501.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-stresni-terasou-a-vyhledem-na-more-vir-chorvatsko/29429?aff=l4todz91fb"
   }
 ]
