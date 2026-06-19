@@ -3192,14 +3192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-vyhled-na-more-a-1-7-km-od-plaze-calpe/21702?aff=l4todz91fb"
   },
   {
-    "id": "feed-21701",
-    "title": "Exkluzivní vila → soukromý bazén a výhled na moře → Calpe",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21701_17655828210.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-vyhled-na-more-calpe/21701?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21693",
     "title": "Exkluzivní vila → 2 km od moře, soukromý bazén a zahrada → Moraira",
     "country": "cz",
@@ -3712,14 +3704,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-500-m-od-more-cumbre-del-sol-benitachell/28157?aff=l4todz91fb"
   },
   {
-    "id": "feed-28158",
-    "title": "Exkluzivní vila, 500 m od moře a se soukromým bazénem, Cumbre del Sol",
-    "country": "cz",
-    "price": "2.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28158_17800323910.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-500-m-od-more-a-se-soukromym-bazenem-cumbre-del-sol/28158?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28160",
     "title": "Exkluzivní vila u golfového hřiště, Vistabella",
     "country": "cz",
@@ -3982,5 +3966,37 @@
     "price": "470 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29429_17816815501.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-stresni-terasou-a-vyhledem-na-more-vir-chorvatsko/29429?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29506",
+    "title": "Exkluzivní středomořská vila na rozlehlém pozemku v prestižní golfové lokalitě, Pafos, Kypr",
+    "country": "cz",
+    "price": "1.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29506_17817696621.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-stredomorska-vila-na-rozlehlem-pozemku-v-prestizni-golfove-lokalite-pafos-kypr/29506?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29505",
+    "title": "Luxusní vila se střešní terasou a soukromým bazénem v prestižní lokalitě Pafosu, Kypr",
+    "country": "cz",
+    "price": "981 800 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29505_17817696581.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-soukromym-bazenem-v-prestizni-lokalite-pafosu-kypr/29505?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29509",
+    "title": "Městská vila se střešní terasou, bazénem a velkorysým pozemkem v centru Pafosu, Kypr",
+    "country": "cz",
+    "price": "1.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29509_7742089088.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mestska-vila-se-stresni-terasou-bazenem-a-velkorysym-pozemkem-v-centru-pafosu-kypr/29509?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29383",
+    "title": "Moderní vila s bazénem v klidném resortu Mazarrón Country Club, Španělsko",
+    "country": "cz",
+    "price": "239 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29383_6242073538.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-v-klidnem-resortu-mazarron-country-club-spanelsko/29383?aff=l4todz91fb"
   }
 ]
