@@ -2200,14 +2200,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vila-s-bazenem-za-top-cenu-kousek-od-more/25681?aff=l4todz91fb"
   },
   {
-    "id": "feed-25793",
-    "title": "Moderní vila, soukromý bazén a zahrada, Ciudad Quesada",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25793_17734707150.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-soukromy-bazen-a-zahrada-ciudad-quesada/25793?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25796",
     "title": "Luxusní vily s výhledem na moře a soukromým bazénem, Sotogrande",
     "country": "cz",
@@ -2750,14 +2742,6 @@
     "price": "2.4 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22162_17656613010.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-a-vyhled-na-more-malaga/22162?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22161",
-    "title": "Exkluzivní vily → výhled na moře a soukromý bazén → Málaga",
-    "country": "cz",
-    "price": "2.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22161_17656612660.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-malaga/22161?aff=l4todz91fb"
   },
   {
     "id": "feed-22160",
@@ -3998,5 +3982,21 @@
     "price": "239 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29383_6242073538.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-v-klidnem-resortu-mazarron-country-club-spanelsko/29383?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29517",
+    "title": "Exkluzivní vila s panoramatickou střešní terasou a bazénem v blízkosti pláže – Pafos, Kypr",
+    "country": "cz",
+    "price": "980 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29517_7771355684.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-panoramatickou-stresni-terasou-a-bazenem-v-blizkosti-plaze-pafos-kypr/29517?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29515",
+    "title": "Moderní vila s bazénem a střešní terasou v blízkosti pláží v Pafosu, Kypr",
+    "country": "cz",
+    "price": "795 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29515_17817768421.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-a-stresni-terasou-v-blizkosti-plazi-v-pafosu-kypr/29515?aff=l4todz91fb"
   }
 ]
