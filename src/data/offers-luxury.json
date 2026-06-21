@@ -3192,14 +3192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-soukromy-bazen-benisa/21685?aff=l4todz91fb"
   },
   {
-    "id": "feed-21670",
-    "title": "Elegantní vila s terasou a výhledem na moře ve San Miguel de Salinas",
-    "country": "cz",
-    "price": "1.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21670_176558124514.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-terasou-a-vyhledem-na-more-ve-san-miguel-de-salinas/21670?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21668",
     "title": "Exkluzivní vila → soukromý bazén a výhled na moře, 1 km → Benitachell",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "795 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29515_17817768421.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-a-stresni-terasou-v-blizkosti-plazi-v-pafosu-kypr/29515?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29514",
+    "title": "Luxusní vila 3+1 v prestižní golfové lokalitě – Pafos, Kypr",
+    "country": "cz",
+    "price": "1.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29514_17817768391.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-v-prestizni-golfove-lokalite-pafos-kypr/29514?aff=l4todz91fb"
   }
 ]

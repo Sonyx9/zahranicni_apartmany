@@ -1816,14 +1816,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-s-panoramatickym-vyhledem-na-more-prvni-linie-obzor/18990?aff=l4todz91fb"
   },
   {
-    "id": "feed-18992",
-    "title": "Apartmán v první linii, s výhledem na moře a na splátky až na 7 let  – Premier Fort Beach",
-    "country": "cz",
-    "price": "112 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18992_9399241630.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-v-prvni-linii-s-vyhledem-na-more-a-na-splatky-az-na-7-let-premier-fort-beach/18992?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19024",
     "title": "Krásný 3+kk v komplexu Sunny Day 3, Sluneční pobřeží",
     "country": "cz",
@@ -3216,22 +3208,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-balkonem-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/20135?aff=l4todz91fb"
   },
   {
-    "id": "feed-20721",
-    "title": "1+kk na splátky za 80 000 €, stačí 8000 € a občanský průkaz, bez dokládání příjmů, 300 od pláže",
-    "country": "cz",
-    "price": "80 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/207213_1764496430.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-na-splatky-za-80-000-eur-staci-8000-eur-a-obcansky-prukaz-bez-dokladani-prijmu-300-od-plaze/20721?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20723",
-    "title": "3+kk na splátky za 125000 €, stačí 12500 € a občanský průkaz, bez dokládání příjmů, 300 od pláže",
-    "country": "cz",
-    "price": "125 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/207233_1764496779.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-na-splatky-za-125000-eur-staci-12500-eur-a-obcansky-prukaz-bez-dokladani-prijmu-300-od-plaze/20723?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20791",
     "title": "Prostorný apartmán se 2 ložnicemi v komplexu Elite 1 – jen 200 metrů od pláže na Slunečném pobřeží",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "86 510 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/232015_1769530002.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-rezidencnim-projektu-v-golemu-200-m-od-more/23201?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23116",
+    "title": "1+kk s prostornou terasou a nádherným výhledem na moře, komplex  Midia Resort, Aheloy",
+    "country": "cz",
+    "price": "76 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23116_4300968152.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-prostornou-terasou-a-nadhernym-vyhledem-na-more-komplex-midia-resort-aheloy/23116?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23113",
+    "title": "1+kk s výhledem do zeleně, komplex  Midia Resort, Aheloy",
+    "country": "cz",
+    "price": "69 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23113_5348171679.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-do-zelene-komplex-midia-resort-aheloy/23113?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23115",
+    "title": "1+kk s nádherným výhledem na moře, komplex  Midia Resort, Aheloy",
+    "country": "cz",
+    "price": "76 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23115_4294228958.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-nadhernym-vyhledem-na-more-komplex-midia-resort-aheloy/23115?aff=l4todz91fb"
   }
 ]
