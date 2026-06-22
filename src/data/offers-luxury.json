@@ -2480,14 +2480,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-se-soukromym-bazenem-a-zahradou-u-more-san-juan-de-los-terreros/24114?aff=l4todz91fb"
   },
   {
-    "id": "feed-26754",
-    "title": "Luxusní vily s výhledem na moře a soukromým bazénem, Benalmádena",
-    "country": "cz",
-    "price": "2.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26754_17758853210.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-a-soukromym-bazenem-benalmadena/26754?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26832",
     "title": "Luxusní vila, 300 m od moře se soukromým bazénem a výhledem, Marbella",
     "country": "cz",
@@ -2894,14 +2886,6 @@
     "price": "5.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21993_17655977680.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-soukromy-bazen-a-3-km-od-more-casares/21993?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21992",
-    "title": "Exkluzivní vila → výhled na moře, u golfu → Las Lagunas de Mijas",
-    "country": "cz",
-    "price": "2.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21992_17655977070.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-vyhled-na-more-u-golfu-las-lagunas-de-mijas/21992?aff=l4todz91fb"
   },
   {
     "id": "feed-21980",
@@ -3728,14 +3712,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-1-km-od-more-se-soukromym-bazenem-dehesa-de-campoamor/28679?aff=l4todz91fb"
   },
   {
-    "id": "feed-28701",
-    "title": "Luxusní vila, s privátním bazénem, 3 km od moře, Casares",
-    "country": "cz",
-    "price": "4.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28701_17805520360.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-privatnim-bazenem-3-km-od-more-casares/28701?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28709",
     "title": "Elegantní vila 4+1 v klidné lokalitě Sotira",
     "country": "cz",
@@ -3998,5 +3974,21 @@
     "price": "1.7 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29514_17817768391.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-v-prestizni-golfove-lokalite-pafos-kypr/29514?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29556",
+    "title": "Luxusní vila u moře, letiště, San Pedro del Pinatar",
+    "country": "cz",
+    "price": "890 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29556_17818465690.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-letiste-san-pedro-del-pinatar/29556?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29320",
+    "title": "Sveti Vlas, Bulharsko – Luxusní 3+kk s parkovacím místem a výhledem do zahradního resortu",
+    "country": "cz",
+    "price": "354 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29320_17815662328.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/sveti-vlas-bulharsko-luxusni-3-kk-s-parkovacim-mistem-a-vyhledem-do-zahradniho-resortu/29320?aff=l4todz91fb"
   }
 ]
