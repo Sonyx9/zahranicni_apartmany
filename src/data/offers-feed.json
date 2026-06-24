@@ -1624,14 +1624,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prvni-linie-kompletne-vybaveny-apartman-2-kk-s-primym-vyhledem-na-more-obzor-beach-resort/18730?aff=l4todz91fb"
   },
   {
-    "id": "feed-18743",
-    "title": "Nádherný apartmán 2+kk, jen 20m od pláže, komplex White Coast, u Kavarny",
-    "country": "cz",
-    "price": "90 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18743_7353952967.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-apartman-2-kk-jen-20m-od-plaze-komplex-white-coast-u-kavarny/18743?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18761",
     "title": "Nový 1+kk, možnost splátek, top lokace, v Marina Bay 2, byty v Primorsku, v blízkosti pláže",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "76 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23115_4294228958.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-nadhernym-vyhledem-na-more-komplex-midia-resort-aheloy/23115?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23190",
+    "title": "Prostorný apartmán 3+kk →  klid resortu → Aheloy, Bulharsko",
+    "country": "cz",
+    "price": "110 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23190_5138224879.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-klid-resortu-aheloy-bulharsko/23190?aff=l4todz91fb"
   }
 ]
