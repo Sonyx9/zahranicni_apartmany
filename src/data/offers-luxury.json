@@ -2496,14 +2496,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukroma-zahrada-a-bazen-u-golfoveho-hriste-los-guardianes/26903?aff=l4todz91fb"
   },
   {
-    "id": "feed-26905",
-    "title": "Exkluzivní vila, 100 m od moře s bazénem, Torrevieja",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26905_17764901230.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-100-m-od-more-s-bazenem-torrevieja/26905?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26922",
     "title": "Exkluzivní řadové domy, výhled na moře a 3 km od pobřeží, Mijas",
     "country": "cz",
@@ -2600,14 +2592,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-samostatna-vila-privatni-bazen-3-km-od-more-torrevieja/24108?aff=l4todz91fb"
   },
   {
-    "id": "feed-24092",
-    "title": "Moderní apartmány, 400 m od moře, La Vila Joiosa",
-    "country": "cz",
-    "price": "468 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24092_17717183770.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartmany-400-m-od-more-la-vila-joiosa/24092?aff=l4todz91fb"
-  },
-  {
     "id": "feed-24055",
     "title": "Luxusní samostatný dům, soukromý bazén a zahrada, Ciudad Quesada",
     "country": "cz",
@@ -2702,14 +2686,6 @@
     "price": "6.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22126_17656040720.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-benahavis/22126?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22125",
-    "title": "Luxusní vily → soukromý bazén & výhled na moře → Benahavís",
-    "country": "cz",
-    "price": "6.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22125_17656040110.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-soukromy-bazen-vyhled-na-more-benahavis/22125?aff=l4todz91fb"
   },
   {
     "id": "feed-22108",
@@ -2926,14 +2902,6 @@
     "price": "1.9 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21875_17655919120.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-vyhled-na-more-privatni-bazen-mijas/21875?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21874",
-    "title": "Exkluzivní vily → výhled na moře a soukromý bazén → Mijas",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21874_17655918560.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-mijas/21874?aff=l4todz91fb"
   },
   {
     "id": "feed-21873",
@@ -3918,5 +3886,13 @@
     "price": "354 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29320_17815662328.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/sveti-vlas-bulharsko-luxusni-3-kk-s-parkovacim-mistem-a-vyhledem-do-zahradniho-resortu/29320?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29825",
+    "title": "Prostorný třípatrový dům s výhledem na moře a velkou zahradou v Košaritsa - Čolakova Češma",
+    "country": "cz",
+    "price": "349 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/298250_1782335687.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-tripatrovy-dum-s-vyhledem-na-more-a-velkou-zahradou-v-kosaritsa-colakova-cesma/29825?aff=l4todz91fb"
   }
 ]

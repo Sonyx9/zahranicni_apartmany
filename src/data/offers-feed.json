@@ -3049,11 +3049,11 @@
   },
   {
     "id": "feed-20124",
-    "title": "Panoramatický apartmán 2+kk s výhledem na moře – Vineyards Resort, Aheloy",
+    "title": "Prostorný apartmán s jednou ložnicí ve Vineyards Resort - Muscat, Aheloy",
     "country": "cz",
-    "price": "79 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20124_6239763219.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticky-apartman-2-kk-s-vyhledem-na-more-vineyards-resort-aheloy/20124?aff=l4todz91fb"
+    "price": "77 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-jednou-loznici-ve-vineyards-resort-muscat-aheloy/20124?aff=l4todz91fb"
   },
   {
     "id": "feed-20125",
@@ -3174,14 +3174,6 @@
     "price": "53 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20141_5568660346.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/20141?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20119",
-    "title": "váš nový 2+kk v Tankovu, poblíž Slunečného pobřeží",
-    "country": "cz",
-    "price": "53 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20119_5381723834.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-novy-2-kk-v-tankovu-pobliz-slunecneho-pobrezi/20119?aff=l4todz91fb"
   },
   {
     "id": "feed-20127",
@@ -3998,5 +3990,13 @@
     "price": "110 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23190_5138224879.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-klid-resortu-aheloy-bulharsko/23190?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22598",
+    "title": "Nový 1+kk v nové moderní budově - Golem, Albánie",
+    "country": "cz",
+    "price": "63 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22598_6377371401.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-1-kk-v-nove-moderni-budove-golem-albanie/22598?aff=l4todz91fb"
   }
 ]
