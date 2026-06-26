@@ -3048,14 +3048,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prodej-na-splatky-luxusni-2-kk-v-prestiznim-komplexu-esteban-nessebar-bulharsko/20204?aff=l4todz91fb"
   },
   {
-    "id": "feed-20124",
-    "title": "Prostorný apartmán s jednou ložnicí ve Vineyards Resort - Muscat, Aheloy",
-    "country": "cz",
-    "price": "77 000 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-jednou-loznici-ve-vineyards-resort-muscat-aheloy/20124?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20125",
     "title": "Prostorný třípokojový apartmán 3+kk s velkou terasou a výhledem na moře – Aheloy",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "63 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22598_6377371401.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-1-kk-v-nove-moderni-budove-golem-albanie/22598?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22597",
+    "title": "Nový 2+kk s výhledem na moře, první linie - Golem, Albánie",
+    "country": "cz",
+    "price": "118 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2259727_1767637014.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-s-vyhledem-na-more-prvni-linie-golem-albanie/22597?aff=l4todz91fb"
   }
 ]
