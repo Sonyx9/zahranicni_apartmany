@@ -1672,14 +1672,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-komplex-grand-kamelia-slunecni-pobrezi/18858?aff=l4todz91fb"
   },
   {
-    "id": "feed-18840",
-    "title": "Vybavený 2+kk s výhledem na moře – Obzor Beach Resort.",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18840_0428752288.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-2-kk-s-vyhledem-na-more-obzor-beach-resort/18840?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18848",
     "title": "Prostorný apartmán 2+kk na Slunečném pobřeží, komplex Sunny Beach Plaza",
     "country": "cz",
@@ -3904,14 +3896,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-a-bazen-za-dvermi-dvoupokojovy-apartman-ve-sveti-vlas/23038?aff=l4todz91fb"
   },
   {
-    "id": "feed-22599",
-    "title": "Moderní 2+kk v rezidenčním projektu, privátní bazén - Mali i Robit, Albánie",
-    "country": "cz",
-    "price": "95 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22599_6385552627.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-v-rezidencnim-projektu-privatni-bazen-mali-i-robit-albanie/22599?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23109",
     "title": "Apartmán 2+kk v architektonicky výjimečném projektu v Golemu – 200 m od moře",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "118 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2259727_1767637014.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-s-vyhledem-na-more-prvni-linie-golem-albanie/22597?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22498",
+    "title": "Krásný apartmán 3+kk, pouze 50m od písečné pláže – Golem, Albánie",
+    "country": "cz",
+    "price": "123 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22498_0328842994.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-apartman-3-kk-pouze-50m-od-pisecne-plaze-golem-albanie/22498?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23239",
+    "title": "Nádherný 2+kk, v komplexu Domenico, Sluneční pobřeží",
+    "country": "cz",
+    "price": "104 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/232394_1769615080.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-v-komplexu-domenico-slunecni-pobrezi/23239?aff=l4todz91fb"
   }
 ]
