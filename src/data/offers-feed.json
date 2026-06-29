@@ -736,14 +736,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-v-komplexu-panorama-bay-1-sveti-vlas-bulharsko/17017?aff=l4todz91fb"
   },
   {
-    "id": "feed-17014",
-    "title": "2+kk s vlastní zahrádkou, v komplexu Cascadas Resort v Ravdě",
-    "country": "cz",
-    "price": "85 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17014_6123946371.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vlastni-zahradkou-v-komplexu-cascadas-resort-v-ravde/17014?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17052",
     "title": "2+kk v útulném komplexu s grilem, v blízkosti pláže, Kranevo",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "104 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/232394_1769615080.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-v-komplexu-domenico-slunecni-pobrezi/23239?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23240",
+    "title": "Prostorný 2+kk s výhledem do zeleně, v prestižním komplexu Crown Fort Club, Sveti Vlas",
+    "country": "cz",
+    "price": "85 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2324019_1769615229.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-vyhledem-do-zelene-v-prestiznim-komplexu-crown-fort-club-sveti-vlas/23240?aff=l4todz91fb"
   }
 ]
