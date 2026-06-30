@@ -2544,14 +2544,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-vlastnim-bazenem-blizko-plaze-daya-nueva/24845?aff=l4todz91fb"
   },
   {
-    "id": "feed-24519",
-    "title": "Luxusní samostatná vila s výhledem na moře, Mijas",
-    "country": "cz",
-    "price": "899 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24519_17717417800.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-samostatna-vila-s-vyhledem-na-more-mijas/24519?aff=l4todz91fb"
-  },
-  {
     "id": "feed-24209",
     "title": "Exkluzivní přízemní byt, 1 km od moře, soukromá zahrada a bazén, La Vila Joiosa",
     "country": "cz",
@@ -3344,14 +3336,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-rodinny-dum-s-bazenem-a-klidem-prirody-jen-20-km-od-plaze-ekolokalita-gorica/27801?aff=l4todz91fb"
   },
   {
-    "id": "feed-27918",
-    "title": "Luxusní vila s výhledem na moře a soukromým bazénem, Finestrat",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27918_17794283580.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-finestrat/27918?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27919",
     "title": "Luxusní vila, s výhledem na moře a soukromým bazénem, Finestrat",
     "country": "cz",
@@ -3798,5 +3782,13 @@
     "price": "350 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29990_17825387380.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-plaze-los-nardos-almeria/29990?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30066",
+    "title": "Luxusní vila s bazénem a částečným výhledem na moře, Vrsi, Chorvatsko",
+    "country": "cz",
+    "price": "650 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3006621_1782726608.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-castecnym-vyhledem-na-more-vrsi-chorvatsko/30066?aff=l4todz91fb"
   }
 ]

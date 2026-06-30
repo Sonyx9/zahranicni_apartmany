@@ -3312,22 +3312,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-200-m-od-plaze-komplex-sea-lighthouse-sveti-vlas/21405?aff=l4todz91fb"
   },
   {
-    "id": "feed-21401",
-    "title": "Vybavený 2+kk s prostornou terasou a výhledem do zeleně – Holiday Fort Noks, Slunečné pobřeží",
-    "country": "cz",
-    "price": "69 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21401_176536444118.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-2-kk-s-prostornou-terasou-a-vyhledem-do-zelene-holiday-fort-noks-slunecne-pobrezi/21401?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21404",
-    "title": "Prostorný 3+kk s výhledem do zeleně – komfortní zázemí v Tarsis, Slunečné pobřeží",
-    "country": "cz",
-    "price": "106 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21404_176536623120.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-vyhledem-do-zelene-komfortni-zazemi-v-tarsis-slunecne-pobrezi/21404?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21524",
     "title": "Apartmán za výhodnou cenu, Jomtien, Pattaya - s panoramatickým výhledem na město a moře",
     "country": "cz",
@@ -3664,6 +3648,14 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-u-plaze-moznost-splatek-veranda-sahl-hasheesh-top-cena-egypt/22652?aff=l4todz91fb"
   },
   {
+    "id": "feed-21330",
+    "title": "Prostorný apartmán s jednou ložnicí na výborném místě v Pomorie.",
+    "country": "cz",
+    "price": "126 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-jednou-loznici-na-vybornem-miste-v-pomorie/21330?aff=l4todz91fb"
+  },
+  {
     "id": "feed-22735",
     "title": "2+kk s prostornou terasou, 5* komplex v první linií, Marina Cape, Aheloy",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "85 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2324019_1769615229.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-vyhledem-do-zelene-v-prestiznim-komplexu-crown-fort-club-sveti-vlas/23240?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23119",
+    "title": "Prostorný 1+kk v novém komplexu La Mer Gold, Nesebar",
+    "country": "cz",
+    "price": "69 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/231193_1769431798.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-v-novem-komplexu-la-mer-gold-nesebar/23119?aff=l4todz91fb"
   }
 ]
