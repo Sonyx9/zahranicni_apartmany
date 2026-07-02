@@ -2648,14 +2648,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-panoramaticke-vyhledy-na-more-a-soukromy-bazen-benahavis/22067?aff=l4todz91fb"
   },
   {
-    "id": "feed-22062",
-    "title": "Exkluzivní vila → soukromý bazén, 3 km od moře → Casares",
-    "country": "cz",
-    "price": "5.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22062_17656011500.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-3-km-od-more-casares/22062?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22061",
     "title": "Exkluzivní vila → 5-6 ložnic, soukromý bazén 3 km od moře → Casares",
     "country": "cz",
@@ -2990,14 +2982,6 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21667_17655810020.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-2-km-od-more-soukromy-bazen-a-zahrada-san-javier/21667?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21654",
-    "title": "Luxusní vily → 1 km od pobřeží, výhled na moře → Benitachell",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21654_17655803240.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-1-km-od-pobrezi-vyhled-na-more-benitachell/21654?aff=l4todz91fb"
   },
   {
     "id": "feed-21634",
@@ -3766,5 +3750,37 @@
     "price": "203 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/301043_1782844557.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-dvoupodlazni-vila-s-panoramatickym-vyhledem-na-more-floral-hills-aheloy/30104?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30112",
+    "title": "Luxusní vila u moře, Cumbre del Sol, Benitachell",
+    "country": "cz",
+    "price": "2.6 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30112_17828833840.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-cumbre-del-sol-benitachell/30112?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30116",
+    "title": "Elegantní vila u golfu, Vistabella, Španělsko",
+    "country": "cz",
+    "price": "439 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30116_17828835290.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-u-golfu-vistabella-spanelsko/30116?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28802",
+    "title": "Rodinná vila 3+1 se soukromou zahradou ve venkovském prostředí Frenaros, Kypr",
+    "country": "cz",
+    "price": "300 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28802_17806453131.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/rodinna-vila-3-1-se-soukromou-zahradou-ve-venkovskem-prostredi-frenaros-kypr/28802?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28807",
+    "title": "Moderní vila 3+1 se zahradou v klidné lokalitě Oroklini poblíž Larnaky, Kypr",
+    "country": "cz",
+    "price": "380 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28807_17806453691.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-3-1-se-zahradou-v-klidne-lokalite-oroklini-pobliz-larnaky-kypr/28807?aff=l4todz91fb"
   }
 ]
