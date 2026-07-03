@@ -131,8 +131,8 @@
     "id": "feed-13354",
     "title": "Luxusní vila 4+1 s velkým pozemkem a  bazénem a výhledem na moře v nejprestižnější časti ostrova",
     "country": "cz",
-    "price": "985 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/13354_1250746256.jpg",
+    "price": "1.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/13354_9994373918.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-s-velkym-pozemkem-a-bazenem-a-vyhledem-na-more-v-nejprestiznejsi-casti-ostrova/13354?aff=l4todz91fb"
   },
   {
@@ -3782,5 +3782,29 @@
     "price": "380 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28807_17806453691.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-3-1-se-zahradou-v-klidne-lokalite-oroklini-pobliz-larnaky-kypr/28807?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30147",
+    "title": "Luxusní vila s výhledem na moře, Cumbre del Sol, Benitachell",
+    "country": "cz",
+    "price": "2.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30147_17829697340.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-cumbre-del-sol-benitachell/30147?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28950",
+    "title": "Moderní vila 4+1 s prostorným pozemkem v klidné lokalitě Sotira",
+    "country": "cz",
+    "price": "360 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28950_17807526461.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-4-1-s-prostornym-pozemkem-v-klidne-lokalite-sotira/28950?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28856",
+    "title": "Luxusní vila 4+1 se soukromým bazénem a střešní terasou v Perneře, Kypr",
+    "country": "cz",
+    "price": "700 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28856_17806510881.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-stresni-terasou-v-pernere-kypr/28856?aff=l4todz91fb"
   }
 ]

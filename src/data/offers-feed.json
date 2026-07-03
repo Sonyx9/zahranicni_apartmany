@@ -3704,22 +3704,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-mesto-v-komplexu-royal-sun-slunecni-pobrezi/22729?aff=l4todz91fb"
   },
   {
-    "id": "feed-22782",
-    "title": "Zahrada, voda a klid – vaše studio s přímým vstupem k bazénu v prémiovém komplexu Cascadas, Ravda",
-    "country": "cz",
-    "price": "77 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22782_17683974319.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zahrada-voda-a-klid-vase-studio-s-primym-vstupem-k-bazenu-v-premiovem-komplexu-cascadas-ravda/22782?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22835",
-    "title": "Prostorné a plně zařízené studio s výhledem na moře, v Ravdě - bez poplatků za údržbu!",
-    "country": "cz",
-    "price": "71 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22835_176855944026.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-a-plne-zarizene-studio-s-vyhledem-na-more-v-ravde-bez-poplatku-za-udrzbu/22835?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22860",
     "title": "Prostorný 1+kk, luxusní komplex Afrodita Palace, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "99 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23275_6921650444.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-komplex-garden-of-eden-sveti-vlas/23275?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23297",
+    "title": "Apartmán 2+kk v žádané lokalitě - Golem, Albánie",
+    "country": "cz",
+    "price": "102 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23297_7658388713.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-zadane-lokalite-golem-albanie/23297?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23298",
+    "title": "Apartmán 2+kk v blízkosti pláže - Golem, Albánie",
+    "country": "cz",
+    "price": "97 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23298_7664381048.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-blizkosti-plaze-golem-albanie/23298?aff=l4todz91fb"
   }
 ]
