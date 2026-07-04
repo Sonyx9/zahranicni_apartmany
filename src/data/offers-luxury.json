@@ -2616,14 +2616,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-2-km-od-more-privatni-bazen-marbella/22108?aff=l4todz91fb"
   },
   {
-    "id": "feed-22107",
-    "title": "Exkluzivní vily → s vlastním bazénem, 3 km od moře → Casares",
-    "country": "cz",
-    "price": "2.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22107_17656032120.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-vlastnim-bazenem-3-km-od-more-casares/22107?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22089",
     "title": "Impozantní vila → privátní bazén, 3 km od moře → Marbella",
     "country": "cz",
@@ -2894,14 +2886,6 @@
     "price": "649 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21755_17655857200.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-1-km-od-golfu-orihuela-costa/21755?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21738",
-    "title": "Exkluzivní apartmány → 150 m od moře, bazén a chytrá domácnost → La Vila Joiosa",
-    "country": "cz",
-    "price": "249 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21738_17655848711.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartmany-150-m-od-more-bazen-a-chytra-domacnost-la-vila-joiosa/21738?aff=l4todz91fb"
   },
   {
     "id": "feed-21736",
@@ -3806,5 +3790,37 @@
     "price": "700 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28856_17806510881.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-stresni-terasou-v-pernere-kypr/28856?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30183",
+    "title": "Elegantní vila s bazénem, Cumbre del Sol, Benitachell",
+    "country": "cz",
+    "price": "2.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30183_17830562660.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-cumbre-del-sol-benitachell/30183?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30211",
+    "title": "Luxusní vila s bazénem a výhledem na moře, Vrsi, Chorvatsko",
+    "country": "cz",
+    "price": "935 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30211_17830829120.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-vyhledem-na-more-vrsi-chorvatsko/30211?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28852",
+    "title": "Luxusní vila 4+1 se soukromým bazénem a střešní terasou v Perneře, Kypr",
+    "country": "cz",
+    "price": "665 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28852_17806510471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-stresni-terasou-v-pernere-kypr/28852?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30214",
+    "title": "Luxusní vila  s velkým pozemkem a  bazénem a výhledem na moře v nejprestižnější časti ostrova",
+    "country": "cz",
+    "price": "1.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/302149_1783100912.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-velkym-pozemkem-a-bazenem-a-vyhledem-na-more-v-nejprestiznejsi-casti-ostrova/30214?aff=l4todz91fb"
   }
 ]
