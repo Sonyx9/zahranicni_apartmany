@@ -3752,14 +3752,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prvni-linie-2-kk-s-terasou-a-nadhernym-vyhledem-na-more-obzor-bulharsko/22870?aff=l4todz91fb"
   },
   {
-    "id": "feed-22873",
-    "title": "Prostorný 2+kk s krásným výhledem na moře - první linie v Byale",
-    "country": "cz",
-    "price": "93 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22873_6584051803.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-krasnym-vyhledem-na-more-prvni-linie-v-byale/22873?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22944",
     "title": "Nádherný 2+kk v luxusním komplexu, top poloha, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "97 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23298_7664381048.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-blizkosti-plaze-golem-albanie/23298?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23271",
+    "title": "Elegantní studio s výhledem na moře, první linií, Grand resort Sveti Vlas, Sveti Vlas",
+    "country": "cz",
+    "price": "88 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23271_6886367510.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-studio-s-vyhledem-na-more-prvni-linii-grand-resort-sveti-vlas-sveti-vlas/23271?aff=l4todz91fb"
   }
 ]
