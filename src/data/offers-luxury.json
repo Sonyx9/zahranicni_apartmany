@@ -2024,14 +2024,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-5-kk-u-more-v-prestiznim-resortu-v-umag-savudrija-vase-soukroma-oaza-na-istrii/23447?aff=l4todz91fb"
   },
   {
-    "id": "feed-23517",
-    "title": "Moderní apartmány, 400 m od moře, La Vila Joiosa",
-    "country": "cz",
-    "price": "517 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23517_17704455920.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartmany-400-m-od-more-la-vila-joiosa/23517?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23574",
     "title": "Moderní luxusní vila s bazénem a výhledem na moře Tribunj",
     "country": "cz",
@@ -2198,14 +2190,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26043_17743336150.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-a-vyhled-na-more-cumbre-del-sol/26043?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-26045",
-    "title": "Exkluzivní vila, 1 km od pláže s výhledem na moře, Cumbre del Sol",
-    "country": "cz",
-    "price": "2.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26045_17743337800.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-1-km-od-plaze-s-vyhledem-na-more-cumbre-del-sol/26045?aff=l4todz91fb"
   },
   {
     "id": "feed-26048",
@@ -2792,14 +2776,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-1-km-od-golfu-orihuela-costa/21755?aff=l4todz91fb"
   },
   {
-    "id": "feed-21736",
-    "title": "Exkluzivní apartmány a penthousy → 150 m od moře, bazén, chytrá domácnost → La Vila Joiosa",
-    "country": "cz",
-    "price": "575 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21736_17655847810.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartmany-a-penthousy-150-m-od-more-bazen-chytra-domacnost-la-vila-joiosa/21736?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21735",
     "title": "Exkluzivní apartmány a penthousy → 150 m od moře, bazén a terasa → La Vila Joiosa",
     "country": "cz",
@@ -3182,14 +3158,6 @@
     "price": "850 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27929_4803116677.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-rudeho-more-s-privatnim-bazenem-a-rooftopem/27929?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-27939",
-    "title": "Exkluzivní vila, soukromý bazén a zahrada jen 1 km od moře, Benidorm",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27939_17795140650.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-zahrada-jen-1-km-od-more-benidorm/27939?aff=l4todz91fb"
   },
   {
     "id": "feed-27941",
@@ -3854,5 +3822,13 @@
     "price": "637 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/303250_1783424518.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/unikatni-vila-3-1-v-blizkosti-plazi-a-budouciho-pristavu-v-pobrezni-lokalite-pernera-kypr/30325?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30356",
+    "title": "Elegantní vila blízko moře, soukromý bazén, Mijas",
+    "country": "cz",
+    "price": "2.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30356_17834886100.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-blizko-more-soukromy-bazen-mijas/30356?aff=l4todz91fb"
   }
 ]
