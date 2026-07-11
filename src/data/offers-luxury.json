@@ -2712,28 +2712,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-soukrome-bazeny-mijas/21871?aff=l4todz91fb"
   },
   {
-    "id": "feed-21859",
-    "title": "Exkluzivní vila → soukromá zahrada, bazén a chytrá domácnost → San Roque",
-    "country": "cz",
-    "price": "5.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21859_17655911460.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukroma-zahrada-bazen-a-chytra-domacnost-san-roque/21859?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21836",
     "title": "Luxusní vily → Soukromý bazén, 1 km od pláže → Marbella",
     "country": "cz",
     "price": "4.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21836_17655899730.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-soukromy-bazen-1-km-od-plaze-marbella/21836?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21835",
-    "title": "Exkluzivní vily → soukromé bazény, 1 km od moře → Marbella",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21835_17655899320.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukrome-bazeny-1-km-od-more-marbella/21835?aff=l4todz91fb"
   },
   {
     "id": "feed-21830",
@@ -2816,14 +2800,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-vyhled-na-more-a-1-7-km-od-plaze-calpe/21702?aff=l4todz91fb"
   },
   {
-    "id": "feed-21693",
-    "title": "Exkluzivní vila → 2 km od moře, soukromý bazén a zahrada → Moraira",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21693_17655824530.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-2-km-od-more-soukromy-bazen-a-zahrada-moraira/21693?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21668",
     "title": "Exkluzivní vila → soukromý bazén a výhled na moře, 1 km → Benitachell",
     "country": "cz",
@@ -2886,14 +2862,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21553_17655757090.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/okouzlujici-radovy-dum-1-km-od-more-soukromy-bazen-a-terasa-la-vila-joiosa/21553?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21552",
-    "title": "Luxusní vila → 1 km od moře, soukromý bazén → Orihuela Costa",
-    "country": "cz",
-    "price": "1.4 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21552_17655756200.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-1-km-od-more-soukromy-bazen-orihuela-costa/21552?aff=l4todz91fb"
   },
   {
     "id": "feed-21544",
@@ -3592,14 +3560,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-dvoupodlazni-vila-s-panoramatickym-vyhledem-na-more-floral-hills-aheloy/30104?aff=l4todz91fb"
   },
   {
-    "id": "feed-30112",
-    "title": "Luxusní vila u moře, Cumbre del Sol, Benitachell",
-    "country": "cz",
-    "price": "2.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30112_17828833840.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-cumbre-del-sol-benitachell/30112?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30116",
     "title": "Elegantní vila u golfu, Vistabella, Španělsko",
     "country": "cz",
@@ -3862,5 +3822,21 @@
     "price": "435 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/304220_1783610501.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-se-soukromym-bazenem-v-prestizni-golfove-lokalite-na-kypru/30422?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30431",
+    "title": "Exkluzivní vila u moře, Vera",
+    "country": "cz",
+    "price": "475 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30431_17836610070.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-vera/30431?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30452",
+    "title": "Luxusní vila s výhledem na moře, golf i letiště, Las Lagunas de Mijas",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30452_17836618700.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-golf-i-letiste-las-lagunas-de-mijas/30452?aff=l4todz91fb"
   }
 ]
