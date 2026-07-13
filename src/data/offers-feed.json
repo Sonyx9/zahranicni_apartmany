@@ -1272,14 +1272,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-hned-u-plaze-komplex-colosseum-slunecni-pobrezi/18394?aff=l4todz91fb"
   },
   {
-    "id": "feed-18396",
-    "title": "3+kk v komplexu Holiday Fort Noks, Sluneční pobřeží",
-    "country": "cz",
-    "price": "85 800 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18396_3734030697.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-v-komplexu-holiday-fort-noks-slunecni-pobrezi/18396?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18457",
     "title": "3+kk s výhledem na moře, veliká terasa, bohatě vybavený komplex Imperial Fort Club, Sveti Vlas",
     "country": "cz",
@@ -1512,28 +1504,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-vyhledem-na-more-v-komplexu-gaden-of-eden-sveti-vlas/18591?aff=l4todz91fb"
   },
   {
-    "id": "feed-18607",
-    "title": "3+kk s výhledem na moře, komplex Vinejards, Aheloy",
-    "country": "cz",
-    "price": "113 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18607_5863001470.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-vyhledem-na-more-komplex-vinejards-aheloy/18607?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18637",
     "title": "2+kk v prestižní části Slunečného pobřeží – jen 600 metrů od pláže, Gerber 4",
     "country": "cz",
     "price": "84 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18637_6857151003.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-prestizni-casti-slunecneho-pobrezi-jen-600-metru-od-plaze-gerber-4/18637?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18642",
-    "title": "1+kk, v bohatě vybaveném komplexu Vinejards, Aheloy",
-    "country": "cz",
-    "price": "58 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18642_6938654942.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-bohate-vybavenem-komplexu-vinejards-aheloy/18642?aff=l4todz91fb"
   },
   {
     "id": "feed-18606",
@@ -2936,14 +2912,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prodej-na-splatky-luxusni-2-kk-v-prestiznim-komplexu-esteban-nessebar-bulharsko/20204?aff=l4todz91fb"
   },
   {
-    "id": "feed-20125",
-    "title": "Prostorný třípokojový apartmán 3+kk s velkou terasou a výhledem na moře – Aheloy",
-    "country": "cz",
-    "price": "128 750 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20125_6247030615.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-tripokojovy-apartman-3-kk-s-velkou-terasou-a-vyhledem-na-more-aheloy/20125?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20220",
     "title": "Dvoupokojový apartmán s prostornou terasou a krásným výhledem na moře v Byale, vlastní sklep",
     "country": "cz",
@@ -3998,5 +3966,37 @@
     "price": "77 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23304_0168321793.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-blue-summer-slunecne-pobrezi/23304?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23222",
+    "title": "Prostorný apartmán 4+kk v klidném komplexu Sun Village – Slunečné pobřeží",
+    "country": "cz",
+    "price": "111 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/232220_1769599941.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-4-kk-v-klidnem-komplexu-sun-village-slunecne-pobrezi/23222?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23362",
+    "title": "Prostorný 3+kk s výhledem do zeleně, v Lighthouse Golf and Spa Resort, Balčik",
+    "country": "cz",
+    "price": "91 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23362_0285806695.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-vyhledem-do-zelene-v-lighthouse-golf-and-spa-resort-balcik/23362?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23363",
+    "title": "3+kk s krásným výhledem do zeleně, v Lighthouse Golf and Spa Resort, Balčik",
+    "country": "cz",
+    "price": "128 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23363_0294380641.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-krasnym-vyhledem-do-zelene-v-lighthouse-golf-and-spa-resort-balcik/23363?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23365",
+    "title": "Panoramatický klid nad krajinou - dvoupokojový apartmán v Lighthouse Golf a SPA Resort",
+    "country": "cz",
+    "price": "78 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23365_0306518166.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticky-klid-nad-krajinou-dvoupokojovy-apartman-v-lighthouse-golf-spa-resort/23365?aff=l4todz91fb"
   }
 ]
