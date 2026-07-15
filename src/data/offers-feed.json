@@ -1944,14 +1944,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-1-kk-s-terasou-v-prestiznim-komplexu-poseidon-nesebar/19249?aff=l4todz91fb"
   },
   {
-    "id": "feed-19320",
-    "title": "Světlo, klid a golfový luxus – váš apartmán v Lighthouse Golf & Spa Resort, Balčik",
-    "country": "cz",
-    "price": "75 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19320_8280119606.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetlo-klid-a-golfovy-luxus-vas-apartman-v-lighthouse-golf-spa-resort-balcik/19320?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19327",
     "title": "Investicní 1+kk, v Aqua Vista Pomorie, možnost na splátky, včetně nábytku a vybavení",
     "country": "cz",
@@ -2366,14 +2358,6 @@
     "price": "85 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/198150_1762188754.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/tripokojovy-apartman-se-dvema-terasami-jen-par-minut-od-plaze/19815?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19809",
-    "title": "Prostorný 3+kk, v komplexu Royal Sun, Sluneční pobřeží",
-    "country": "cz",
-    "price": "104 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19809_1751115808.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-komplexu-royal-sun-slunecni-pobrezi/19809?aff=l4todz91fb"
   },
   {
     "id": "feed-19827",
@@ -2814,14 +2798,6 @@
     "price": "74 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20111_4526011514.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/top-nabidka-more-a-klidne-rano-vas-apartman-2-kk-s-vyhledem-na-more-aheloy/20111?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20098",
-    "title": "Prostorný 2+kk o 162 m² v klidné části Slunečného pobřeží – jedinečný prostor jen pár kroků od moře",
-    "country": "cz",
-    "price": "90 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20098_176339703017.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-o-162-m-2-v-klidne-casti-slunecneho-pobrezi-jedinecny-prostor-jen-par-kroku-od-more/20098?aff=l4todz91fb"
   },
   {
     "id": "feed-20117",
@@ -3998,5 +3974,29 @@
     "price": "78 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23365_0306518166.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticky-klid-nad-krajinou-dvoupokojovy-apartman-v-lighthouse-golf-spa-resort/23365?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23457",
+    "title": "Jedinečný byt 3+kk k okamžitému nastěhování v prestižním komplexu Veranda",
+    "country": "cz",
+    "price": "113 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23457_2261810668.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jedinecny-byt-3-kk-k-okamzitemu-nastehovani-v-prestiznim-komplexu-veranda/23457?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23448",
+    "title": "Moderní  2+kk → blízko moře a centra → Ravda",
+    "country": "cz",
+    "price": "83 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23448_2075048991.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-blizko-more-a-centra-ravda/23448?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23407",
+    "title": "1+kk, prodej na splátky, parádní a bohatě vybavený resort, Crown Fort Club, Sveti Vlas, Bulharsko",
+    "country": "cz",
+    "price": "82 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234070_1770108069.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-prodej-na-splatky-paradni-a-bohate-vybaveny-resort-crown-fort-club-sveti-vlas-bulharsko/23407?aff=l4todz91fb"
   }
 ]
