@@ -2128,14 +2128,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vila-s-bazenem-za-top-cenu-kousek-od-more/25681?aff=l4todz91fb"
   },
   {
-    "id": "feed-25796",
-    "title": "Luxusní vily s výhledem na moře a soukromým bazénem, Sotogrande",
-    "country": "cz",
-    "price": "1.4 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25796_17734709560.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-a-soukromym-bazenem-sotogrande/25796?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25818",
     "title": "Impozantní čtyřpodlažní vila s bazénem a nádhernou zahradou v Košarici",
     "country": "cz",
@@ -2592,14 +2584,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-privatni-bazen-vyhled-na-more-mijas/21876?aff=l4todz91fb"
   },
   {
-    "id": "feed-21875",
-    "title": "Exkluzivní vila → výhled na moře, privátní bazén → Mijas",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21875_17655919120.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-vyhled-na-more-privatni-bazen-mijas/21875?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21873",
     "title": "Exkluzivní vily → soukromý bazén, 5 km od moře → Mijas",
     "country": "cz",
@@ -2750,14 +2734,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21553_17655757090.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/okouzlujici-radovy-dum-1-km-od-more-soukromy-bazen-a-terasa-la-vila-joiosa/21553?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21544",
-    "title": "Exkluzivní vila → soukromý bazén a výhled na moře, 3 km od pláže → Moraira",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21544_17655752420.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-vyhled-na-more-3-km-od-plaze-moraira/21544?aff=l4todz91fb"
   },
   {
     "id": "feed-26981",
@@ -3384,6 +3360,14 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-plaze-los-nardos-almeria/29990?aff=l4todz91fb"
   },
   {
+    "id": "feed-29388",
+    "title": "Dvoupokojový apartmán v komplexu Azur Panorama, Sv. Sv. Konstantin a Elena",
+    "country": "cz",
+    "price": "345 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-komplexu-azur-panorama-sv-sv-konstantin-a-elena/29388?aff=l4todz91fb"
+  },
+  {
     "id": "feed-22905",
     "title": "Výjimečný vícegenerační dům s panoramatickým výhledem na moře – Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3982,5 +3966,37 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31201_17841842310.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-puerto-banus-atalaya-estepona/31201?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31210",
+    "title": "Moderní byt u moře, 200 m od pláže, La Vila Joiosa",
+    "country": "cz",
+    "price": "445 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31210_17842657370.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-byt-u-more-200-m-od-plaze-la-vila-joiosa/31210?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31211",
+    "title": "Exkluzivní vila u golfu, La Finca Golf, Orihuela Costa",
+    "country": "cz",
+    "price": "890 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31211_17842657650.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-orihuela-costa/31211?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31215",
+    "title": "Luxusní vila s výhledem na moře, Jávea",
+    "country": "cz",
+    "price": "3.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31215_17842658950.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-javea/31215?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31216",
+    "title": "Elegantní vily s bazénem a zahradou, Algorfa",
+    "country": "cz",
+    "price": "730 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31216_17842659370.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-s-bazenem-a-zahradou-algorfa/31216?aff=l4todz91fb"
   }
 ]
