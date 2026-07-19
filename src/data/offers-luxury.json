@@ -2328,14 +2328,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-300-m-od-more-se-soukromym-bazenem-a-vyhledem-marbella/26832?aff=l4todz91fb"
   },
   {
-    "id": "feed-24641",
-    "title": "Stylová vila s bazénem a soláriem 1 km od moře Los Alcázares, Murcia",
-    "country": "cz",
-    "price": "419 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24641_17717453710.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylova-vila-s-bazenem-a-solariem-1-km-od-more-los-alcazares-murcia/24641?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25359",
     "title": "Prostorná vila s garáží a bazénem a 600 m od moře Águilas",
     "country": "cz",
@@ -2606,14 +2598,6 @@
     "price": "4.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21836_17655899730.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-soukromy-bazen-1-km-od-plaze-marbella/21836?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21830",
-    "title": "Exkluzivní vila → 1 km od moře, soukromý bazén a zahrada → El Paraíso",
-    "country": "cz",
-    "price": "7.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21830_17655896580.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-1-km-od-more-soukromy-bazen-a-zahrada-el-paraiso/21830?aff=l4todz91fb"
   },
   {
     "id": "feed-21785",
@@ -3368,14 +3352,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-komplexu-azur-panorama-sv-sv-konstantin-a-elena/29388?aff=l4todz91fb"
   },
   {
-    "id": "feed-22905",
-    "title": "Výjimečný vícegenerační dům s panoramatickým výhledem na moře – Sveti Vlas, Bulharsko",
-    "country": "cz",
-    "price": "399 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22905_178153707519.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyjimecny-vicegeneracni-dum-s-panoramatickym-vyhledem-na-more-sveti-vlas-bulharsko/22905?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30104",
     "title": "Prostorná dvoupodlažní vila s panoramatickým výhledem na moře – Floral Hills, Aheloy",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "730 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31216_17842659370.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-s-bazenem-a-zahradou-algorfa/31216?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31217",
+    "title": "Exkluzivní vily s bazénem a zahradou v Algorfě",
+    "country": "cz",
+    "price": "670 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31217_17842659740.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-bazenem-a-zahradou-v-algorfe/31217?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31218",
+    "title": "Luxusní vila s bazénem u golfu, Pilar de la Horadada",
+    "country": "cz",
+    "price": "586 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31218_17842660220.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-u-golfu-pilar-de-la-horadada/31218?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31219",
+    "title": "Luxusní vila s výhledem na moře, Benissa",
+    "country": "cz",
+    "price": "4.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31219_17842660880.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-benissa/31219?aff=l4todz91fb"
   }
 ]
