@@ -2104,14 +2104,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vlastnim-bazenem-1-linie-u-more-vyhled-na-ocean-ostrov-sal-kapverdy/25336?aff=l4todz91fb"
   },
   {
-    "id": "feed-25365",
-    "title": "Exkluzivní vila, 1 km od moře s privátním bazénem, Benissa",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25365_17725194390.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-1-km-od-more-s-privatnim-bazenem-benissa/25365?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25680",
     "title": "Vila s bazénem za top cenu kousek od moře",
     "country": "cz",
@@ -2582,14 +2574,6 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21873_17655918050.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-5-km-od-more-mijas/21873?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21871",
-    "title": "Exkluzivní vily → výhled na moře, soukromé bazény → Mijas",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21871_17655916890.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-soukrome-bazeny-mijas/21871?aff=l4todz91fb"
   },
   {
     "id": "feed-21836",
@@ -3344,14 +3328,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-plaze-los-nardos-almeria/29990?aff=l4todz91fb"
   },
   {
-    "id": "feed-29388",
-    "title": "Dvoupokojový apartmán v komplexu Azur Panorama, Sv. Sv. Konstantin a Elena",
-    "country": "cz",
-    "price": "345 000 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-komplexu-azur-panorama-sv-sv-konstantin-a-elena/29388?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30104",
     "title": "Prostorná dvoupodlažní vila s panoramatickým výhledem na moře – Floral Hills, Aheloy",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "4.7 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31219_17842660880.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-benissa/31219?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31233",
+    "title": "Luxusní vila u moře, Casares",
+    "country": "cz",
+    "price": "2.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31233_17842665310.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-casares/31233?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31254",
+    "title": "Exkluzivní vily u moře, Estepona",
+    "country": "cz",
+    "price": "1.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31254_17842670840.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-u-more-estepona/31254?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31255",
+    "title": "Luxusní vily u moře, Estepona",
+    "country": "cz",
+    "price": "2.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31255_17842670970.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-more-estepona/31255?aff=l4todz91fb"
   }
 ]

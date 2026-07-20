@@ -3928,14 +3928,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticky-klid-nad-krajinou-dvoupokojovy-apartman-v-lighthouse-golf-spa-resort/23365?aff=l4todz91fb"
   },
   {
-    "id": "feed-23457",
-    "title": "Jedinečný byt 3+kk k okamžitému nastěhování v prestižním komplexu Veranda",
-    "country": "cz",
-    "price": "113 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23457_2261810668.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jedinecny-byt-3-kk-k-okamzitemu-nastehovani-v-prestiznim-komplexu-veranda/23457?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23448",
     "title": "Moderní  2+kk → blízko moře a centra → Ravda",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "59 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234960_1770363898.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-jen-250-metru-od-plaze-v-perfektnim-komplexu-triumph-sveti-vlas/23496?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23495",
+    "title": "1+kk s krásným výhledem na moře, v komplexu Marina Fort, v první linii, Sveti Vlas",
+    "country": "cz",
+    "price": "58 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234954_1770362737.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-krasnym-vyhledem-na-more-v-komplexu-marina-fort-v-prvni-linii-sveti-vlas/23495?aff=l4todz91fb"
   }
 ]
