@@ -2320,14 +2320,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-300-m-od-more-se-soukromym-bazenem-a-vyhledem-marbella/26832?aff=l4todz91fb"
   },
   {
-    "id": "feed-25359",
-    "title": "Prostorná vila s garáží a bazénem a 600 m od moře Águilas",
-    "country": "cz",
-    "price": "405 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25359_17725190780.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-vila-s-garazi-a-bazenem-a-600-m-od-more-aguilas/25359?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26903",
     "title": "Exkluzivní vila, soukromá zahrada a bazén u golfového hřiště, Los Guardianes",
     "country": "cz",
@@ -2608,14 +2600,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-privatni-bazen-a-zahrada-orihuela/21772?aff=l4todz91fb"
   },
   {
-    "id": "feed-21755",
-    "title": "Exkluzivní vila → soukromý bazén, 1 km od golfu → Orihuela Costa",
-    "country": "cz",
-    "price": "649 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21755_17655857200.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-1-km-od-golfu-orihuela-costa/21755?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21735",
     "title": "Exkluzivní apartmány a penthousy → 150 m od moře, bazén a terasa → La Vila Joiosa",
     "country": "cz",
@@ -2632,14 +2616,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-a-vyhled-na-more-finestrat/21733?aff=l4todz91fb"
   },
   {
-    "id": "feed-21732",
-    "title": "Exkluzivní vily → 300 m od moře, soukromý bazén a garáž → Orihuela",
-    "country": "cz",
-    "price": "1.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21732_17655845410.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-300-m-od-more-soukromy-bazen-a-garaz-orihuela/21732?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21731",
     "title": "Exkluzivní vila → privátní bazén, 1 km od golfu, 4 km od moře → Xàbia",
     "country": "cz",
@@ -2654,14 +2630,6 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21667_17655810020.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-2-km-od-more-soukromy-bazen-a-zahrada-san-javier/21667?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21634",
-    "title": "Exkluzivní vila → soukromý bazén, terasa a zahrada → Orihuela Costa",
-    "country": "cz",
-    "price": "590 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21634_17655794270.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-terasa-a-zahrada-orihuela-costa/21634?aff=l4todz91fb"
   },
   {
     "id": "feed-21629",
@@ -2990,14 +2958,6 @@
     "price": "870 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27838_17792820331.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-3-1-se-stresni-terasou-80-m2-ve-vyhledavane-casti-pafosu/27838?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-27839",
-    "title": "Samostatně stojící vila 3+1 pouhých 100 m od moře v oblíbené oblasti Kissonerga",
-    "country": "cz",
-    "price": "670 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27839_17792820554.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-3-1-pouhych-100-m-od-more-v-oblibene-oblasti-kissonerga/27839?aff=l4todz91fb"
   },
   {
     "id": "feed-27891",
@@ -3998,5 +3958,45 @@
     "price": "2.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31255_17842670970.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-more-estepona/31255?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31271",
+    "title": "Luxusní vila s bazénem, výhledy na moře, Málaga",
+    "country": "cz",
+    "price": "2.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31271_17842676190.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-vyhledy-na-more-malaga/31271?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31315",
+    "title": "Luxusní vila s výhledem na moře, bazénem, Xàbia",
+    "country": "cz",
+    "price": "1.8 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31315_17843521870.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-bazenem-xabia/31315?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30016",
+    "title": "Luxusní vila 4+1 se soukromým bazénem, střešní terasou a pouhých 750 metrů od moře v Pafosu",
+    "country": "cz",
+    "price": "960 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30016_17825886351.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-stresni-terasou-a-pouhych-750-metru-od-more-v-pafosu/30016?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29371",
+    "title": "Luxusní vila 4+1 se soukromým bazénem a prostornou terasou v oblasti Peyia, Kypr",
+    "country": "cz",
+    "price": "916 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29371_17816206431.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-prostornou-terasou-v-oblasti-peyia-kypr/29371?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29440",
+    "title": "Exkluzivní vila 5+1 se soukromým bazénem v centru Pafosu",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29440_17816958471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-5-1-se-soukromym-bazenem-v-centru-pafosu/29440?aff=l4todz91fb"
   }
 ]
