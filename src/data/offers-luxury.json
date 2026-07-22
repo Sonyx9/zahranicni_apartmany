@@ -3048,14 +3048,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-morem-na-dosah-punta-prima/28975?aff=l4todz91fb"
   },
   {
-    "id": "feed-29093",
-    "title": "Luxusní vila s výhledem a bazénem v blízkostí pláže v přírodní oáze – Pavićini, Duga Uvala, Istrie",
-    "country": "cz",
-    "price": "680 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290935_1780919489.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-a-bazenem-v-blizkosti-plaze-v-prirodni-oaze-pavicini-duga-uvala-istrie/29093?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29095",
     "title": "Elegantní vila s bazénem a letní kuchyní v klidné zóně Privlaki Ideální místo pro odpočinek a zábavu",
     "country": "cz",
@@ -3070,14 +3062,6 @@
     "price": "680 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290967_1780921000.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-vyhledem-na-more-vir/29096?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-29097",
-    "title": "Exkluzivní vila v první řadě u moře s výhledem na Hvar, Živogošće",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290972_1780921275.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-v-prvni-rade-u-more-s-vyhledem-na-hvar-zivogosce/29097?aff=l4todz91fb"
   },
   {
     "id": "feed-29140",
@@ -3278,14 +3262,6 @@
     "price": "374 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29983_17825382290.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-chata-u-golfu-hacienda-del-alamo-murcia/29983?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-29990",
-    "title": "Luxusní vila u pláže Los Nardos, Almería",
-    "country": "cz",
-    "price": "350 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29990_17825387380.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-plaze-los-nardos-almeria/29990?aff=l4todz91fb"
   },
   {
     "id": "feed-30104",
@@ -3998,5 +3974,29 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29440_17816958471.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-5-1-se-soukromym-bazenem-v-centru-pafosu/29440?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29443",
+    "title": "Prostorná vila s pozemkem ve výhodné lokalitě Pernera, Kypr",
+    "country": "cz",
+    "price": "652 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29443_17817048404.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-vila-s-pozemkem-ve-vyhodne-lokalite-pernera-kypr/29443?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31419",
+    "title": "Luxusní vila v první linii u moře s výhledem na Hvar, Živogošće, Chorvatsko",
+    "country": "cz",
+    "price": "1.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3141919_1784620307.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-v-prvni-linii-u-more-s-vyhledem-na-hvar-zivogosce-chorvatsko/31419?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29367",
+    "title": "Luxusní vila 3+1 se soukromým bazénem na rozlehlém pozemku v prestižní golfové lokalitě, Kypr",
+    "country": "cz",
+    "price": "1.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29367_17816205761.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-se-soukromym-bazenem-na-rozlehlem-pozemku-v-prestizni-golfove-lokalite-kypr/29367?aff=l4todz91fb"
   }
 ]
