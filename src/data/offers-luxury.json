@@ -2184,14 +2184,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-1-km-od-more-la-cala-de-mijas/26055?aff=l4todz91fb"
   },
   {
-    "id": "feed-26087",
-    "title": "Exkluzivní vila, soukromý bazén a výhled na moře, Teulada",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26087_17744200040.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-vyhled-na-more-teulada/26087?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26097",
     "title": "Exkluzivní vila, soukromý bazén a výhled na moře, Altea",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.2 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29367_17816205761.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-se-soukromym-bazenem-na-rozlehlem-pozemku-v-prestizni-golfove-lokalite-kypr/29367?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31209",
+    "title": "Elegantní vila 4+kk s infinity bazénem a výhledem na hory - Aspro, Kréta, Řecko",
+    "country": "cz",
+    "price": "463 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31209_2196890564.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-4-kk-s-infinity-bazenem-a-vyhledem-na-hory-aspro-kreta-recko/31209?aff=l4todz91fb"
   }
 ]
