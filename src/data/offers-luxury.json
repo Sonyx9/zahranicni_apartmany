@@ -2360,14 +2360,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-samostatny-dum-soukromy-bazen-a-zahrada-ciudad-quesada/24055?aff=l4todz91fb"
   },
   {
-    "id": "feed-24043",
-    "title": "Exkluzivní vila s výhledem na moře a soukromou zahradou, Finestrat",
-    "country": "cz",
-    "price": "760 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24043_17717153320.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-a-soukromou-zahradou-finestrat/24043?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23991",
     "title": "Luxusní vila, s privátním bazénem a zahradou, Ciudad Quesada",
     "country": "cz",
@@ -3536,14 +3528,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-vera/30431?aff=l4todz91fb"
   },
   {
-    "id": "feed-30452",
-    "title": "Luxusní vila s výhledem na moře, golf i letiště, Las Lagunas de Mijas",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30452_17836618700.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-golf-i-letiste-las-lagunas-de-mijas/30452?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30419",
     "title": "Luxusní 3+kk, výhled na moře, krásný komplex Villa Florence, Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "463 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31209_2196890564.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-4-kk-s-infinity-bazenem-a-vyhledem-na-hory-aspro-kreta-recko/31209?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31421",
+    "title": "Luxusní vila s bazénem a výhledem na moře v přírodní oáze, Pavićini – Duga Uvala, Chorvatsko",
+    "country": "cz",
+    "price": "680 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314215_1784621177.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-vyhledem-na-more-v-prirodni-oaze-pavicini-duga-uvala-chorvatsko/31421?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29438",
+    "title": "Moderní vila 2+1 se soukromým bazénem a prostornými terasami ve vyhledávané golfové lokalitě, Kypr",
+    "country": "cz",
+    "price": "390 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29438_17816958291.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-se-soukromym-bazenem-a-prostornymi-terasami-ve-vyhledavane-golfove-lokalite-kypr/29438?aff=l4todz91fb"
   }
 ]
