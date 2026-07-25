@@ -104,14 +104,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-byt-2-kk-v-komplexu-ocean-pearl-500-metru-od-more-pratumnak-v-pesi-vzdalenosti-od-more/15365?aff=l4todz91fb"
   },
   {
-    "id": "feed-15527",
-    "title": "Krasný byt 1+kk jen 150 metrů od rajské pláže v luxusním komplexu, Na Jomtien, Thajsko",
-    "country": "cz",
-    "price": "75 650 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/15527_7175578611.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-byt-1-kk-jen-150-metru-od-rajske-plaze-v-luxusnim-komplexu-na-jomtien-thajsko/15527?aff=l4todz91fb"
-  },
-  {
     "id": "feed-15538",
     "title": "Moderní byt 1+kk, Jomtien, Thajsko – pouhých 200 metrů od pláže s úžasným výhledem na moře!",
     "country": "cz",
@@ -992,14 +984,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-vyhledem-na-more-v-malebne-byale-idealni-pro-rodinnou-dovolenou-i-investici/18098?aff=l4todz91fb"
   },
   {
-    "id": "feed-18119",
-    "title": "Luxusní studio ve špičkovém komplexu – váš kousek ráje v Thajsku!",
-    "country": "cz",
-    "price": "75 720 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18119_5021963684.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-studio-ve-spickovem-komplexu-vas-kousek-raje-v-thajsku/18119?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18169",
     "title": "Elegantní apartmán 2+kk jen 100 m od pláže - ideální lokalita, oblast Durres, Albánie",
     "country": "cz",
@@ -1518,14 +1502,6 @@
     "price": "59 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18640_6917853740.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-terasou-v-komplexu-fregata-sveti-vlas/18640?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-15813",
-    "title": "Exkluzivní apartmán s nádherným výhledem na moře v prestižním komplexu,  Pattaya",
-    "country": "cz",
-    "price": "95 600 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/15813_7587139870.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartman-s-nadhernym-vyhledem-na-more-v-prestiznim-komplexu-pattaya/15813?aff=l4todz91fb"
   },
   {
     "id": "feed-18730",
@@ -3998,5 +3974,29 @@
     "price": "58 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234954_1770362737.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-krasnym-vyhledem-na-more-v-komplexu-marina-fort-v-prvni-linii-sveti-vlas/23495?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23502",
+    "title": "Kompletně vybavený 2+kk pouze 400 metrů od pláže, v komplexu Boomerang, Sluneční pobřeží",
+    "country": "cz",
+    "price": "113 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23502_3704074045.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-2-kk-pouze-400-metru-od-plaze-v-komplexu-boomerang-slunecni-pobrezi/23502?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23497",
+    "title": "1+kk, v komplexu Domenico, Sluneční pobřeží",
+    "country": "cz",
+    "price": "58 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234971_1770365304.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-komplexu-domenico-slunecni-pobrezi/23497?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23501",
+    "title": "2+kk s úchvatným výhledem na moře, ve skvělém komplexu Majestic, Sluneční pobřeží, Bulharsko",
+    "country": "cz",
+    "price": "111 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23501_3696727970.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-uchvatnym-vyhledem-na-more-ve-skvelem-komplexu-majestic-slunecni-pobrezi-bulharsko/23501?aff=l4todz91fb"
   }
 ]
