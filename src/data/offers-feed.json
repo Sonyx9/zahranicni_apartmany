@@ -24,22 +24,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-bytovem-dome-bez-poplatku-za-udrzbu-300m-od-plaze-sozopol/14151?aff=l4todz91fb"
   },
   {
-    "id": "feed-14917",
-    "title": "2+kk v Gardenia Hills, možnost splátky až na 10 let, Sluneční pobřeží",
-    "country": "cz",
-    "price": "87 175 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/14917_8391586387.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-gardenia-hills-moznost-splatky-az-na-10-let-slunecni-pobrezi/14917?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-14919",
-    "title": "2+kk s výhledem na bazén, v Gardenia Hills, možnost splátky až na 10 let, Sluneční pobřeží",
-    "country": "cz",
-    "price": "89 507 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/14919_8401326689.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-gardenia-hills-moznost-splatky-az-na-10-let-slunecni-pobrezi/14919?aff=l4todz91fb"
-  },
-  {
     "id": "feed-14994",
     "title": "3+kk s parkovacím stáním, komplex Kavarna Hills, Kavarna",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "111 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23501_3696727970.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-uchvatnym-vyhledem-na-more-ve-skvelem-komplexu-majestic-slunecni-pobrezi-bulharsko/23501?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23548",
+    "title": "2+kk s výhledem na bazén, v komplexu Siana, možnost splátek, Sveti Vlas",
+    "country": "cz",
+    "price": "89 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/235483_1770559796.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-siana-moznost-splatek-sveti-vlas/23548?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23579",
+    "title": "2+kk v první linii → panoramatická terasa a otevřený výhled na moře → Aheloy, Bulharsko",
+    "country": "cz",
+    "price": "93 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23579_6427820591.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-prvni-linii-panoramaticka-terasa-a-otevreny-vyhled-na-more-aheloy-bulharsko/23579?aff=l4todz91fb"
   }
 ]

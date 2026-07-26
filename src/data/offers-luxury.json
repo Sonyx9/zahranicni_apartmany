@@ -3896,14 +3896,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-vyhledy-na-more-malaga/31271?aff=l4todz91fb"
   },
   {
-    "id": "feed-31315",
-    "title": "Luxusní vila s výhledem na moře, bazénem, Xàbia",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31315_17843521870.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-bazenem-xabia/31315?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30016",
     "title": "Luxusní vila 4+1 se soukromým bazénem, střešní terasou a pouhých 750 metrů od moře v Pafosu",
     "country": "cz",
@@ -3934,14 +3926,6 @@
     "price": "652 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29443_17817048404.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-vila-s-pozemkem-ve-vyhodne-lokalite-pernera-kypr/29443?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31419",
-    "title": "Luxusní vila v první linii u moře s výhledem na Hvar, Živogošće, Chorvatsko",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/3141919_1784620307.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-v-prvni-linii-u-more-s-vyhledem-na-hvar-zivogosce-chorvatsko/31419?aff=l4todz91fb"
   },
   {
     "id": "feed-29367",
@@ -3998,5 +3982,21 @@
     "price": "992 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314270_1784637960.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-rozlehlou-terasou-v-lokalite-peyia-kypr/31427?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31430",
+    "title": "Luxusní vila 4+1 se soukromým bazénem a střešní terasou ve vyhledávané oblasti Pafosu, Kypr",
+    "country": "cz",
+    "price": "920 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314300_1784639017.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-stresni-terasou-ve-vyhledavane-oblasti-pafosu-kypr/31430?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31431",
+    "title": "Exkluzivní vila 3+1 s terasou a sklepem v klidné lokalitě Polis, Kypr",
+    "country": "cz",
+    "price": "539 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314310_1784640335.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-3-1-s-terasou-a-sklepem-v-klidne-lokalite-polis-kypr/31431?aff=l4todz91fb"
   }
 ]
