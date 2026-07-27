@@ -2512,14 +2512,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/studio-v-unikatnim-komplexu-jen-800-m-od-plaze-idealni-pro-zimni-unik-nebo-investici/20055?aff=l4todz91fb"
   },
   {
-    "id": "feed-20057",
-    "title": "Kompletně zařízené studio v moderním rezidenčním komplexu se střešním bazénem, Pattaya",
-    "country": "cz",
-    "price": "57 800 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2005725_1763044517.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-zarizene-studio-v-modernim-rezidencnim-komplexu-se-stresnim-bazenem-pattaya/20057?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20079",
     "title": "Hezký 1+kk s výhledem na bazén, komplex Panorama Bay 1, Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3062,14 +3054,6 @@
     "price": "92 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/214050_1765367971.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-200-m-od-plaze-komplex-sea-lighthouse-sveti-vlas/21405?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-20798",
-    "title": "Moderní apartmán v atraktivním komplexu, Pattaya – Tropický život u oceánu",
-    "country": "cz",
-    "price": "53 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20798_5412866671.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartman-v-atraktivnim-komplexu-pattaya-tropicky-zivot-u-oceanu/20798?aff=l4todz91fb"
   },
   {
     "id": "feed-22242",
@@ -3998,5 +3982,21 @@
     "price": "93 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23579_6427820591.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-prvni-linii-panoramaticka-terasa-a-otevreny-vyhled-na-more-aheloy-bulharsko/23579?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23595",
+    "title": "Moderní apartmán 3+kk – jen 30m od pláže. Wongamat, Pattaya",
+    "country": "cz",
+    "price": "128 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23595_6505075833.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartman-3-kk-jen-30m-od-plaze-wongamat-pattaya/23595?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23589",
+    "title": "kompletně vybavený, 3+kk, top poloha, komplex Gerber 2, Sluneční pobřeží",
+    "country": "cz",
+    "price": "78 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/235891_1770646837.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-3-kk-top-poloha-komplex-gerber-2-slunecni-pobrezi/23589?aff=l4todz91fb"
   }
 ]

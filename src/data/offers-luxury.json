@@ -2400,14 +2400,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/impozantni-vila-privatni-bazen-3-km-od-more-marbella/22089?aff=l4todz91fb"
   },
   {
-    "id": "feed-22069",
-    "title": "luxusní vila → výhled na moře, 1 km od golfu → Benahavís",
-    "country": "cz",
-    "price": "22.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22069_17656014380.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-1-km-od-golfu-benahavis/22069?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22067",
     "title": "Exkluzivní vila → panoramatické výhledy na moře a soukromý bazén → Benahavís",
     "country": "cz",
@@ -3144,14 +3136,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-soukromym-bazenem-v-prestizni-lokalite-pafosu-kypr/29505?aff=l4todz91fb"
   },
   {
-    "id": "feed-29509",
-    "title": "Azalea Villas - Vila č. 1713/22",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/azalea-villas-vila-c-1713-22/29509?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29383",
     "title": "Moderní vila s bazénem v klidném resortu Mazarrón Country Club, Španělsko",
     "country": "cz",
@@ -3398,14 +3382,6 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30300_17834020960.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-u-more-bazen-a-letiste-mijas/30300?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-29281",
-    "title": "Plážové vily Pelagos - Vila č. 51",
-    "country": "cz",
-    "price": "820 000 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/plazove-vily-pelagos-vila-c-51/29281?aff=l4todz91fb"
   },
   {
     "id": "feed-29282",
@@ -3712,14 +3688,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-u-more-marbella/30983?aff=l4todz91fb"
   },
   {
-    "id": "feed-31025",
-    "title": "Exkluzivní vila s výhledem na moře, blízko pláže, Marbella",
-    "country": "cz",
-    "price": "5.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31025_17841108850.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-blizko-plaze-marbella/31025?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31038",
     "title": "Luxusní vily u moře, Casares",
     "country": "cz",
@@ -3912,14 +3880,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-a-prostornou-terasou-v-oblasti-peyia-kypr/29371?aff=l4todz91fb"
   },
   {
-    "id": "feed-29440",
-    "title": "Azalea Villas - Vila č. 1718/27",
-    "country": "cz",
-    "price": "1.3 mil. €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/azalea-villas-vila-c-1718-27/29440?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29443",
     "title": "Prostorná vila s pozemkem ve výhodné lokalitě Pernera, Kypr",
     "country": "cz",
@@ -3998,5 +3958,45 @@
     "price": "539 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314310_1784640335.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-3-1-s-terasou-a-sklepem-v-klidne-lokalite-polis-kypr/31431?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31432",
+    "title": "Luxusní vila 3+1 se soukromým bazénem a rozsáhlými terasami ve vyhledávanégolfové l okalitě, Kypr",
+    "country": "cz",
+    "price": "1.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314320_1784641578.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-se-soukromym-bazenem-a-rozsahlymi-terasami-ve-vyhledavanegolfove-l-okalite-kypr/31432?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31433",
+    "title": "Moderní vila 2+1 s bazénem a prostornými terasami v golfové lokalitě, Kypr",
+    "country": "cz",
+    "price": "397 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314330_1784642485.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-s-bazenem-a-prostornymi-terasami-v-golfove-lokalite-kypr/31433?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31466",
+    "title": "Exkluzivní vila u moře a golfu, Estepona",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31466_17846980090.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-a-golfu-estepona/31466?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31481",
+    "title": "Luxusní vily s výhledem na moře, Benahavís",
+    "country": "cz",
+    "price": "6.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31481_17846984760.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-benahavis/31481?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31488",
+    "title": "Tradiční vila 5+kk s luxusním vybavením a bazénem - Almyrida, Kréta, Řecko",
+    "country": "cz",
+    "price": "898 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31488_7117994838.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/tradicni-vila-5-kk-s-luxusnim-vybavenim-a-bazenem-almyrida-kreta-recko/31488?aff=l4todz91fb"
   }
 ]
