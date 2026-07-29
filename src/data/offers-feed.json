@@ -760,14 +760,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-prirodu-v-prestiznim-komplexu-serena-residence-sozopol/16862?aff=l4todz91fb"
   },
   {
-    "id": "feed-17277",
-    "title": "2+kk vedle pláže Bamboo Beach v Sozopolu",
-    "country": "cz",
-    "price": "122 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17277_17462880192.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-vedle-plaze-bamboo-beach-v-sozopolu/17277?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17306",
     "title": "Prostorný 3+kk s balkonem, komplex Sunny Day 5, Tankovo",
     "country": "cz",
@@ -878,14 +870,6 @@
     "price": "127 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1790727_1750756561.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-ve-vybornem-komplexu-privilege-fort-beach-sveti-vlas/17907?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-17940",
-    "title": "2+kk, v komplexu Privilege fort, Sveti Vlas- Elenite",
-    "country": "cz",
-    "price": "76 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1794010_1750838273.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-komplexu-privilege-fort-sveti-vlas-elenite/17940?aff=l4todz91fb"
   },
   {
     "id": "feed-17950",
@@ -3998,5 +3982,21 @@
     "price": "58 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237331_1771006020.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-1-kk-s-prostornou-terasu-kousek-od-more-slunecni-pobrezi/23733?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23734",
+    "title": "Apartmán 2+kk v Blue Pearl – přímo na pláži Slunečného pobřeží",
+    "country": "cz",
+    "price": "80 400 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237341_1771006298.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-blue-pearl-primo-na-plazi-slunecneho-pobrezi/23734?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23728",
+    "title": "Jen pár kroků k moři – váš apartmán v komplexu Favorit, Slunečné pobřeží",
+    "country": "cz",
+    "price": "92 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23728_9839275779.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jen-par-kroku-k-mori-vas-apartman-v-komplexu-favorit-slunecne-pobrezi/23728?aff=l4todz91fb"
   }
 ]
