@@ -1936,14 +1936,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-kousek-od-more-komplex-glarus-kavarna/19385?aff=l4todz91fb"
   },
   {
-    "id": "feed-19410",
-    "title": "Prostorný apartmán 2+kk s výhledem na bazén – Riviera Fort Beach, Ravda",
-    "country": "cz",
-    "price": "101 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1941014_1760374014.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-vyhledem-na-bazen-riviera-fort-beach-ravda/19410?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19416",
     "title": "Stylový apartmán v prestižním komplexu u pláže v Batumi. Plně vybavený, připravený k nastěhování.",
     "country": "cz",
@@ -3408,14 +3400,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-mesto-v-komplexu-royal-sun-slunecni-pobrezi/22729?aff=l4todz91fb"
   },
   {
-    "id": "feed-22860",
-    "title": "Prostorný 1+kk, luxusní komplex Afrodita Palace, Sluneční pobřeží",
-    "country": "cz",
-    "price": "59 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228603_1768641670.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-luxusni-komplex-afrodita-palace-slunecni-pobrezi/22860?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22861",
     "title": "1+kk v blízkosti Cacao Beach, komplex Sun City 1, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "92 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23728_9839275779.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jen-par-kroku-k-mori-vas-apartman-v-komplexu-favorit-slunecne-pobrezi/23728?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23747",
+    "title": "Boka Bay, Hurghada, Luxusní duplex 200 m², Střešní terasa, Výhled na moře",
+    "country": "cz",
+    "price": "128 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237472_1771184721.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/boka-bay-hurghada-luxusni-duplex-200-m-2-stresni-terasa-vyhled-na-more/23747?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23787",
+    "title": "Apartmán 2+kk po kompletní rekonstrukci – Golden Dreams, Slunečné pobřeží",
+    "country": "cz",
+    "price": "92 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23787_2643245975.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-po-kompletni-rekonstrukci-golden-dreams-slunecne-pobrezi/23787?aff=l4todz91fb"
   }
 ]

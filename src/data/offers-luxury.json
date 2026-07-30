@@ -2448,14 +2448,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-benahavis/21970?aff=l4todz91fb"
   },
   {
-    "id": "feed-21948",
-    "title": "Exkluzivní vila → 5 km od moře, soukromý bazén a zahrada → Pueblo Nuevo",
-    "country": "cz",
-    "price": "12.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21948_17655956080.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-5-km-od-more-soukromy-bazen-a-zahrada-pueblo-nuevo/21948?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21940",
     "title": "Exkluzivní vila → výhled na moře a soukromý bazén → Marbella",
     "country": "cz",
@@ -3984,19 +3976,27 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizena-vila-3-kk-s-panoramatickym-vyhledem-na-more-stresni-terasa-kokkino-chorio-kreta-recko/31582?aff=l4todz91fb"
   },
   {
-    "id": "feed-32375",
-    "title": "Luxusní twin vila 4+kk s bazénem na prodej v Hurghadě | Mubarak 7 | 490 m² | Zařízená",
-    "country": "cz",
-    "price": "312 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32375_9868550156.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-twin-vila-4-kk-s-bazenem-na-prodej-v-hurghade-mubarak-7-490-m-2-zarizena/32375?aff=l4todz91fb"
-  },
-  {
     "id": "feed-32377",
     "title": "Luxusní vila s bazénem, Ciudad Quesada",
     "country": "cz",
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32377_17850434420.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-ciudad-quesada/32377?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32331",
+    "title": "Exkluzivní vila 4+1 s bazénem a rozlehlou zahradou v oblasti Neo Chorio, Kypr",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32331_17849337427.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-4-1-s-bazenem-a-rozlehlou-zahradou-v-oblasti-neo-chorio-kypr/32331?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32326",
+    "title": "Luxusní vila 4+1 s přelivovým bazénem v oblasti Tsada poblíž Pafosu, Kypr",
+    "country": "cz",
+    "price": "1.6 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32326_17849334471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-s-prelivovym-bazenem-v-oblasti-tsada-pobliz-pafosu-kypr/32326?aff=l4todz91fb"
   }
 ]
