@@ -3664,14 +3664,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-vyhled-na-more-finestrat/31167?aff=l4todz91fb"
   },
   {
-    "id": "feed-31193",
-    "title": "Elegantní vily u moře, San Pedro Alcántara",
-    "country": "cz",
-    "price": "4.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31193_17841839270.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-u-more-san-pedro-alcantara/31193?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31201",
     "title": "Luxusní vila u Puerto Banús, Atalaya, Estepona",
     "country": "cz",
@@ -3912,14 +3904,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stredomorska-vila-5-kk-s-bazenem-a-vyhledem-na-more-licence-eot-plaka-kreta-recko/31490?aff=l4todz91fb"
   },
   {
-    "id": "feed-31422",
-    "title": "Exkluzivní vila 7+kk přímo na pláži, 485 m², vyhřívaný bazén - Kokkini Hani, Kréta, Řecko",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31422_6227211856.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-7-kk-primo-na-plazi-485-m-2-vyhrivany-bazen-kokkini-hani-kreta-recko/31422?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31512",
     "title": "Elegantní vila s bazénem a zahradou, Polop",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32326_17849334471.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-s-prelivovym-bazenem-v-oblasti-tsada-pobliz-pafosu-kypr/32326?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31886",
+    "title": "Elegantní vila 3+1 se soukromou zahradou v docházkové vzdálenosti od pobřeží v oblasti Kapparis",
+    "country": "cz",
+    "price": "523 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31886_17849091431.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-3-1-se-soukromou-zahradou-v-dochazkove-vzdalenosti-od-pobrezi-v-oblasti-kapparis/31886?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32322",
+    "title": "Samostatně stojící vila v Chlorace, Paphos",
+    "country": "cz",
+    "price": "780 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32322_17849334281.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/32322?aff=l4todz91fb"
   }
 ]
