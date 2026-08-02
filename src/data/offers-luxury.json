@@ -2176,14 +2176,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-1-km-od-more-la-cala-de-mijas/26055?aff=l4todz91fb"
   },
   {
-    "id": "feed-26097",
-    "title": "Exkluzivní vila, soukromý bazén a výhled na moře, Altea",
-    "country": "cz",
-    "price": "2.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26097_17744205480.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-vyhled-na-more-altea/26097?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26194",
     "title": "Exkluzivní samostatná vila pár kroků od pláže | 2 ložnice | 138 m² | ihned k užívání",
     "country": "cz",
@@ -3608,14 +3600,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-orihuela-costa/31149?aff=l4todz91fb"
   },
   {
-    "id": "feed-31150",
-    "title": "Moderní vila s bazénem, pobřeží Costa Blanca, Daya Nueva",
-    "country": "cz",
-    "price": "388 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31150_17841824430.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-pobrezi-costa-blanca-daya-nueva/31150?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31167",
     "title": "Exkluzivní vila s bazénem, výhled na moře, Finestrat",
     "country": "cz",
@@ -3702,14 +3686,6 @@
     "price": "2.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31255_17842670970.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-more-estepona/31255?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31271",
-    "title": "Luxusní vila s bazénem, výhledy na moře, Málaga",
-    "country": "cz",
-    "price": "2.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31271_17842676190.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-vyhledy-na-more-malaga/31271?aff=l4todz91fb"
   },
   {
     "id": "feed-30016",
@@ -3998,5 +3974,29 @@
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32305_17849325211.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kato-paphos-paphos/32305?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32304",
+    "title": "Samostatně stojící vila v Moni, Limassol",
+    "country": "cz",
+    "price": "530 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32304_17849325161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moni-limassol/32304?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32297",
+    "title": "Samostatně stojící vila v Konia, Paphos",
+    "country": "cz",
+    "price": "650 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32297_17849319391.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32297?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32295",
+    "title": "Samostatně stojící vila v Chlorace, Paphos",
+    "country": "cz",
+    "price": "780 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32295_17849319291.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/32295?aff=l4todz91fb"
   }
 ]
