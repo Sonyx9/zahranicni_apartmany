@@ -112,14 +112,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherna-vila-3-1-velky-pozemek-vlastni-bazen-a-garantovany-vynos-5-az-8-rocne/11177?aff=l4todz91fb"
   },
   {
-    "id": "feed-11288",
-    "title": "Velká vila s bazénem na Kypru za cenu garsonky v Praze",
-    "country": "cz",
-    "price": "221 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/11288_9928437829.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velka-vila-s-bazenem-na-kypru-za-cenu-garsonky-v-praze/11288?aff=l4todz91fb"
-  },
-  {
     "id": "feed-11641",
     "title": "Garantovaný výnos 5 až 8 % , nádherná vila 4+1 vlastní bazén a tří koupelny",
     "country": "cz",
@@ -2152,14 +2144,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-a-vyhled-na-more-cumbre-del-sol/26043?aff=l4todz91fb"
   },
   {
-    "id": "feed-26048",
-    "title": "Luxusní vila s výhledem na moře a soukromým bazénem, Cumbre del Sol",
-    "country": "cz",
-    "price": "1.4 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26048_17743339940.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-cumbre-del-sol/26048?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26049",
     "title": "Exkluzivní vily, výhled na moře a soukromý bazén, Cumbre del Sol",
     "country": "cz",
@@ -2638,14 +2622,6 @@
     "price": "213 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27347_8425591126.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-kk-s-vlastnim-bazenem-a-vyhledem-na-golf-lighthouse-golf-resort/27347?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-27537",
-    "title": "Luxusní vila s výhledem na moře a soukromým bazénem, Benissa",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27537_17783043600.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-a-soukromym-bazenem-benissa/27537?aff=l4todz91fb"
   },
   {
     "id": "feed-27553",
@@ -3424,14 +3400,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-golfu-la-finca-golf-torrevieja/30674?aff=l4todz91fb"
   },
   {
-    "id": "feed-30723",
-    "title": "Exkluzivní vila s výhledem na moře, Teulada",
-    "country": "cz",
-    "price": "2.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30723_17840999400.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-teulada/30723?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30728",
     "title": "Elegantní vily u moře, Dehesa de Campoamor, Orihuela Costa",
     "country": "cz",
@@ -3998,5 +3966,37 @@
     "price": "780 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32295_17849319291.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/32295?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32294",
+    "title": "Dvojdomek v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "1.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32294_17849319231.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvojdomek-v-agios-tychonas-limassol/32294?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32293",
+    "title": "Samostatně stojící vila v Platres, Limassol",
+    "country": "cz",
+    "price": "950 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32293_17849319161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-platres-limassol/32293?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32292",
+    "title": "DELEAR VILLA 5",
+    "country": "cz",
+    "price": "551 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32292_17849316371.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-5/32292?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32289",
+    "title": "Samostatně stojící vila v Pegia - Sea Caves, Paphos",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32289_17849316251.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32289?aff=l4todz91fb"
   }
 ]
