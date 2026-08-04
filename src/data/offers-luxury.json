@@ -2152,14 +2152,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-cumbre-del-sol/26049?aff=l4todz91fb"
   },
   {
-    "id": "feed-26055",
-    "title": "Luxusní vila, soukromý bazén, 1 km od moře, La Cala de Mijas",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26055_17743344550.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-1-km-od-more-la-cala-de-mijas/26055?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26194",
     "title": "Exkluzivní samostatná vila pár kroků od pláže | 2 ložnice | 138 m² | ihned k užívání",
     "country": "cz",
@@ -3424,14 +3416,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-u-letiste-jimenado/30759?aff=l4todz91fb"
   },
   {
-    "id": "feed-30783",
-    "title": "Exkluzivní byt u moře, zahrady a bazén, La Vila Joiosa",
-    "country": "cz",
-    "price": "430 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30783_17841022640.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-byt-u-more-zahrady-a-bazen-la-vila-joiosa/30783?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30818",
     "title": "Exkluzivní vila s výhledem na moře, Almuñécar",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32289_17849316251.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32289?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32288",
+    "title": "Aquamarine Coastal Villas - Vila č. 34",
+    "country": "cz",
+    "price": "980 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32288_17849313511.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/aquamarine-coastal-villas-vila-c-34/32288?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32287",
+    "title": "Samostatně stojící vila v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "10.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32287_17849313451.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32287?aff=l4todz91fb"
   }
 ]
