@@ -664,14 +664,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-1-kk-v-pomorie-kvalita-komfort-a-skvela-investice/16733?aff=l4todz91fb"
   },
   {
-    "id": "feed-17017",
-    "title": "1+kk s výhledem na bazén v komplexu Panorama Bay 1, Sveti Vlas, Bulharsko",
-    "country": "cz",
-    "price": "56 300 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17017_6148622643.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-v-komplexu-panorama-bay-1-sveti-vlas-bulharsko/17017?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17052",
     "title": "2+kk v útulném komplexu s grilem, v blízkosti pláže, Kranevo",
     "country": "cz",
@@ -3304,14 +3296,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-2-kk-u-plaze-moznost-splatek-veranda-sahl-hasheesh-egypt/22653?aff=l4todz91fb"
   },
   {
-    "id": "feed-22648",
-    "title": "Útulný 1+kk, možnost splátek, komplex Jasmin Club, centrální část letoviska, v blízkosti pláže",
-    "country": "cz",
-    "price": "55 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22648_8639093842.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-moznost-splatek-komplex-jasmin-club-centralni-cast-letoviska-v-blizkosti-plaze/22648?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22684",
     "title": "Moderní 2+kk na splátky, s komfortem a stylem – Pomorie",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "92 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23787_2643245975.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-po-kompletni-rekonstrukci-golden-dreams-slunecne-pobrezi/23787?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23790",
+    "title": "2+kk s terasou a výhledem na moře, prestižní komplex v první linii, Sveti Vlas",
+    "country": "cz",
+    "price": "101 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237903_1771266460.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-a-vyhledem-na-more-prestizni-komplex-v-prvni-linii-sveti-vlas/23790?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23730",
+    "title": "2+kk, komplex Sun City 3, Sluneční pobřeží",
+    "country": "cz",
+    "price": "83 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237305_1770990176.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-komplex-sun-city-3-slunecni-pobrezi/23730?aff=l4todz91fb"
   }
 ]
