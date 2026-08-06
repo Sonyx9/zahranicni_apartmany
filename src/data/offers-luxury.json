@@ -2120,14 +2120,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartmany-400-m-od-more-a-se-spolecnym-bazenem-la-vila-joiosa/25946?aff=l4todz91fb"
   },
   {
-    "id": "feed-25966",
-    "title": "Exkluzivní rezidence, 400 m od moře, La Vila Joiosa",
-    "country": "cz",
-    "price": "346 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25966_17740743110.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-rezidence-400-m-od-more-la-vila-joiosa/25966?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25967",
     "title": "Exkluzivní byty, 400 m od moře se společným bazénem, La Vila Joiosa",
     "country": "cz",
@@ -3280,14 +3272,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-blizko-more-soukromy-bazen-mijas/30356?aff=l4todz91fb"
   },
   {
-    "id": "feed-30394",
-    "title": "Luxusní vila s výhledem na moře, u golfu, Las Lagunas de Mijas",
-    "country": "cz",
-    "price": "2.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30394_17835749800.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-u-golfu-las-lagunas-de-mijas/30394?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30410",
     "title": "Luxusní vila 3+1 se soukromým bazénem a střešní terasou v prestižní části Pafosu, Kypr",
     "country": "cz",
@@ -3592,14 +3576,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-s-bazenem-a-zahradou-algorfa/31216?aff=l4todz91fb"
   },
   {
-    "id": "feed-31217",
-    "title": "Exkluzivní vily s bazénem a zahradou v Algorfě",
-    "country": "cz",
-    "price": "670 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31217_17842659740.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-bazenem-a-zahradou-v-algorfe/31217?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31219",
     "title": "Luxusní vila s výhledem na moře, Benissa",
     "country": "cz",
@@ -3865,19 +3841,19 @@
   },
   {
     "id": "feed-32321",
-    "title": "Samostatně stojící vila v Pervolia, Larnaka",
+    "title": "Exkluzivní vila 5+1 se soukromým bazénem a rozlehlou zahradou v oblasti Pervolia, Kypr",
     "country": "cz",
     "price": "3.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32321_17849334231.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pervolia-larnaka/32321?aff=l4todz91fb"
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-5-1-se-soukromym-bazenem-a-rozlehlou-zahradou-v-oblasti-pervolia-kypr/32321?aff=l4todz91fb"
   },
   {
     "id": "feed-32319",
-    "title": "Samostatně stojící vila v Tsadě, Paphos",
+    "title": "Prostorná vila 6+1 na velkorysém pozemku se soukromým bazénem v oblasti Tsada, Kypr",
     "country": "cz",
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32319_17849331451.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsade-paphos/32319?aff=l4todz91fb"
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-vila-6-1-na-velkorysem-pozemku-se-soukromym-bazenem-v-oblasti-tsada-kypr/32319?aff=l4todz91fb"
   },
   {
     "id": "feed-32317",
@@ -3998,5 +3974,29 @@
     "price": "440 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32284_17849313241.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvojdomek-v-empe-paphos/32284?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32283",
+    "title": "Samostatně stojící vila v Ayia Napa, Famagusta",
+    "country": "cz",
+    "price": "525 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32283_17849310481.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayia-napa-famagusta/32283?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32282",
+    "title": "DELEAR VILLA 6",
+    "country": "cz",
+    "price": "569 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32282_17849310341.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-6/32282?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32277",
+    "title": "Samostatně stojící vila v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "2.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32277_17849307241.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32277?aff=l4todz91fb"
   }
 ]
