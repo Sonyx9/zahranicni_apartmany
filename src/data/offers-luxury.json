@@ -2280,14 +2280,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-samostatny-dum-soukromy-bazen-a-zahrada-ciudad-quesada/24055?aff=l4todz91fb"
   },
   {
-    "id": "feed-23991",
-    "title": "Luxusní vila, s privátním bazénem a zahradou, Ciudad Quesada",
-    "country": "cz",
-    "price": "925 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23991_17717119250.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-privatnim-bazenem-a-zahradou-ciudad-quesada/23991?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23974",
     "title": "Luxusní byty 200 m od moře, La Vila Joiosa",
     "country": "cz",
@@ -2414,14 +2406,6 @@
     "price": "4.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21836_17655899730.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-soukromy-bazen-1-km-od-plaze-marbella/21836?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21773",
-    "title": "Exkluzivní vila → s výhledem na moře a soukromým bazénem → Altea",
-    "country": "cz",
-    "price": "2.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21773_17655866180.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-a-soukromym-bazenem-altea/21773?aff=l4todz91fb"
   },
   {
     "id": "feed-21772",
@@ -2774,14 +2758,6 @@
     "price": "2.9 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28500_17803783270.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfoveho-hriste-s-vyhledem-na-more-buenas-noches/28500?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-28609",
-    "title": "Luxusní vila u moře, soukromý bazén a garáž, Estepona",
-    "country": "cz",
-    "price": "2.4 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28609_17804644930.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-soukromy-bazen-a-garaz-estepona/28609?aff=l4todz91fb"
   },
   {
     "id": "feed-28679",
@@ -3310,14 +3286,6 @@
     "price": "473 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30629_17840961330.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-alicante/30629?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30649",
-    "title": "Luxusní vila s bazénem, klidná Orihuela",
-    "country": "cz",
-    "price": "469 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30649_17840969260.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-klidna-orihuela/30649?aff=l4todz91fb"
   },
   {
     "id": "feed-30665",
@@ -3998,5 +3966,37 @@
     "price": "365 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32263_17849298461.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-anogyre-limassol/32263?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32261",
+    "title": "Samostatně stojící vila v Pegii - St. George, Paphos",
+    "country": "cz",
+    "price": "930 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32261_17849298351.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-st-george-paphos/32261?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32260",
+    "title": "Samostatně stojící vila v přístavu Limassol, Limassol",
+    "country": "cz",
+    "price": "9.6 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32260_17849298291.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pristavu-limassol-limassol/32260?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32259",
+    "title": "Bungalov v Anaritě v Pafosu",
+    "country": "cz",
+    "price": "950 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32259_17849298231.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/bungalov-v-anarite-v-pafosu/32259?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32258",
+    "title": "SANTA ELENA V20",
+    "country": "cz",
+    "price": "581 250 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32258_17849295501.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v20/32258?aff=l4todz91fb"
   }
 ]

@@ -3904,14 +3904,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-3-kk-top-poloha-komplex-gerber-2-slunecni-pobrezi/23589?aff=l4todz91fb"
   },
   {
-    "id": "feed-23609",
-    "title": "Prostorný 3+kk, dvě terasy, v komplexu Summer Dreams, top poloha, Sluneční pobřeží",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23609_6613455980.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-dve-terasy-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/23609?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23628",
     "title": "2+kk v J’Adore Blanc, možnost na splátky, Slunečné pobřeží, Bulharsko",
     "country": "cz",
@@ -3923,7 +3915,7 @@
     "id": "feed-23633",
     "title": "Exkluzivní nabídka bytů v projektu „J’Adore Blanc“ – Slunečné pobřeží, Bulharsko",
     "country": "cz",
-    "price": "59 656 €",
+    "price": "59 660 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/236335_1770734676.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-nabidka-bytu-v-projektu-j-adore-blanc-slunecne-pobrezi-bulharsko/23633?aff=l4todz91fb"
   },
@@ -3998,5 +3990,13 @@
     "price": "83 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/237305_1770990176.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-komplex-sun-city-3-slunecni-pobrezi/23730?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23833",
+    "title": "Mezonetový 3+kk s výhledem na moře, v Bay View Villas – klid, prostor a vůně moře",
+    "country": "cz",
+    "price": "101 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/238331_1771351239.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonetovy-3-kk-s-vyhledem-na-more-v-bay-view-villas-klid-prostor-a-vune-more/23833?aff=l4todz91fb"
   }
 ]
