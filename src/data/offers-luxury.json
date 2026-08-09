@@ -2640,14 +2640,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-vyhrivanym-bazenem-a-3-loznicemi-blizko-more-zaton/27659?aff=l4todz91fb"
   },
   {
-    "id": "feed-27686",
-    "title": "Exkluzivní vila, s bazénem a výhledem na moře, Altea",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27686_17788225550.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-a-vyhledem-na-more-altea/27686?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27783",
     "title": "Luxusní vila, 2 km od pláže s výhledem na moře, Marbella",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "581 250 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32258_17849295501.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v20/32258?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32257",
+    "title": "Samostatně stojící vila v Ypsonas, Limassol",
+    "country": "cz",
+    "price": "680 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32257_17849295471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ypsonas-limassol/32257?aff=l4todz91fb"
   }
 ]
