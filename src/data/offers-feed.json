@@ -496,14 +496,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-2-kk-v-pomorie-bydleni-u-more-v-harmonii-s-prirodou/16635?aff=l4todz91fb"
   },
   {
-    "id": "feed-16646",
-    "title": "Apartmán 2+kk v prestižním komplexu Royal Bay, Sveti Vlas, Bulharsko",
-    "country": "cz",
-    "price": "97 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16646_2976133979.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-prestiznim-komplexu-royal-bay-sveti-vlas-bulharsko/16646?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16637",
     "title": "Moderní 2+kk v srdci Pomorie – exkluzivní bydlení u moře s investičním potenciálem",
     "country": "cz",
@@ -1966,14 +1958,6 @@
     "price": "65 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19426_4385648699.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-1-kk-s-vyhledem-na-bazen-v-komplexu-panorama-bay-1-sveti-vlas-bulharsko/19426?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19474",
-    "title": "2+kk s obrovskou terasou a výhledem na moře – Riviera Fort Beach, Ravda",
-    "country": "cz",
-    "price": "106 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1947426_1760619913.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-obrovskou-terasou-a-vyhledem-na-more-riviera-fort-beach-ravda/19474?aff=l4todz91fb"
   },
   {
     "id": "feed-19486",
@@ -3998,5 +3982,21 @@
     "price": "101 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/238331_1771351239.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonetovy-3-kk-s-vyhledem-na-more-v-bay-view-villas-klid-prostor-a-vune-more/23833?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23729",
+    "title": "Hezký 2+kk s balkonem, perfektně vybavený komplex Sunny Day 6 u Slunečního pobřeží",
+    "country": "cz",
+    "price": "55 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23729_9856473750.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-2-kk-s-balkonem-perfektne-vybaveny-komplex-sunny-day-6-u-slunecniho-pobrezi/23729?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23192",
+    "title": "Prostorný apartmán 3+kk →  výhled na moře, klid resortu → Aheloy, Bulharsko",
+    "country": "cz",
+    "price": "127 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23192_5143963807.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-vyhled-na-more-klid-resortu-aheloy-bulharsko/23192?aff=l4todz91fb"
   }
 ]
