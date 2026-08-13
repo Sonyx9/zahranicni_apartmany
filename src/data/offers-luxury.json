@@ -2224,14 +2224,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadcasova-4loznicova-vila-s-prostornym-pozemkem-v-atraktivni-lokalite-pafosu/26708?aff=l4todz91fb"
   },
   {
-    "id": "feed-26832",
-    "title": "Luxusní vila, 300 m od moře se soukromým bazénem a výhledem, Marbella",
-    "country": "cz",
-    "price": "2.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26832_17762318010.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-300-m-od-more-se-soukromym-bazenem-a-vyhledem-marbella/26832?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26935",
     "title": "Exkluzivní vila na první linii moře → soukromí a panoramatické výhledy → Sarafovo",
     "country": "cz",
@@ -3432,28 +3424,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-puerto-banus-atalaya-estepona/31201?aff=l4todz91fb"
   },
   {
-    "id": "feed-31210",
-    "title": "Moderní byt u moře, 200 m od pláže, La Vila Joiosa",
-    "country": "cz",
-    "price": "445 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31210_17842657370.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-byt-u-more-200-m-od-plaze-la-vila-joiosa/31210?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31211",
     "title": "Exkluzivní vila u golfu, La Finca Golf, Orihuela Costa",
     "country": "cz",
     "price": "890 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31211_17842657650.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-orihuela-costa/31211?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31215",
-    "title": "Luxusní vila s výhledem na moře, Jávea",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31215_17842658950.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-javea/31215?aff=l4todz91fb"
   },
   {
     "id": "feed-31216",
@@ -3998,5 +3974,29 @@
     "price": "2.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32239_17849283421.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pyrgosu-limassol/32239?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32238",
+    "title": "Samostatně stojící vila v Parekklisia, Limassol",
+    "country": "cz",
+    "price": "10.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32238_17849283361.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-parekklisia-limassol/32238?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32233",
+    "title": "Samostatně stojící vila v Columbii, Limassol",
+    "country": "cz",
+    "price": "4.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32233_17849280501.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-columbii-limassol/32233?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32230",
+    "title": "SANTA ELENA V13",
+    "country": "cz",
+    "price": "625 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32230_17849280281.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v13/32230?aff=l4todz91fb"
   }
 ]

@@ -848,14 +848,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-verandou-v-komplexu-aquamarin-kousek-od-plaze-obzor/17769?aff=l4todz91fb"
   },
   {
-    "id": "feed-17907",
-    "title": "Prostorný 3+kk ve výborném komplexu Privilege Fort Beach, Sveti Vlas",
-    "country": "cz",
-    "price": "127 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1790727_1750756561.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-ve-vybornem-komplexu-privilege-fort-beach-sveti-vlas/17907?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17950",
     "title": "1+kk s terasou, La Mer Silver Residence 3, možnost splátek! Nový luxusní projekt, Slunečné pobřeží,",
     "country": "cz",
@@ -1102,14 +1094,6 @@
     "price": "113 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18357_0547768813.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-vyhledem-na-more-komplex-privilege-fort-beach-sveti-vlas-elenite/18357?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18351",
-    "title": "2+kk s terasou, nádherný komplex Privilege Fort Beach, Sveti Vlas- Elenite",
-    "country": "cz",
-    "price": "114 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18351_0529630100.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-nadherny-komplex-privilege-fort-beach-sveti-vlas-elenite/18351?aff=l4todz91fb"
   },
   {
     "id": "feed-18355",
@@ -3998,5 +3982,21 @@
     "price": "127 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23192_5143963807.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-3-kk-vyhled-na-more-klid-resortu-aheloy-bulharsko/23192?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23851",
+    "title": "Moderní byt 2+kk v fantastickém komplexu, 150 metrů od moře, Wongamat",
+    "country": "cz",
+    "price": "118 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/238516_1771413424.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-byt-2-kk-v-fantastickem-komplexu-150-metru-od-more-wongamat/23851?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23748",
+    "title": "Apartmán s jednou ložnicí v Panorama Fort Beach – přízemí, 65 m², výhled do zeleně",
+    "country": "cz",
+    "price": "87 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23748_4283989494.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-s-jednou-loznici-v-panorama-fort-beach-prizemi-65-m-2-vyhled-do-zelene/23748?aff=l4todz91fb"
   }
 ]
