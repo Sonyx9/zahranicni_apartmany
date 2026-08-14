@@ -2376,14 +2376,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-privatni-bazen-a-zahrada-orihuela/21772?aff=l4todz91fb"
   },
   {
-    "id": "feed-21735",
-    "title": "Exkluzivní apartmány a penthousy → 150 m od moře, bazén a terasa → La Vila Joiosa",
-    "country": "cz",
-    "price": "420 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21735_17655847350.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartmany-a-penthousy-150-m-od-more-bazen-a-terasa-la-vila-joiosa/21735?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21733",
     "title": "Luxusní vila → soukromý bazén a výhled na moře → Finestrat",
     "country": "cz",
@@ -3224,14 +3216,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-orihuela/30574?aff=l4todz91fb"
   },
   {
-    "id": "feed-30603",
-    "title": "Exkluzivní vila u moře a golfu, Los Alcázares",
-    "country": "cz",
-    "price": "565 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30603_17840951970.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-a-golfu-los-alcazares/30603?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30629",
     "title": "Exkluzivní vila u golfu, La Finca Golf, Alicante",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "625 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32230_17849280281.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v13/32230?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32229",
+    "title": "Samostatně stojící vila v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "4.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32229_17849280221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32229?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32220",
+    "title": "SANTA ELENA V25",
+    "country": "cz",
+    "price": "656 250 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32220_17849271441.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v25/32220?aff=l4todz91fb"
   }
 ]

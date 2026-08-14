@@ -1792,30 +1792,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-1-kk-s-terasou-v-prestiznim-komplexu-poseidon-nesebar/19249?aff=l4todz91fb"
   },
   {
-    "id": "feed-19327",
-    "title": "Investicní 1+kk, v Aqua Vista Pomorie, možnost na splátky, včetně nábytku a vybavení",
-    "country": "cz",
-    "price": "116 912 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19327_9045045977.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/investicni-1-kk-v-aqua-vista-pomorie-moznost-na-splatky-vcetne-nabytku-a-vybaveni/19327?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19328",
-    "title": "Možnost splátek, 1+kk, v Aqua Vista Pomorie, včetně nábytku a vybavení na úrovni 5* hotelu",
-    "country": "cz",
-    "price": "126 659 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/193281_1759907104.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moznost-splatek-1-kk-v-aqua-vista-pomorie-vcetne-nabytku-a-vybaveni-na-urovni-5-hotelu/19328?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19329",
-    "title": "1+kk s výhledem na moře, v Aqua Vista Pomorie, včetně nábytku a vybavení, možnost na splátky",
-    "country": "cz",
-    "price": "125 460 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/193296_1759908078.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-more-v-aqua-vista-pomorie-vcetne-nabytku-a-vybaveni-moznost-na-splatky/19329?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19346",
     "title": "Studio v ikonickém komplexu s panoramatickým výhledem na Černé moře. Investice pro ty, kdo nehledají",
     "country": "cz",
@@ -3792,14 +3768,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-dvoupokojovy-apartman-s-atmosferou-klidu-blizko-more-a-sluzeb-sveti-vlas/23385?aff=l4todz91fb"
   },
   {
-    "id": "feed-23499",
-    "title": "Mezonet 3+kk, výhled na moře a parkovací stání, jen 20m od pláže, komplex White Coast, u Kavarny",
-    "country": "cz",
-    "price": "85 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/234990_1770366849.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonet-3-kk-vyhled-na-more-a-parkovaci-stani-jen-20m-od-plaze-komplex-white-coast-u-kavarny/23499?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23496",
     "title": "1+kk s výhledem na bazén jen 250 metrů od pláže v perfektním komplexu Triumph, Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3966,37 @@
     "price": "87 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23748_4283989494.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-s-jednou-loznici-v-panorama-fort-beach-prizemi-65-m-2-vyhled-do-zelene/23748?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23872",
+    "title": "Moderní apartmán 2+kk s výhledem na lagunu - Jomtien, Thajsko",
+    "country": "cz",
+    "price": "79 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2387234_1771494620.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartman-2-kk-s-vyhledem-na-lagunu-jomtien-thajsko/23872?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23873",
+    "title": "Designové studio v luxusním rezidenčním komplexu s rooftop bazénem a shuttle službou k pláži",
+    "country": "cz",
+    "price": "77 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2387311_1771496066.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/designove-studio-v-luxusnim-rezidencnim-komplexu-s-rooftop-bazenem-a-shuttle-sluzbou-k-plazi/23873?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23888",
+    "title": "Nový 1+kk v první linii, perfektní resort Selena Bay",
+    "country": "cz",
+    "price": "55 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/238885_1771532197.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-1-kk-v-prvni-linii-perfektni-resort-selena-bay/23888?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23893",
+    "title": "Apartmán 2+kk o velikosti 64 m² v prestižním British Resortu, jen 270 m od pláže, El Kawther",
+    "country": "cz",
+    "price": "58 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23893_5340552588.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-o-velikosti-64-m-2-v-prestiznim-british-resortu-jen-270-m-od-plaze-el-kawther/23893?aff=l4todz91fb"
   }
 ]
