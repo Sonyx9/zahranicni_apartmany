@@ -2080,14 +2080,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/impozantni-ctyrpodlazni-vila-s-bazenem-a-nadhernou-zahradou-v-kosarici/25818?aff=l4todz91fb"
   },
   {
-    "id": "feed-25946",
-    "title": "moderní apartmány, 400 m od moře a se společným bazénem, La Vila Joiosa",
-    "country": "cz",
-    "price": "450 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25946_17739878650.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartmany-400-m-od-more-a-se-spolecnym-bazenem-la-vila-joiosa/25946?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25967",
     "title": "Exkluzivní byty, 400 m od moře se společným bazénem, La Vila Joiosa",
     "country": "cz",
@@ -3424,14 +3416,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-s-bazenem-a-zahradou-algorfa/31216?aff=l4todz91fb"
   },
   {
-    "id": "feed-31219",
-    "title": "Luxusní vila s výhledem na moře, Benissa",
-    "country": "cz",
-    "price": "4.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31219_17842660880.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-benissa/31219?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31233",
     "title": "Luxusní vila u moře, Casares",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "656 250 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32220_17849271441.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v25/32220?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32213",
+    "title": "Samostatně stojící vila v Ayia Napa, Famagusta",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32213_17849268561.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayia-napa-famagusta/32213?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32211",
+    "title": "Samostatně stojící vila v Pegia - Sea Caves, Paphos",
+    "country": "cz",
+    "price": "2.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32211_17849268461.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32211?aff=l4todz91fb"
   }
 ]
