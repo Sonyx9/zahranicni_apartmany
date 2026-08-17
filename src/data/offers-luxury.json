@@ -2632,14 +2632,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-rudeho-more-s-privatnim-bazenem-a-rooftopem/27929?aff=l4todz91fb"
   },
   {
-    "id": "feed-27941",
-    "title": "Exkluzivní vila 1 km od moře, se soukromým bazénem a zahradou, Benidorm",
-    "country": "cz",
-    "price": "2.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27941_17795142360.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-1-km-od-more-se-soukromym-bazenem-a-zahradou-benidorm/27941?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27942",
     "title": "Luxusní vily, 1 km od moře, Benidorm",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32203_17849262441.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-apesii-limassol/32203?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32202",
+    "title": "Samostatně stojící vila v Pervolia, Larnaka",
+    "country": "cz",
+    "price": "3.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32202_17849262381.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pervolia-larnaka/32202?aff=l4todz91fb"
   }
 ]
