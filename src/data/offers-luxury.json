@@ -2104,14 +2104,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-samostatna-vila-par-kroku-od-plaze-2-loznice-138-m-2-ihned-k-uzivani/26194?aff=l4todz91fb"
   },
   {
-    "id": "feed-26358",
-    "title": "Luxusní vila, výhled na moře a 0,5 km od pláže, Cumbre del Sol",
-    "country": "cz",
-    "price": "2.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26358_17746791700.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-0-5-km-od-plaze-cumbre-del-sol/26358?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23312",
     "title": "Moderní vila s bazénem a výnosem → klid a surf → Uluwatu",
     "country": "cz",
@@ -2358,14 +2350,6 @@
     "price": "2.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21772_17655865830.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-privatni-bazen-a-zahrada-orihuela/21772?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21733",
-    "title": "Luxusní vila → soukromý bazén a výhled na moře → Finestrat",
-    "country": "cz",
-    "price": "2.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21733_17655846090.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-a-vyhled-na-more-finestrat/21733?aff=l4todz91fb"
   },
   {
     "id": "feed-21731",
@@ -3192,14 +3176,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-alicante/30629?aff=l4todz91fb"
   },
   {
-    "id": "feed-30665",
-    "title": "Exkluzivní vila u moře, Los Alcázares",
-    "country": "cz",
-    "price": "397 650 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30665_17840976310.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-los-alcazares/30665?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30671",
     "title": "Moderní vila s bazénem, klidná La Nucia, La Nucia",
     "country": "cz",
@@ -3302,14 +3278,6 @@
     "price": "2.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30968_17841087980.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-mijas/30968?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30969",
-    "title": "Luxusní vila u moře, prestižní Marbella",
-    "country": "cz",
-    "price": "11.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30969_17841088320.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-prestizni-marbella/30969?aff=l4todz91fb"
   },
   {
     "id": "feed-31038",
@@ -3998,5 +3966,37 @@
     "price": "3.7 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32202_17849262381.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pervolia-larnaka/32202?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32197",
+    "title": "Samostatně stojící vila v Pegii - Coral Bay, Paphos",
+    "country": "cz",
+    "price": "500 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32197_17849259401.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-coral-bay-paphos/32197?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32196",
+    "title": "Samostatně stojící vila v Katholiki, Limassol",
+    "country": "cz",
+    "price": "670 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32196_17849259351.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-katholiki-limassol/32196?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32192",
+    "title": "DELEAR VILLA 13",
+    "country": "cz",
+    "price": "635 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32192_17849256401.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-13/32192?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32188",
+    "title": "Samostatně stojící vila v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "5.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32188_17849253441.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32188?aff=l4todz91fb"
   }
 ]
