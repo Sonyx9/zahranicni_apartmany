@@ -1768,14 +1768,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/reprezentativni-vila-s-wellness-zonou-s-vyhledem-na-more-a-ostrovy-podstrana/22816?aff=l4todz91fb"
   },
   {
-    "id": "feed-22819",
-    "title": "Pozemek a projekt na dvě vily na samotě s panoramatickým výhledem, Borak Omiš",
-    "country": "cz",
-    "price": "420 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228195_1768485840.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/pozemek-a-projekt-na-dve-vily-na-samote-s-panoramatickym-vyhledem-borak-omis/22819?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22820",
     "title": "Designová vila, wellness, bazén a panoramatický výhled Kučine Split",
     "country": "cz",
@@ -3200,22 +3192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-golfu-la-finca-golf-torrevieja/30674?aff=l4todz91fb"
   },
   {
-    "id": "feed-30732",
-    "title": "Luxusní vila s bazénem a výhledem na moře, Finestrat",
-    "country": "cz",
-    "price": "765 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30732_17841002910.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-a-vyhledem-na-more-finestrat/30732?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30759",
-    "title": "Exkluzivní vila s bazénem u letiště, Jimenado",
-    "country": "cz",
-    "price": "259 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30759_17841013070.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-u-letiste-jimenado/30759?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30818",
     "title": "Exkluzivní vila s výhledem na moře, Almuñécar",
     "country": "cz",
@@ -3230,14 +3206,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30835_17841043650.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-vyhledem-na-more-golf-u-domu-estepona/30835?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30880",
-    "title": "Exkluzivní vily s výhledem na moře, Marbella",
-    "country": "cz",
-    "price": "2.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30880_17841057070.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-vyhledem-na-more-marbella/30880?aff=l4todz91fb"
   },
   {
     "id": "feed-30883",
@@ -3998,5 +3966,37 @@
     "price": "5.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32188_17849253441.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32188?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32186",
+    "title": "Samostatně stojící vila v Moni, Limassol",
+    "country": "cz",
+    "price": "2.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32186_17849253331.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moni-limassol/32186?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32184",
+    "title": "SANTA ELENA V22",
+    "country": "cz",
+    "price": "581 250 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32184_17849253161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v22/32184?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32183",
+    "title": "Samostatně stojící vila v Pafosu, Pafos",
+    "country": "cz",
+    "price": "1.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32183_17849250621.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pafosu-pafos/32183?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32182",
+    "title": "Samostatně stojící vila v turistické oblasti, Limassol",
+    "country": "cz",
+    "price": "3.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32182_17849250561.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-turisticke-oblasti-limassol/32182?aff=l4todz91fb"
   }
 ]

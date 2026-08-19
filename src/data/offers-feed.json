@@ -584,14 +584,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-v-serena-residence-sozopol/16852?aff=l4todz91fb"
   },
   {
-    "id": "feed-16866",
-    "title": "2+kk s výhledem na horu, prestižní komplex Serena Residence, Sozopol",
-    "country": "cz",
-    "price": "64 100 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1686626_1743503843.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-horu-prestizni-komplex-serena-residence-sozopol/16866?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16861",
     "title": "Studio s výhledem na přírodu v prestižním komplexu Serena Residence – Sozopol",
     "country": "cz",
@@ -1310,14 +1302,6 @@
     "price": "65 100 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18556_2433734106.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-1-kk-s-vyhledem-na-bazen-komplex-chairite-kosarica-bulharsko/18556?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18563",
-    "title": "Prostorný 2+kk, komplex Rich 3 v první linii, Ravda",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18563_2476397351.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-komplex-rich-3-v-prvni-linii-ravda/18563?aff=l4todz91fb"
   },
   {
     "id": "feed-18576",
@@ -3998,5 +3982,21 @@
     "price": "121 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24835_7954633371.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-3-kk-v-komplexu-s-parkovanim-pouze-50-m-od-plaze-golem-albanie/24835?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-24841",
+    "title": "Apartmán 2+kk v komplexu s parkováním, pouze 50 m od pláže, Golem, Albánie",
+    "country": "cz",
+    "price": "111 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24841_7958155163.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-2-kk-v-komplexu-s-parkovanim-pouze-50-m-od-plaze-golem-albanie/24841?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-24851",
+    "title": "Pěkný apartmán 2+kk v komplexu s parkováním, pouze 50 m od pláže, Golem, Albánie",
+    "country": "cz",
+    "price": "111 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24851_7964107163.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/pekny-apartman-2-kk-v-komplexu-s-parkovanim-pouze-50-m-od-plaze-golem-albanie/24851?aff=l4todz91fb"
   }
 ]
