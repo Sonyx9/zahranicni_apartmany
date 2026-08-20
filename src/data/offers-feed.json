@@ -1176,14 +1176,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-150-m-od-more-v-oblibene-lokalite-oblast-durres-albanie/18503?aff=l4todz91fb"
   },
   {
-    "id": "feed-18501",
-    "title": "Nádherný 2+kk s výhledem na moře, v komplexu Nirvana, Sveti Vlas",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18501_9775922718.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-s-vyhledem-na-more-v-komplexu-nirvana-sveti-vlas/18501?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18505",
     "title": "1+kk v komplexu Rose Residence, výhled na bazén, 450m od pláže, Sluneční pobřeží",
     "country": "cz",
@@ -2515,7 +2507,7 @@
     "id": "feed-20051",
     "title": "3+kk v komplexu Sunny Day 6, Sluneční pobřeží",
     "country": "cz",
-    "price": "71 900 €",
+    "price": "71 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20051_0377917451.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-v-komplexu-sunny-day-6-slunecni-pobrezi/20051?aff=l4todz91fb"
   },
@@ -3998,5 +3990,13 @@
     "price": "111 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24851_7964107163.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/pekny-apartman-2-kk-v-komplexu-s-parkovanim-pouze-50-m-od-plaze-golem-albanie/24851?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-23648",
+    "title": "Světlo, prostor a moře na dosah – vaše studio v La Mer Gold, Nesebar",
+    "country": "cz",
+    "price": "67 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23648_17708184331.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetlo-prostor-a-more-na-dosah-vase-studio-v-la-mer-gold-nesebar/23648?aff=l4todz91fb"
   }
 ]

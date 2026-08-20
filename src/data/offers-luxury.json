@@ -2376,14 +2376,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-benissa/21609?aff=l4todz91fb"
   },
   {
-    "id": "feed-21595",
-    "title": "Exkluzivní vila → soukromý bazén, 0,5 km od golfu → Dehesa de Campoamor",
-    "country": "cz",
-    "price": "835 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21595_17655777740.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-0-5-km-od-golfu-dehesa-de-campoamor/21595?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21553",
     "title": "Okouzlující řadový dům → 1 km od moře, soukromý bazén a terasa → La Vila Joiosa",
     "country": "cz",
@@ -3336,14 +3328,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-more-casares/31233?aff=l4todz91fb"
   },
   {
-    "id": "feed-31254",
-    "title": "Exkluzivní vily u moře, Estepona",
-    "country": "cz",
-    "price": "1.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31254_17842670840.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-u-more-estepona/31254?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31255",
     "title": "Luxusní vily u moře, Estepona",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "3.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32182_17849250561.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-turisticke-oblasti-limassol/32182?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32181",
+    "title": "Samostatně stojící vila v Kouklii - Aphrodite Hills, Paphos",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32181_17849250491.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kouklii-aphrodite-hills-paphos/32181?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32177",
+    "title": "Samostatně stojící vila v Moniatis, Limassol",
+    "country": "cz",
+    "price": "850 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32177_17849247351.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moniatis-limassol/32177?aff=l4todz91fb"
   }
 ]
