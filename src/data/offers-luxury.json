@@ -2320,14 +2320,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-privatni-bazen-vyhled-na-more-mijas/21876?aff=l4todz91fb"
   },
   {
-    "id": "feed-21772",
-    "title": "Exkluzivní vila → privátní bazén a zahrada → Orihuela",
-    "country": "cz",
-    "price": "2.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21772_17655865830.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-privatni-bazen-a-zahrada-orihuela/21772?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21731",
     "title": "Exkluzivní vila → privátní bazén, 1 km od golfu, 4 km od moře → Xàbia",
     "country": "cz",
@@ -2638,14 +2630,6 @@
     "price": "330 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28728_17805596291.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-v-klidne-casti-kypru-sotira/28728?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-28927",
-    "title": "Exkluzivní byty a penthousy s bazénem, 1 km od moře, La Vila Joiosa",
-    "country": "cz",
-    "price": "430 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28927_17807245380.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-byty-a-penthousy-s-bazenem-1-km-od-more-la-vila-joiosa/28927?aff=l4todz91fb"
   },
   {
     "id": "feed-28650",
@@ -3182,14 +3166,6 @@
     "price": "1.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30883_17841058040.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-u-more-manilva/30883?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30946",
-    "title": "Luxusní vily s výhledem na moře, Mijas",
-    "country": "cz",
-    "price": "2.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30946_17841078190.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-mijas/30946?aff=l4todz91fb"
   },
   {
     "id": "feed-30947",
@@ -3998,5 +3974,29 @@
     "price": "656 250 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32172_17849244481.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v24/32172?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32171",
+    "title": "Samostatně stojící vila v Ypsonas, Limassol",
+    "country": "cz",
+    "price": "1.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32171_17849244431.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ypsonas-limassol/32171?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32167",
+    "title": "Samostatně stojící vila v Pegia - Sea Caves, Paphos",
+    "country": "cz",
+    "price": "5.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32167_17849241511.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32167?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32164",
+    "title": "Samostatně stojící vila v Kiti, Larnaka",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32164_17849241301.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kiti-larnaka/32164?aff=l4todz91fb"
   }
 ]
