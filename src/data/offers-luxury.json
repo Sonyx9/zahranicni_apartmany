@@ -2312,14 +2312,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-prvni-linie-plaze-golf-v-dosahu-estepona/21888?aff=l4todz91fb"
   },
   {
-    "id": "feed-21876",
-    "title": "Exkluzivní vily → privátní bazén, výhled na moře → Mijas",
-    "country": "cz",
-    "price": "1.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21876_17655919690.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-privatni-bazen-vyhled-na-more-mijas/21876?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21731",
     "title": "Exkluzivní vila → privátní bazén, 1 km od golfu, 4 km od moře → Xàbia",
     "country": "cz",
@@ -3464,14 +3456,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizena-vila-3-kk-s-panoramatickym-vyhledem-na-more-stresni-terasa-kokkino-chorio-kreta-recko/31582?aff=l4todz91fb"
   },
   {
-    "id": "feed-32377",
-    "title": "Luxusní vila s bazénem, Ciudad Quesada",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32377_17850434420.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-ciudad-quesada/32377?aff=l4todz91fb"
-  },
-  {
     "id": "feed-32331",
     "title": "Exkluzivní vila 4+1 s bazénem a rozlehlou zahradou v oblasti Neo Chorio, Kypr",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "1.9 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32164_17849241301.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kiti-larnaka/32164?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32163",
+    "title": "VILLA APANEMA 11",
+    "country": "cz",
+    "price": "499 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32163_17849241221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/villa-apanema-11/32163?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32161",
+    "title": "Částečně oddělená vila v Larnace, Larnaka",
+    "country": "cz",
+    "price": "580 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32161_17849238461.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/castecne-oddelena-vila-v-larnace-larnaka/32161?aff=l4todz91fb"
   }
 ]
