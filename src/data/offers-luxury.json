@@ -3168,14 +3168,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-vyhledem-na-more-mijas/30947?aff=l4todz91fb"
   },
   {
-    "id": "feed-30966",
-    "title": "Luxusní vily s výhledem na moře, blízko pláže, Mijas",
-    "country": "cz",
-    "price": "2.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30966_17841087260.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-blizko-plaze-mijas/30966?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30968",
     "title": "Luxusní vily s výhledem na moře, Mijas",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "580 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32161_17849238461.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/castecne-oddelena-vila-v-larnace-larnaka/32161?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32156",
+    "title": "Samostatně stojící vila v Pegii - Coral Bay, Paphos",
+    "country": "cz",
+    "price": "800 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32156_17849238221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-coral-bay-paphos/32156?aff=l4todz91fb"
   }
 ]
