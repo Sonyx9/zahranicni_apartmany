@@ -3072,28 +3072,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-3-kk-vyhled-na-more-krasny-komplex-villa-florence-sveti-vlas-bulharsko/30419?aff=l4todz91fb"
   },
   {
-    "id": "feed-30574",
-    "title": "Exkluzivní vila u moře, Orihuela",
-    "country": "cz",
-    "price": "995 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30574_17840941430.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-orihuela/30574?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30629",
     "title": "Exkluzivní vila u golfu, La Finca Golf, Alicante",
     "country": "cz",
     "price": "473 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30629_17840961330.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-alicante/30629?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30671",
-    "title": "Moderní vila s bazénem, klidná La Nucia, La Nucia",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30671_17840978840.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-klidna-la-nucia-la-nucia/30671?aff=l4todz91fb"
   },
   {
     "id": "feed-30673",
@@ -3166,14 +3150,6 @@
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31057_17841118920.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-zahradou-a-bazenem-atalaya-estepona/31057?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31086",
-    "title": "Exkluzivní vila s bazénem, Benijófar",
-    "country": "cz",
-    "price": "465 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31086_17841800650.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-benijofar/31086?aff=l4todz91fb"
   },
   {
     "id": "feed-31092",
@@ -3998,5 +3974,29 @@
     "price": "4.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32152_17849235281.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/pozemek-pro-bydleni-v-pegii-paphos/32152?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32149",
+    "title": "Samostatně stojící vila v Anaritě, Paphos",
+    "country": "cz",
+    "price": "2.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32149_17849235161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-anarite-paphos/32149?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32145",
+    "title": "Samostatně stojící vila v Konia, Paphos",
+    "country": "cz",
+    "price": "3.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32145_17849232591.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32145?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32144",
+    "title": "Samostatně stojící vila v Latchi, Paphos",
+    "country": "cz",
+    "price": "2.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32144_17849232551.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-latchi-paphos/32144?aff=l4todz91fb"
   }
 ]
