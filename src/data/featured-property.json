@@ -1,27 +1,27 @@
 {
   "properties": [
     {
-      "title": "PREMIÉRA PERLA B19",
-      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31618_17848938461.jpg",
-      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premiera-perla-b19/31618?aff=l4todz91fb",
+      "title": "Apartmán 1+1 v klidné čtvrti poblíž Larnaky s terasou a přístupem k bazénu",
+      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/277574_1778920551.jpg",
+      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-1-1-v-klidne-ctvrti-pobliz-larnaky-s-terasou-a-pristupem-k-bazenu/27757?aff=l4todz91fb",
+      "price": "160 000 €",
+      "state": "Kypr"
+    },
+    {
+      "title": "Pohodlný apartmán 2+1 s terasou a s výhodnou polohou v Pafosu",
+      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/233831_1770047060.jpg",
+      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/pohodlny-apartman-2-1-s-terasou-a-s-vyhodnou-polohou-v-pafosu/23383?aff=l4todz91fb",
       "price": "595 000 €",
       "state": "Kypr"
     },
     {
-      "title": "velký 2+1 dvě koupelny s výhledem na moře v Pafosu",
-      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29883_3940156676.jpg",
-      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velky-2-1-dve-koupelny-s-vyhledem-na-more-v-pafosu/29883?aff=l4todz91fb",
-      "price": "350 000 €",
-      "state": "Kypr"
-    },
-    {
-      "title": "Penthouse 2+1 dvě koupelny  a střešní zahrada s výhledem na moře v Pafosu",
-      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29887_3937806855.jpg",
-      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/penthouse-2-1-dve-koupelny-a-stresni-zahrada-s-vyhledem-na-more-v-pafosu/29887?aff=l4todz91fb",
-      "price": "475 000 €",
+      "title": "Prostorný dvouložnicový apartmán v centru Pafosu",
+      "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/233923_1770051947.jpg",
+      "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-dvouloznicovy-apartman-v-centru-pafosu/23392?aff=l4todz91fb",
+      "price": "615 000 €",
       "state": "Kypr"
     }
   ],
-  "date": "2026-08-27",
-  "nextChangeAt": "2026-08-28T01:00:00.000Z"
+  "date": "2026-08-28",
+  "nextChangeAt": "2026-08-29T01:00:00.000Z"
 }

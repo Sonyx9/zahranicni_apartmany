@@ -2240,14 +2240,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-9-loznic-privatni-bazen-a-zahrada-san-roque/22049?aff=l4todz91fb"
   },
   {
-    "id": "feed-22036",
-    "title": "Luxusní vila → výhled na moře, soukromý bazén, blízko golfu → Marbella",
-    "country": "cz",
-    "price": "3.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22036_17655998090.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-soukromy-bazen-blizko-golfu-marbella/22036?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21997",
     "title": "Exkluzivní vily → výhled na moře a 3 km od pláže → La Capellania",
     "country": "cz",
@@ -3320,14 +3312,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-s-bazenem-a-prostornymi-terasami-v-golfove-lokalite-kypr/31433?aff=l4todz91fb"
   },
   {
-    "id": "feed-31466",
-    "title": "Exkluzivní vila u moře a golfu, Estepona",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31466_17846980090.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-more-a-golfu-estepona/31466?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31481",
     "title": "Luxusní vily s výhledem na moře, Benahavís",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "2.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32144_17849232551.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-latchi-paphos/32144?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32139",
+    "title": "Samostatně stojící vila v Tala, Paphos",
+    "country": "cz",
+    "price": "400 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32139_17849232411.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tala-paphos/32139?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32135",
+    "title": "ALMA VILLA 1",
+    "country": "cz",
+    "price": "528 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32135_17849229291.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/alma-villa-1/32135?aff=l4todz91fb"
   }
 ]
