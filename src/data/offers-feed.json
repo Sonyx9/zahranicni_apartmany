@@ -1896,14 +1896,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-more-v-nadhernem-komplexu-v-prvni-linii-k-mori-nesebar/19537?aff=l4todz91fb"
   },
   {
-    "id": "feed-19540",
-    "title": "Prostorné studio s panoramatickým výhledem na moře – komplex Antorini, Sveti Vlas",
-    "country": "cz",
-    "price": "66 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19540_0643641554.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-panoramatickym-vyhledem-na-more-komplex-antorini-sveti-vlas/19540?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19603",
     "title": "Moderní 2+kk na splátky, jen pár kroků od pláže – Byala, Bulharsko",
     "country": "cz",
@@ -3315,7 +3307,7 @@
     "id": "feed-23038",
     "title": "Moře na dosah a bazén za dveřmi – dvoupokojový apartmán ve Sveti Vlas",
     "country": "cz",
-    "price": "107 000 €",
+    "price": "110 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23038_176909942924.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-a-bazen-za-dvermi-dvoupokojovy-apartman-ve-sveti-vlas/23038?aff=l4todz91fb"
   },
@@ -3998,5 +3990,13 @@
     "price": "119 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25355_5305119997.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/par-kroku-od-more-vas-apartman-2-kk-v-komplexu-artur-sveti-vlas-bulharsko/25355?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-25308",
+    "title": "Moře na dosah, klid pod horami – váš apartmán v komplexu Etara 4, Sveti Vlas, Bulharsko",
+    "country": "cz",
+    "price": "124 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25308_4382569489.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-klid-pod-horami-vas-apartman-v-komplexu-etara-4-sveti-vlas-bulharsko/25308?aff=l4todz91fb"
   }
 ]
