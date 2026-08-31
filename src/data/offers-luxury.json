@@ -2184,14 +2184,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-na-prvni-linii-more-soukromi-a-panoramaticke-vyhledy-sarafovo/26935?aff=l4todz91fb"
   },
   {
-    "id": "feed-24055",
-    "title": "Luxusní samostatný dům, soukromý bazén a zahrada, Ciudad Quesada",
-    "country": "cz",
-    "price": "871 162 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/24055_17717161640.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-samostatny-dum-soukromy-bazen-a-zahrada-ciudad-quesada/24055?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23974",
     "title": "Luxusní byty 200 m od moře, La Vila Joiosa",
     "country": "cz",
@@ -2230,14 +2222,6 @@
     "price": "2.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22067_17656013431.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-panoramaticke-vyhledy-na-more-a-soukromy-bazen-benahavis/22067?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22049",
-    "title": "Exkluzivní vila → 9 ložnic, privátní bazén a zahrada → San Roque",
-    "country": "cz",
-    "price": "12.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22049_17656004990.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-9-loznic-privatni-bazen-a-zahrada-san-roque/22049?aff=l4todz91fb"
   },
   {
     "id": "feed-21997",
@@ -2318,14 +2302,6 @@
     "price": "4.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21609_17655783090.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-benissa/21609?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21553",
-    "title": "Okouzlující řadový dům → 1 km od moře, soukromý bazén a terasa → La Vila Joiosa",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21553_17655757090.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/okouzlujici-radovy-dum-1-km-od-more-soukromy-bazen-a-terasa-la-vila-joiosa/21553?aff=l4todz91fb"
   },
   {
     "id": "feed-26981",
@@ -3998,5 +3974,29 @@
     "price": "2.7 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32134_17849229221.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsada-minthis-hills-paphos/32134?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32133",
+    "title": "Dvojdomá vila v Potamos Germasogeias, Limassol",
+    "country": "cz",
+    "price": "2.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32133_17849229161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvojdoma-vila-v-potamos-germasogeias-limassol/32133?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32132",
+    "title": "CHLOE VILLA 17",
+    "country": "cz",
+    "price": "594 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32132_17849226441.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/chloe-villa-17/32132?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32131",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "950 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32131_17849226381.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32131?aff=l4todz91fb"
   }
 ]
