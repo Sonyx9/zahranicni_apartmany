@@ -2240,14 +2240,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-terasy-a-2-km-od-more-marbella/21980?aff=l4todz91fb"
   },
   {
-    "id": "feed-21979",
-    "title": "Exkluzivní vily → 2 km od moře, soukromé bazény a terasy → Marbella",
-    "country": "cz",
-    "price": "6.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21979_17655971180.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-2-km-od-more-soukrome-bazeny-a-terasy-marbella/21979?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21970",
     "title": "Luxusní vila → výhled na moře a soukromý bazén → Benahavís",
     "country": "cz",
@@ -2286,14 +2278,6 @@
     "price": "2.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21629_17655791710.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-vyhled-na-more-a-blizkost-letiste-calpe/21629?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21619",
-    "title": "Exkluzivní vila → soukromý bazén a výhled na moře → Altea",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21619_17655786620.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-soukromy-bazen-a-vyhled-na-more-altea/21619?aff=l4todz91fb"
   },
   {
     "id": "feed-21609",
@@ -2745,11 +2729,11 @@
   },
   {
     "id": "feed-29320",
-    "title": "Sveti Vlas, Bulharsko – Luxusní 3+kk s parkovacím místem a výhledem do zahradního resortu",
+    "title": "Prodej dvoupokojového apartmánu s parkovacím místem ve Villa Florence, Sveti Vlas - designově zařízený, pár kroků od moře",
     "country": "cz",
-    "price": "354 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29320_17815662328.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/sveti-vlas-bulharsko-luxusni-3-kk-s-parkovacim-mistem-a-vyhledem-do-zahradniho-resortu/29320?aff=l4todz91fb"
+    "price": "349 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prodej-dvoupokojoveho-apartmanu-s-parkovacim-mistem-ve-villa-florence-sveti-vlas-designove-zarizeny-par-kroku-od-more/29320?aff=l4todz91fb"
   },
   {
     "id": "feed-29825",
@@ -3998,5 +3982,21 @@
     "price": "950 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32131_17849226381.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32131?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32127",
+    "title": "Samostatně stojící vila v Laiki Lefkothea, Limassol",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32127_17849223411.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-laiki-lefkothea-limassol/32127?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32124",
+    "title": "Samostatně stojící vila v Agios Tychonas, Limassol",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32124_17849220471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-agios-tychonas-limassol/32124?aff=l4todz91fb"
   }
 ]
