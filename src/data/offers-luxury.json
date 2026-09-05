@@ -2112,14 +2112,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-4-1-v-klidne-primorske-lokalite-prostor-soukromi-a-stredomorsky-zivotni-styl/26566?aff=l4todz91fb"
   },
   {
-    "id": "feed-26573",
-    "title": "Luxusní vila, výhled na moře a soukromý bazén, Finestrat",
-    "country": "cz",
-    "price": "819 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26573_17752802200.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-finestrat/26573?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26586",
     "title": "Luxusní vila s bazénem a výhledem na moře, jen 400 m od pláže – Pefkochori, Chalkidiki",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "399 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32112_17849214371.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-paphos/32112?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32111",
+    "title": "Samostatně stojící vila v Moni, Limassol",
+    "country": "cz",
+    "price": "700 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32111_17849214321.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moni-limassol/32111?aff=l4todz91fb"
   }
 ]

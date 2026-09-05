@@ -2688,14 +2688,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-se-2-loznicemi-v-komplexu-elite-1-jen-200-metru-od-plaze-na-slunecnem-pobrezi/20791?aff=l4todz91fb"
   },
   {
-    "id": "feed-20788",
-    "title": "Světlý a klidný apartmán 3+kk uprostřed zeleně – Košarica, Bulharsko",
-    "country": "cz",
-    "price": "92 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/20788_5909516091.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-a-klidny-apartman-3-kk-uprostred-zelene-kosarica-bulharsko/20788?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20786",
     "title": "2+kk s výhledem na bazén, v komplexu Avalon, Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "60 250 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/254653_1772737988.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-1-kk-na-splatky-vyhled-na-more-jen-200-metru-od-plaze-klid-a-jistota-investice-v-byale/25465?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-25466",
+    "title": "Váš nový 2+kk ve výstavbě, na splátky, výhled na moře, jen 200 metrů od pláže –  v Byale",
+    "country": "cz",
+    "price": "111 869 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/254663_1772738115.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-novy-2-kk-ve-vystavbe-na-splatky-vyhled-na-more-jen-200-metru-od-plaze-v-byale/25466?aff=l4todz91fb"
   }
 ]
