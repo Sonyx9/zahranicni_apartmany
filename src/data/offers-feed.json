@@ -2752,14 +2752,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moznost-na-splatky-2-kk-v-klidne-casti-mesta-byala-pouhych-500-m-od-plaze/21019?aff=l4todz91fb"
   },
   {
-    "id": "feed-21096",
-    "title": "1+kk s výhledem na bazén a park, 300 metrů od pláže, komplex Sorrento Sole Mare, Sveti Vlas",
-    "country": "cz",
-    "price": "69 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2109613_1764953393.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-a-park-300-metru-od-plaze-komplex-sorrento-sole-mare-sveti-vlas/21096?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21010",
     "title": "Útulné studio s balkonem u pláže, top cena – Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "111 869 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/254663_1772738115.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-novy-2-kk-ve-vystavbe-na-splatky-vyhled-na-more-jen-200-metru-od-plaze-v-byale/25466?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-25467",
+    "title": "1+kk v první linií, krásný komplex Privilege Fort Beach, Sveti Vlas- Elenite",
+    "country": "cz",
+    "price": "59 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/254672_1772738472.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-prvni-linii-krasny-komplex-privilege-fort-beach-sveti-vlas-elenite/25467?aff=l4todz91fb"
   }
 ]

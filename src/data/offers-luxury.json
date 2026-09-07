@@ -2200,14 +2200,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/impozantni-vila-privatni-bazen-3-km-od-more-marbella/22089?aff=l4todz91fb"
   },
   {
-    "id": "feed-22067",
-    "title": "Exkluzivní vila → panoramatické výhledy na moře a soukromý bazén → Benahavís",
-    "country": "cz",
-    "price": "2.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22067_17656013431.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-panoramaticke-vyhledy-na-more-a-soukromy-bazen-benahavis/22067?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21997",
     "title": "Exkluzivní vily → výhled na moře a 3 km od pláže → La Capellania",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "700 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32111_17849214321.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moni-limassol/32111?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32110",
+    "title": "Samostatně stojící vila v Anavargosu, Paphos",
+    "country": "cz",
+    "price": "1.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32110_17849211451.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-anavargosu-paphos/32110?aff=l4todz91fb"
   }
 ]
