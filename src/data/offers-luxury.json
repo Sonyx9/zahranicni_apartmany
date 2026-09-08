@@ -1560,14 +1560,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-a-slunnymi-terasami-2-km-od-plaze-san-pedro-del-pinatar/20573?aff=l4todz91fb"
   },
   {
-    "id": "feed-21366",
-    "title": "Luxusní vily → blízko moře a golfu → Cuevas del Almanzora",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21366_17653488510.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-blizko-more-a-golfu-cuevas-del-almanzora/21366?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21466",
     "title": "Luxusní tříložnicová vila s bazénem a nadčasovým designem v srdci Pafosu",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.2 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32110_17849211451.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-anavargosu-paphos/32110?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32107",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "1.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32107_17849211321.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32107?aff=l4todz91fb"
   }
 ]
