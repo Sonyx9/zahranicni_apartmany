@@ -1848,14 +1848,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatna-unikatni-vila-kousek-od-more-v-paphosu/23095?aff=l4todz91fb"
   },
   {
-    "id": "feed-23117",
-    "title": "Moderní vila, soukromí, bazén a lesní klid → Matulini, Poreč",
-    "country": "cz",
-    "price": "790 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/231173_1769430375.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-soukromi-bazen-a-lesni-klid-matulini-porec/23117?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23179",
     "title": "Luxusní vila 3+1 kousek od moře v Pafosu",
     "country": "cz",
@@ -3032,14 +3024,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-zahradou-a-bazenem-atalaya-estepona/31057?aff=l4todz91fb"
   },
   {
-    "id": "feed-31149",
-    "title": "Exkluzivní vila u golfu, Orihuela Costa",
-    "country": "cz",
-    "price": "649 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31149_17841824240.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-orihuela-costa/31149?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31167",
     "title": "Exkluzivní vila s bazénem, výhled na moře, Finestrat",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "1.4 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32107_17849211321.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32107?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32105",
+    "title": "Samostatně stojící vila v Pegii - Coral Bay, Paphos",
+    "country": "cz",
+    "price": "3.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32105_17849211221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-coral-bay-paphos/32105?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32104",
+    "title": "Samostatně stojící vila v Chlorace, Paphos",
+    "country": "cz",
+    "price": "1.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32104_17849211161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/32104?aff=l4todz91fb"
   }
 ]

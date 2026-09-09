@@ -3912,14 +3912,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-mesta-priroda-na-dosah-a-more-jen-pul-hodiny-cesty-vas-apartman-2-kk-ve-meste-sredec/25761?aff=l4todz91fb"
   },
   {
-    "id": "feed-25811",
-    "title": "Prostorný apartmán 2+kk s výhledem na bazén, v Golden Eye, Kosharitsa, Bulharsko",
-    "country": "cz",
-    "price": "66 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2581122_1773613041.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-2-kk-s-vyhledem-na-bazen-v-golden-eye-kosharitsa-bulharsko/25811?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25806",
     "title": "Útulné studio s balkonem u pláže, komplex Afrodita Park, Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "129 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25931_9106179941.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/paradni-terasa-a-vyhled-na-more-3-kk-jen-100-metru-od-plaze-vyjimecny-apartman-v-ravde/25931?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-25991",
+    "title": "Nový 2+kk s výhledem na bazén, Aphrodite Green, Sluneční pobřeží",
+    "country": "cz",
+    "price": "106 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/259910_1774126331.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-s-vyhledem-na-bazen-aphrodite-green-slunecni-pobrezi/25991?aff=l4todz91fb"
   }
 ]
