@@ -2056,36 +2056,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-byty-400-m-od-more-se-spolecnym-bazenem-la-vila-joiosa/25967?aff=l4todz91fb"
   },
   {
-    "id": "feed-26043",
-    "title": "Luxusní vila, soukromý bazén a výhled na moře, Cumbre del Sol",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26043_17743336150.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-soukromy-bazen-a-vyhled-na-more-cumbre-del-sol/26043?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26194",
     "title": "Exkluzivní samostatná vila pár kroků od pláže | 2 ložnice | 138 m² | ihned k užívání",
     "country": "cz",
     "price": "685 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26194_5497994090.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-samostatna-vila-par-kroku-od-plaze-2-loznice-138-m-2-ihned-k-uzivani/26194?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23312",
-    "title": "Moderní vila s bazénem a výnosem → klid a surf → Uluwatu",
-    "country": "cz",
-    "price": "175 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23312_17697834241.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-a-vynosem-klid-a-surf-uluwatu/23312?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-26060",
-    "title": "Stylová vila → soukromý bazén a klidná lokalita → Bali, Uluwatu",
-    "country": "cz",
-    "price": "205 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26060_8597165333.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylova-vila-soukromy-bazen-a-klidna-lokalita-bali-uluwatu/26060?aff=l4todz91fb"
   },
   {
     "id": "feed-26566",
@@ -3998,5 +3974,29 @@
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32093_17849202231.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-mesa-yitonia-limassol/32093?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32091",
+    "title": "Samostatně stojící vila v Kato Paphos - Královské hrobky, Paphos",
+    "country": "cz",
+    "price": "830 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32091_17849199391.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kato-paphos-kralovske-hrobky-paphos/32091?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32089",
+    "title": "Samostatně stojící vila v Ypsonas, Limassol",
+    "country": "cz",
+    "price": "550 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32089_17849199271.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ypsonas-limassol/32089?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32079",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "490 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32079_17849196401.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32079?aff=l4todz91fb"
   }
 ]

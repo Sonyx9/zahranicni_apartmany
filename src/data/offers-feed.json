@@ -2072,14 +2072,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-1-kk-s-vyhledem-na-bazen-komplex-panorama-bay-1-sveti-vlas-bulharsko/20079?aff=l4todz91fb"
   },
   {
-    "id": "feed-20078",
-    "title": "Příjemný 2+1 s výhledem na bazén, v komplexu Sunny Day 5, Tankovo",
-    "country": "cz",
-    "price": "66 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/200784_1763125645.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prijemny-2-1-s-vyhledem-na-bazen-v-komplexu-sunny-day-5-tankovo/20078?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20072",
     "title": "Prostorný 2+kk s balkonem jen 300 metrů od pláže – Diamond Bay, Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "106 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/259910_1774126331.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-s-vyhledem-na-bazen-aphrodite-green-slunecni-pobrezi/25991?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-25992",
+    "title": "1+kk s výhledem na moře a přímo na pláži, nízký poplatek na údržbu, Sluneční pobřeží",
+    "country": "cz",
+    "price": "97 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/259929_1774127396.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-more-a-primo-na-plazi-nizky-poplatek-na-udrzbu-slunecni-pobrezi/25992?aff=l4todz91fb"
   }
 ]
