@@ -2928,14 +2928,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-almunecar/30818?aff=l4todz91fb"
   },
   {
-    "id": "feed-30835",
-    "title": "Exkluzivní vily s výhledem na moře, golf u domu, Estepona",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30835_17841043650.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-s-vyhledem-na-more-golf-u-domu-estepona/30835?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30947",
     "title": "Elegantní vila s výhledem na moře, Mijas",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "490 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32079_17849196401.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32079?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32076",
+    "title": "Samostatně stojící vila v Pegia - Sea Caves, Paphos",
+    "country": "cz",
+    "price": "7.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32076_17849193311.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32076?aff=l4todz91fb"
   }
 ]
