@@ -2920,14 +2920,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-golfu-la-finca-golf-torrevieja/30674?aff=l4todz91fb"
   },
   {
-    "id": "feed-30818",
-    "title": "Exkluzivní vila s výhledem na moře, Almuñécar",
-    "country": "cz",
-    "price": "1.9 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30818_17841037500.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-vyhledem-na-more-almunecar/30818?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30947",
     "title": "Elegantní vila s výhledem na moře, Mijas",
     "country": "cz",
@@ -2958,14 +2950,6 @@
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31057_17841118920.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-zahradou-a-bazenem-atalaya-estepona/31057?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31167",
-    "title": "Exkluzivní vila s bazénem, výhled na moře, Finestrat",
-    "country": "cz",
-    "price": "849 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31167_17841828370.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-vyhled-na-more-finestrat/31167?aff=l4todz91fb"
   },
   {
     "id": "feed-31201",
@@ -3998,5 +3982,21 @@
     "price": "7.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32076_17849193311.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32076?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32073",
+    "title": "SANTA ELENA V7",
+    "country": "cz",
+    "price": "625 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32073_17849190431.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v7/32073?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32070",
+    "title": "Samostatně stojící vila v Mosfiloti, Larnaka",
+    "country": "cz",
+    "price": "700 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32070_17849190221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-mosfiloti-larnaka/32070?aff=l4todz91fb"
   }
 ]
