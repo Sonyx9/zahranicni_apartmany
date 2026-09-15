@@ -1712,14 +1712,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-prvni-linie-u-more-na-ostrove-korcula-zrnovo/22801?aff=l4todz91fb"
   },
   {
-    "id": "feed-22806",
-    "title": "Půvabná vila s wellness zónou a výhledem na moře Podstrana",
-    "country": "cz",
-    "price": "1.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2280619_1768481096.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/puvabna-vila-s-wellness-zonou-a-vyhledem-na-more-podstrana/22806?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22808",
     "title": "Exkluzivní vila s bazénem a panoramatickým výhledem na moře Podstrana",
     "country": "cz",
@@ -1732,7 +1724,7 @@
     "title": "Luxusní vila s panoramatickým výhledem na moře v blízkosti Splitu",
     "country": "cz",
     "price": "830 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228105_1768482386.jpg",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228100_1768482386.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-panoramatickym-vyhledem-na-more-v-blizkosti-splitu/22810?aff=l4todz91fb"
   },
   {
@@ -1950,14 +1942,6 @@
     "price": "950 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2359410_1770649402.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/designova-vila-s-bazenem-a-saunou-350-m-od-more-sibenik/23594?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23758",
-    "title": "Výjimečný dům u pláže, přímý vstup do moře a panoramatický výhled v Slatine, Čiovo, Chorvatsko",
-    "country": "cz",
-    "price": "1.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2375831_1771233756.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyjimecny-dum-u-plaze-primy-vstup-do-more-a-panoramaticky-vyhled-v-slatine-ciovo-chorvatsko/23758?aff=l4todz91fb"
   },
   {
     "id": "feed-23850",
@@ -2494,14 +2478,6 @@
     "price": "680 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/290967_1780921000.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-bazenem-a-vyhledem-na-more-vir/29096?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-29140",
-    "title": "Exkluzivní apartmánová vila s bazénem 200 m od moře investiční potenciál Vinišće",
-    "country": "cz",
-    "price": "999 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2914023_1780988634.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-apartmanova-vila-s-bazenem-200-m-od-more-investicni-potencial-vinisce/29140?aff=l4todz91fb"
   },
   {
     "id": "feed-29089",
@@ -3998,5 +3974,29 @@
     "price": "700 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32070_17849190221.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-mosfiloti-larnaka/32070?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32069",
+    "title": "DELEAR VILLA 11",
+    "country": "cz",
+    "price": "559 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32069_17849187341.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-11/32069?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32068",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "3.6 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32068_17849187271.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32068?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32063",
+    "title": "VILLA VELIA 2",
+    "country": "cz",
+    "price": "649 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32063_17849184281.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/villa-velia-2/32063?aff=l4todz91fb"
   }
 ]

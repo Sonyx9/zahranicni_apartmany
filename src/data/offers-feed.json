@@ -1832,22 +1832,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/tripokojovy-apartman-se-dvema-terasami-jen-par-minut-od-plaze/19815?aff=l4todz91fb"
   },
   {
-    "id": "feed-19827",
-    "title": "Stylové studio u pláže, možnost splátek, Veranda Sahl Hasheesh, top cena, Egypt",
-    "country": "cz",
-    "price": "71 670 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/198273_1762246088.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylove-studio-u-plaze-moznost-splatek-veranda-sahl-hasheesh-top-cena-egypt/19827?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19828",
-    "title": "Vzdušné studio u pláže, možnost koupě na splátky, Veranda Sahl Hasheesh, top cena, Egypt",
-    "country": "cz",
-    "price": "79 020 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1982810_1762246440.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vzdusne-studio-u-plaze-moznost-koupe-na-splatky-veranda-sahl-hasheesh-top-cena-egypt/19828?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19834",
     "title": "2+kk, 300 metrů od pláže s výhledem na bazén, komplex Sunny Fort, Sluneční pobřeží",
     "country": "cz",
@@ -2768,28 +2752,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-a-kompletne-vybaveny-dvoupokojovy-apartman-zelen-a-blizkost-plaze-slunecne-pobrezi/22662?aff=l4todz91fb"
   },
   {
-    "id": "feed-22653",
-    "title": "Krásný 2+kk u pláže, možnost splátek, Veranda Sahl Hasheesh, Egypt",
-    "country": "cz",
-    "price": "98 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/226535_1767873009.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-2-kk-u-plaze-moznost-splatek-veranda-sahl-hasheesh-egypt/22653?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22684",
     "title": "Moderní 2+kk na splátky, s komfortem a stylem – Pomorie",
     "country": "cz",
     "price": "114 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/226841_1767949133.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-na-splatky-s-komfortem-a-stylem-pomorie/22684?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22652",
-    "title": "Prostorný 2+kk u pláže, možnost splátek, Veranda Sahl Hasheesh, top cena, Egypt",
-    "country": "cz",
-    "price": "100 890 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2265212_1767872618.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-u-plaze-moznost-splatek-veranda-sahl-hasheesh-top-cena-egypt/22652?aff=l4todz91fb"
   },
   {
     "id": "feed-22735",
@@ -3998,5 +3966,37 @@
     "price": "120 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26018_2627074272.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mestska-energie-a-more-na-dosah-2-kk-v-komplexu-vogue-slunecne-pobrezi/26018?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26009",
+    "title": "Prostorný 2+kk, v komplexu Domenico, Sluneční pobřeží",
+    "country": "cz",
+    "price": "116 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/260091_1774215084.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-komplexu-domenico-slunecni-pobrezi/26009?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26062",
+    "title": "Klidné ráno u bazénu a moře na dosah – apartmán 2+kk v Cascadas",
+    "country": "cz",
+    "price": "122 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26062_3440481381.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klidne-rano-u-bazenu-a-more-na-dosah-apartman-2-kk-v-cascadas/26062?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26126",
+    "title": "2+kk s možností splátek, v komplexu Emilia Romana Avenue, Sluneční pobřeží",
+    "country": "cz",
+    "price": "101 210 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/261261_1774442711.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-moznosti-splatek-v-komplexu-emilia-romana-avenue-slunecni-pobrezi/26126?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26441",
+    "title": "2+kk s terasou, nádherný komplex Privilege Fort Beach, Sveti Vlas- Elenite",
+    "country": "cz",
+    "price": "90 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26441_7810613469.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-nadherny-komplex-privilege-fort-beach-sveti-vlas-elenite/26441?aff=l4todz91fb"
   }
 ]
