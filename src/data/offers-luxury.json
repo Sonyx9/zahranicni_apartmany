@@ -2776,14 +2776,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-3-1-v-blizkosti-chranene-prirodni-oblasti-polis-kypr/29283?aff=l4todz91fb"
   },
   {
-    "id": "feed-30300",
-    "title": "Elegantní vila u moře, bazén a letiště, Mijas",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30300_17834020960.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-u-more-bazen-a-letiste-mijas/30300?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29282",
     "title": "Luxusní vila 3+1 se soukromým bazénem a velkorysým pozemkem v oblasti Peyia, Kypr",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "649 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32063_17849184281.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/villa-velia-2/32063?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32061",
+    "title": "DELEAR VILLA 15",
+    "country": "cz",
+    "price": "555 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32061_17849181441.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-15/32061?aff=l4todz91fb"
   }
 ]
