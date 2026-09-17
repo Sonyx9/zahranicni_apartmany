@@ -2192,14 +2192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-vyhled-na-more-a-blizkost-letiste-calpe/21629?aff=l4todz91fb"
   },
   {
-    "id": "feed-21609",
-    "title": "Luxusní vila → výhled na moře a soukromý bazén → Benissa",
-    "country": "cz",
-    "price": "4.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21609_17655783090.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-benissa/21609?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26981",
     "title": "Moderní 3ložnicová vila 400 m od pláže v prestižní lokalitě Tombs of the Kings, Paphos",
     "country": "cz",
@@ -2841,11 +2833,11 @@
   },
   {
     "id": "feed-30422",
-    "title": "Moderní vila 2+1 se soukromým bazénem v prestižní golfové lokalitě na Kypru",
+    "title": "Premier Residences - Vila č. 7 Fáze 38",
     "country": "cz",
     "price": "435 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/304220_1783610501.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-se-soukromym-bazenem-v-prestizni-golfove-lokalite-na-kypru/30422?aff=l4todz91fb"
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premier-residences-vila-c-7-faze-38/30422?aff=l4todz91fb"
   },
   {
     "id": "feed-30431",
@@ -3009,11 +3001,11 @@
   },
   {
     "id": "feed-29356",
-    "title": "Luxusní vila 4+1 se soukromým bazénem ve vyhledávané lokalitě Peyia, Kypr",
+    "title": "Viewpoint Hills - Vila č. 1266",
     "country": "cz",
     "price": "925 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29356_17816193541.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-4-1-se-soukromym-bazenem-ve-vyhledavane-lokalite-peyia-kypr/29356?aff=l4todz91fb"
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/viewpoint-hills-vila-c-1266/29356?aff=l4todz91fb"
   },
   {
     "id": "feed-31426",
@@ -3998,5 +3990,13 @@
     "price": "555 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32061_17849181441.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/delear-villa-15/32061?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32059",
+    "title": "Samostatně stojící vila v Pegii - Coral Bay, Paphos",
+    "country": "cz",
+    "price": "2.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32059_17849181341.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-coral-bay-paphos/32059?aff=l4todz91fb"
   }
 ]

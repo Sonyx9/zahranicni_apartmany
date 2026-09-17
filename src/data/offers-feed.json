@@ -2472,22 +2472,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-s-verandou-komplex-oazis-20m-od-plaze-ravda/21008?aff=l4todz91fb"
   },
   {
-    "id": "feed-21016",
-    "title": "2+kk s výhledem na moře, možnost splátek, v centru města Byala",
-    "country": "cz",
-    "price": "80 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/210162_1764866708.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-moznost-splatek-v-centru-mesta-byala/21016?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21019",
-    "title": "Možnost na splátky, 2+kk v klidné části města Byala, pouhých 500 m od pláže",
-    "country": "cz",
-    "price": "72 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2101912_1764869063.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moznost-na-splatky-2-kk-v-klidne-casti-mesta-byala-pouhych-500-m-od-plaze/21019?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21010",
     "title": "Útulné studio s balkonem u pláže, top cena – Slunečné pobřeží",
     "country": "cz",
@@ -3515,7 +3499,7 @@
     "id": "feed-25355",
     "title": "Pár kroků od moře - váš apartmán 2+kk v komplexu Artur, Sveti Vlas, Bulharsko",
     "country": "cz",
-    "price": "119 000 €",
+    "price": "116 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25355_5305119997.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/par-kroku-od-more-vas-apartman-2-kk-v-komplexu-artur-sveti-vlas-bulharsko/25355?aff=l4todz91fb"
   },
@@ -3848,14 +3832,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-s-balkonem-u-plaze-komplex-afrodita-park-slunecne-pobrezi/25806?aff=l4todz91fb"
   },
   {
-    "id": "feed-25859",
-    "title": "Mořský výhled, vlastní vstup a klidná lokalita – váš nový apartmán v Byale",
-    "country": "cz",
-    "price": "96 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25859_7369400175.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/morsky-vyhled-vlastni-vstup-a-klidna-lokalita-vas-novy-apartman-v-byale/25859?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25858",
     "title": "Moře na dosah a velkorysý prostor - váš apartmán s verandou ve Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "90 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26441_7810613469.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-nadherny-komplex-privilege-fort-beach-sveti-vlas-elenite/26441?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26118",
+    "title": "Klid u moře, prostor pro život – váš byt 2+kk v Sarafovu, Burgas",
+    "country": "cz",
+    "price": "125 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26118_4385817019.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-u-more-prostor-pro-zivot-vas-byt-2-kk-v-sarafovu-burgas/26118?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26120",
+    "title": "Moře na pár kroků, klid v každém dni – váš apartmán u pláže, Sarafovo",
+    "country": "cz",
+    "price": "125 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26120_4394024563.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-par-kroku-klid-v-kazdem-dni-vas-apartman-u-plaze-sarafovo/26120?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26446",
+    "title": "Prostorný 3+kk v komplexu Summer Dreams, top poloha, Sluneční pobřeží",
+    "country": "cz",
+    "price": "115 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/264463_1774806969.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/26446?aff=l4todz91fb"
   }
 ]
