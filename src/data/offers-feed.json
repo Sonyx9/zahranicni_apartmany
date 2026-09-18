@@ -3496,14 +3496,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetlo-noveho-zacatku-vas-apartman-2-kk-v-komplexu-azimut-burgas/25023?aff=l4todz91fb"
   },
   {
-    "id": "feed-25355",
-    "title": "Pár kroků od moře - váš apartmán 2+kk v komplexu Artur, Sveti Vlas, Bulharsko",
-    "country": "cz",
-    "price": "116 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25355_5305119997.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/par-kroku-od-more-vas-apartman-2-kk-v-komplexu-artur-sveti-vlas-bulharsko/25355?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25308",
     "title": "Moře na dosah, klid pod horami – váš apartmán v komplexu Etara 4, Sveti Vlas, Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "115 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/264463_1774806969.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/26446?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26207",
+    "title": "Slunce, prostor a dvě terasy s výhledem na moře - vaše studio v Ivet, Sveti Vlas",
+    "country": "cz",
+    "price": "84 700 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26207_6075942872.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-prostor-a-dve-terasy-s-vyhledem-na-more-vase-studio-v-ivet-sveti-vlas/26207?aff=l4todz91fb"
   }
 ]
