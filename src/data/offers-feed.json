@@ -3536,14 +3536,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-prvni-linii-krasny-komplex-privilege-fort-beach-sveti-vlas-elenite/25467?aff=l4todz91fb"
   },
   {
-    "id": "feed-25412",
-    "title": "Prostorný apartmán s jednu ložnicí a výhledem na bazén v oblíbeném komplexu – Slunečné pobřeží",
-    "country": "cz",
-    "price": "89 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25412_7005866960.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-jednu-loznici-a-vyhledem-na-bazen-v-oblibenem-komplexu-slunecne-pobrezi/25412?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25370",
     "title": "Světlý byt 2+kk s výhledem na moře a klidná lokalita, Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "61 800 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/262155_1774618094.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-vyhledem-na-bazen-v-elitnim-komplexu-cascadas-slunecni-pobrezi/26215?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26216",
+    "title": "2+kk s terasou a nádherným výhledem na moře, Macon Residence, Sveti Vlas",
+    "country": "cz",
+    "price": "86 600 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26216_6194927465.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-a-nadhernym-vyhledem-na-more-macon-residence-sveti-vlas/26216?aff=l4todz91fb"
   }
 ]
