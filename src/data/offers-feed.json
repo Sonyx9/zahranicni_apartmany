@@ -1753,11 +1753,11 @@
   },
   {
     "id": "feed-19715",
-    "title": "váš dvoupokojový apartmán v komplexu Tarantula, Slunečné pobřeží",
+    "title": "Jednopokojový apartmán v Tarantule",
     "country": "cz",
-    "price": "92 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19715_17616564277.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-dvoupokojovy-apartman-v-komplexu-tarantula-slunecne-pobrezi/19715?aff=l4todz91fb"
+    "price": "88 000 €",
+    "image": "/images/placeholders/property-1.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jednopokojovy-apartman-v-tarantule/19715?aff=l4todz91fb"
   },
   {
     "id": "feed-19505",
@@ -2598,14 +2598,6 @@
     "price": "87 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2255416_1767189335.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-butterfly-300-metru-od-plaze-sveti-vlas/22554?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22555",
-    "title": "2+kk v komplexu Summer Dreams, top poloha, Sluneční pobřeží",
-    "country": "cz",
-    "price": "86 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/225553_1767189482.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/22555?aff=l4todz91fb"
   },
   {
     "id": "feed-22521",
@@ -3998,5 +3990,13 @@
     "price": "86 600 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26216_6194927465.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-a-nadhernym-vyhledem-na-more-macon-residence-sveti-vlas/26216?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26455",
+    "title": "váš apartmán s frontálním výhledem na moře a pláž Nestinarka, Carevo",
+    "country": "cz",
+    "price": "121 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2645514_1774896232.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-apartman-s-frontalnim-vyhledem-na-more-a-plaz-nestinarka-carevo/26455?aff=l4todz91fb"
   }
 ]
