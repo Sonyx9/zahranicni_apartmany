@@ -504,14 +504,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-a-grilem-kousek-od-more-komplex-etara-2-sveti-vlas/16705?aff=l4todz91fb"
   },
   {
-    "id": "feed-16707",
-    "title": "Prostorné studio s výhledem na hory v komplexu s bazénem, blízko moře, Košarica, Bulharsko.",
-    "country": "cz",
-    "price": "53 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16707_5440050174.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-vyhledem-na-hory-v-komplexu-s-bazenem-blizko-more-kosarica-bulharsko/16707?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16735",
     "title": "Nádherný 2+kk, top investice v Pomorie",
     "country": "cz",
@@ -1750,14 +1742,6 @@
     "price": "101 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19750_8401862777.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-velkou-terasou-v-klidne-a-malebne-lokalite-v-blizkosti-plaze-byala/19750?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19715",
-    "title": "Jednopokojový apartmán v Tarantule",
-    "country": "cz",
-    "price": "88 000 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jednopokojovy-apartman-v-tarantule/19715?aff=l4todz91fb"
   },
   {
     "id": "feed-19505",
@@ -3016,14 +3000,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-3-kk-prestizni-lokace-komplex-kasandra-slunecni-pobrezi/23220?aff=l4todz91fb"
   },
   {
-    "id": "feed-23264",
-    "title": "Elegantní apartmán u moře s wellness zázemím a investičním potenciálem – Ravda",
-    "country": "cz",
-    "price": "50 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23264_6747126184.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-apartman-u-more-s-wellness-zazemim-a-investicnim-potencialem-ravda/23264?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23266",
     "title": "Pohodový apartmán 3+kk → klidný resort s bazény → Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "121 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2645514_1774896232.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-apartman-s-frontalnim-vyhledem-na-more-a-plaz-nestinarka-carevo/26455?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26479",
+    "title": "Světlý 2+kk jen 400 metrů od Cacao Beach, komplex Sun City 1, Sluneční pobřeží",
+    "country": "cz",
+    "price": "91 300 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/264796_1774967022.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-2-kk-jen-400-metru-od-cacao-beach-komplex-sun-city-1-slunecni-pobrezi/26479?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26475",
+    "title": "2+kk v komplexu Karolina, 400m od pláže, Sluneční pobřeží",
+    "country": "cz",
+    "price": "85 800 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26475_9587050471.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-komplexu-karolina-400m-od-plaze-slunecni-pobrezi/26475?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26542",
+    "title": "Světlo, klid a výhled na moře – studio s potenciálem v Byale",
+    "country": "cz",
+    "price": "78 350 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26542_1103498709.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetlo-klid-a-vyhled-na-more-studio-s-potencialem-v-byale/26542?aff=l4todz91fb"
   }
 ]
