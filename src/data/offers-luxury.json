@@ -240,14 +240,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-penthouse-4-1-v-top-hotelovem-projektu-s-vlastnim-bazenem-a-vyhledem/15147?aff=l4todz91fb"
   },
   {
-    "id": "feed-15202",
-    "title": "Výhodná cena, nádherná nová vila ihned k nastěhovaní v Macadi Heights, Hurghada, top cena",
-    "country": "cz",
-    "price": "345 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/15202_2470667097.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyhodna-cena-nadherna-nova-vila-ihned-k-nastehovani-v-macadi-heights-hurghada-top-cena/15202?aff=l4todz91fb"
-  },
-  {
     "id": "feed-15233",
     "title": "Krásná samostatná vila s 3 ložnicemi a 2 koupelnami poblíž centra Sagra, Alicante",
     "country": "cz",
@@ -382,14 +374,6 @@
     "price": "255 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16063_4307964803.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nejprestiznejsi-lokalita-3-kk-s-nadherny-vyhledem-na-more-v-reef-town-soma-bay/16063?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-16080",
-    "title": "Luxusní duplex s výhledem na moře v nejprestižnější lokalitě, 100m od pláže a golfu, Soma Bay",
-    "country": "cz",
-    "price": "368 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/160802_1738434453.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-duplex-s-vyhledem-na-more-v-nejprestiznejsi-lokalite-100m-od-plaze-a-golfu-soma-bay/16080?aff=l4todz91fb"
   },
   {
     "id": "feed-16279",
@@ -2472,14 +2456,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorna-samostatne-stojici-vila-se-zahradou-v-lokalite-sotira-kypr/29089?aff=l4todz91fb"
   },
   {
-    "id": "feed-29060",
-    "title": "Samostatně stojící vila ve Frenaros, Famagusta",
-    "country": "cz",
-    "price": "330 000 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-ve-frenaros-famagusta/29060?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28725",
     "title": "Prostorná samostatně stojící vila 3+1 v klidné lokalitě Frenaros, Kypr",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "2.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32047_17849175321.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32047?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32046",
+    "title": "Samostatně stojící vila v Moni, Limassol",
+    "country": "cz",
+    "price": "479 325 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32046_17849175281.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-moni-limassol/32046?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32045",
+    "title": "Samostatně stojící vila v Pegii, Paphos",
+    "country": "cz",
+    "price": "2.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32045_17849175211.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-paphos/32045?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32042",
+    "title": "Samostatně stojící vila v Pomosu, Paphos",
+    "country": "cz",
+    "price": "650 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32042_17849172451.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pomosu-paphos/32042?aff=l4todz91fb"
   }
 ]
