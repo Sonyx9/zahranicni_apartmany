@@ -1704,14 +1704,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-s-bazenem-a-panoramatickym-vyhledem-na-more-podstrana/22808?aff=l4todz91fb"
   },
   {
-    "id": "feed-22810",
-    "title": "Luxusní vila s panoramatickým výhledem na moře v blízkosti Splitu",
-    "country": "cz",
-    "price": "830 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/228100_1768482386.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-panoramatickym-vyhledem-na-more-v-blizkosti-splitu/22810?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22811",
     "title": "Elegantní vila s  panoramatickým výhledem na moře a soukromým bazénem v Podstraněa",
     "country": "cz",
@@ -1870,14 +1862,6 @@
     "price": "950 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/233345_1769853429.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhrivanym-bazenem-plaze-a-marina-v-dosahu-pula/23334?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23336",
-    "title": "Moderní vila s výhledem na moře, saunou a vířivkou v klidné části Makarské",
-    "country": "cz",
-    "price": "1.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/233366_1769859800.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-vyhledem-na-more-saunou-a-virivkou-v-klidne-casti-makarske/23336?aff=l4todz91fb"
   },
   {
     "id": "feed-23338",
@@ -3998,5 +3982,21 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32038_17849169471.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tala-paphos/32038?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32037",
+    "title": "Samostatně stojící vila v Parekklisia, Limassol",
+    "country": "cz",
+    "price": "480 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32037_17849169431.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-parekklisia-limassol/32037?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32028",
+    "title": "Samostatně stojící vila v Pervolia, Larnaka",
+    "country": "cz",
+    "price": "890 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32028_17849166221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pervolia-larnaka/32028?aff=l4todz91fb"
   }
 ]
