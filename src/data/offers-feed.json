@@ -1320,14 +1320,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-1-kk-ve-skvelem-komplexu-mesembria-resort-slunecni-pobrezi/19191?aff=l4todz91fb"
   },
   {
-    "id": "feed-19194",
-    "title": "Slunný dvoupokojový apartmán – relax u bazénu i pláže – Slunečné pobřeží",
-    "country": "cz",
-    "price": "83 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19194_17588790091.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunny-dvoupokojovy-apartman-relax-u-bazenu-i-plaze-slunecne-pobrezi/19194?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19197",
     "title": "Hezký 2+kk v komplexu Kalia, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "128 800 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2684228_1776264111.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/apartman-v-prvni-linii-u-more-s-dechberoucim-vyhledem-3-kk-104-m-2-privilege-fort-beach/26842?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26865",
+    "title": "Velmi prostorné studio kousek od pláže za top cenu",
+    "country": "cz",
+    "price": "55 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26865_3253471378.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velmi-prostorne-studio-kousek-od-plaze-za-top-cenu/26865?aff=l4todz91fb"
   }
 ]
