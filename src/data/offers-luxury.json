@@ -2640,14 +2640,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-velkym-pozemkem-a-bazenem-a-vyhledem-na-more-v-nejprestiznejsi-casti-ostrova/30214?aff=l4todz91fb"
   },
   {
-    "id": "feed-30220",
-    "title": "Exkluzivní dům s bazénem u moře, Orihuela Costa",
-    "country": "cz",
-    "price": "890 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30220_17831428460.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-dum-s-bazenem-u-more-orihuela-costa/30220?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30235",
     "title": "Luxusní vila s bazénem, Benahavís, Španělsko",
     "country": "cz",
@@ -2806,14 +2798,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30674_17840980270.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-u-golfu-la-finca-golf-torrevieja/30674?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-30947",
-    "title": "Elegantní vila s výhledem na moře, Mijas",
-    "country": "cz",
-    "price": "2.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30947_17841079140.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vila-s-vyhledem-na-more-mijas/30947?aff=l4todz91fb"
   },
   {
     "id": "feed-31038",
@@ -3998,5 +3982,21 @@
     "price": "890 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32028_17849166221.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pervolia-larnaka/32028?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32025",
+    "title": "SANTA ELENA V1",
+    "country": "cz",
+    "price": "625 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32025_17849163261.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v1/32025?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32023",
+    "title": "Samostatně stojící vila v Potamos Germasogeias, Limassol",
+    "country": "cz",
+    "price": "3.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32023_17849163191.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-potamos-germasogeias-limassol/32023?aff=l4todz91fb"
   }
 ]
