@@ -2352,14 +2352,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-rudeho-more-s-privatnim-bazenem-a-rooftopem/27929?aff=l4todz91fb"
   },
   {
-    "id": "feed-28019",
-    "title": "Exkluzivní vila, 1 km od moře s privátním bazénem, Benidorm",
-    "country": "cz",
-    "price": "1.8 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28019_17798602750.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-1-km-od-more-s-privatnim-bazenem-benidorm/28019?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27838",
     "title": "Exkluzivní vila 3+1 se střešní terasou 80 m2 ve vyhledávané části Pafosu",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "3.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32023_17849163191.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-potamos-germasogeias-limassol/32023?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32022",
+    "title": "Dvojdomá vila v Potamos Germasogeias, Limassol",
+    "country": "cz",
+    "price": "540 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32022_17849163161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvojdoma-vila-v-potamos-germasogeias-limassol/32022?aff=l4todz91fb"
   }
 ]
