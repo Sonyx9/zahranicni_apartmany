@@ -2128,14 +2128,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-terasy-a-2-km-od-more-marbella/21980?aff=l4todz91fb"
   },
   {
-    "id": "feed-21970",
-    "title": "Luxusní vila → výhled na moře a soukromý bazén → Benahavís",
-    "country": "cz",
-    "price": "6.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21970_17655966340.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-vyhled-na-more-a-soukromy-bazen-benahavis/21970?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21940",
     "title": "Exkluzivní vila → výhled na moře a soukromý bazén → Marbella",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "540 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32022_17849163161.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvojdoma-vila-v-potamos-germasogeias-limassol/32022?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32020",
+    "title": "Bungalov v Pegia - Sea Caves, Paphos",
+    "country": "cz",
+    "price": "2.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32020_17849160601.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/bungalov-v-pegia-sea-caves-paphos/32020?aff=l4todz91fb"
   }
 ]
