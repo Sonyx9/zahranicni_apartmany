@@ -1040,14 +1040,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-3-kk-s-vyhledem-na-more-a-hory-komplex-obzor-beach-obzor/18583?aff=l4todz91fb"
   },
   {
-    "id": "feed-18591",
-    "title": "Prostorné studio s výhledem na moře, v komplexu Gaden of Eden, Sveti Vlas",
-    "country": "cz",
-    "price": "84 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18591_4957079677.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-vyhledem-na-more-v-komplexu-gaden-of-eden-sveti-vlas/18591?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18637",
     "title": "2+kk v prestižní části Slunečného pobřeží – jen 600 metrů od pláže, Gerber 4",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "69 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26939_6807839549.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonet-2-kk-jen-600m-od-more-gerber-3-slunecni-pobrezi/26939?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26894",
+    "title": "Nádherný apartmán s jednou ložnicí v komplexu Famagusta, město. Aheloy",
+    "country": "cz",
+    "price": "83 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26894_17764236334.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-apartman-s-jednou-loznici-v-komplexu-famagusta-mesto-aheloy/26894?aff=l4todz91fb"
   }
 ]
