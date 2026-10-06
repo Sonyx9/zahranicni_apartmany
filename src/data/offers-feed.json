@@ -2243,7 +2243,7 @@
     "id": "feed-20233",
     "title": "2+kk s výhledem na bazén, v komplexu Poseidon, na Slunečném pobřeží",
     "country": "cz",
-    "price": "83 900 €",
+    "price": "81 200 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2023317_1763989826.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-poseidon-na-slunecnem-pobrezi/20233?aff=l4todz91fb"
   },
@@ -2422,14 +2422,6 @@
     "price": "109 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22265_8974587553.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-vlastni-zahradu-18m-v-cala-sahl-hasheesh/22265?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-22345",
-    "title": "Prostorný apartmán s výhledem na moře v exkluzivním komplexu na první linii v Obzoru, Bulharsko",
-    "country": "cz",
-    "price": "109 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/223454_1766166183.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-s-vyhledem-na-more-v-exkluzivnim-komplexu-na-prvni-linii-v-obzoru-bulharsko/22345?aff=l4todz91fb"
   },
   {
     "id": "feed-22346",
@@ -3998,5 +3990,13 @@
     "price": "83 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26894_17764236334.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-apartman-s-jednou-loznici-v-komplexu-famagusta-mesto-aheloy/26894?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26980",
+    "title": "Prostorný 2+kk v komplexu Royal Sun, Sluneční pobřeží",
+    "country": "cz",
+    "price": "91 600 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2698021_1776783909.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-komplexu-royal-sun-slunecni-pobrezi/26980?aff=l4todz91fb"
   }
 ]

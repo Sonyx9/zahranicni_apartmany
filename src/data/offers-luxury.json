@@ -1856,14 +1856,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velka-vila-s-bazenem-a-nadhernym-vyhledem-v-pafosu/23328?aff=l4todz91fb"
   },
   {
-    "id": "feed-23334",
-    "title": "Luxusní vila s vyhřívaným bazénem, pláže a marina v dosahu Pula",
-    "country": "cz",
-    "price": "950 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/233345_1769853429.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhrivanym-bazenem-plaze-a-marina-v-dosahu-pula/23334?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23338",
     "title": "Vila s panoramatickým výhledem na moře a ostrovy  jen 20 minut od Splitu",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32020_17849160601.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/bungalov-v-pegia-sea-caves-paphos/32020?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32018",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "2.5 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32018_17849160461.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32018?aff=l4todz91fb"
   }
 ]
