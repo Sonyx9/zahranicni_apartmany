@@ -2240,14 +2240,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-komplexu-golden-day-2-nizky-poplatek-na-udrzbu-slunecni-pobrezi/20232?aff=l4todz91fb"
   },
   {
-    "id": "feed-20233",
-    "title": "2+kk s výhledem na bazén, v komplexu Poseidon, na Slunečném pobřeží",
-    "country": "cz",
-    "price": "81 200 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2023317_1763989826.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-poseidon-na-slunecnem-pobrezi/20233?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20234",
     "title": "2+kk, v komplexu Flores Park, 300 metrů od pláže, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "91 600 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2698021_1776783909.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-v-komplexu-royal-sun-slunecni-pobrezi/26980?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27048",
+    "title": "Luxusní apartmán v golfovém resortu s pronájmem a plážemi – Thracian Cliffs, Kavarna",
+    "country": "cz",
+    "price": "119 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2704812_1776985617.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-v-golfovem-resortu-s-pronajmem-a-plazemi-thracian-cliffs-kavarna/27048?aff=l4todz91fb"
   }
 ]
