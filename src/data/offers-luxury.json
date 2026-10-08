@@ -2760,14 +2760,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-3-kk-vyhled-na-more-krasny-komplex-villa-florence-sveti-vlas-bulharsko/30419?aff=l4todz91fb"
   },
   {
-    "id": "feed-30629",
-    "title": "Exkluzivní vila u golfu, La Finca Golf, Alicante",
-    "country": "cz",
-    "price": "473 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30629_17840961330.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-alicante/30629?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30674",
     "title": "Luxusní vily u golfu, La Finca Golf, Torrevieja",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32018_17849160461.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32018?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32017",
+    "title": "Samostatně stojící vila v Konia, Paphos",
+    "country": "cz",
+    "price": "2.7 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32017_17849160421.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32017?aff=l4todz91fb"
   }
 ]
