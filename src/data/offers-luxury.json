@@ -2120,14 +2120,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-terasy-a-2-km-od-more-marbella/21980?aff=l4todz91fb"
   },
   {
-    "id": "feed-21940",
-    "title": "Exkluzivní vila → výhled na moře a soukromý bazén → Marbella",
-    "country": "cz",
-    "price": "8.7 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21940_17655952060.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-vyhled-na-more-a-soukromy-bazen-marbella/21940?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21731",
     "title": "Exkluzivní vila → privátní bazén, 1 km od golfu, 4 km od moře → Xàbia",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.7 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32017_17849160421.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32017?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32015",
+    "title": "Samostatně stojící vila v Laneia, Limassol",
+    "country": "cz",
+    "price": "520 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32015_17849157381.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-laneia-limassol/32015?aff=l4todz91fb"
   }
 ]

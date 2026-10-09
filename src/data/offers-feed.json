@@ -2360,14 +2360,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-krasnym-vyhledem-na-more-v-5-komplexu-royal-beach-barcelo-slunecne-pobrezi/20142?aff=l4todz91fb"
   },
   {
-    "id": "feed-21267",
-    "title": "Jednopokojový apartmán ve Sveti Vlasu u moře!",
-    "country": "cz",
-    "price": "81 400 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/jednopokojovy-apartman-ve-sveti-vlasu-u-more/21267?aff=l4todz91fb"
-  },
-  {
     "id": "feed-22242",
     "title": "2+kk s výhledem na moře – komplex Riviera Fort Beach, Ravda",
     "country": "cz",
@@ -2926,14 +2918,6 @@
     "price": "125 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23265_6754411888.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velkorysy-apartman-3-kk-v-prvni-linii-u-more-s-panoramatickym-vyhledem-sveti-vlas-elenite/23265?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23304",
-    "title": "2+kk s výhledem na bazén, v komplexu Blue Summer, Slunečné pobřeží",
-    "country": "cz",
-    "price": "73 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23304_17697744312.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-blue-summer-slunecne-pobrezi/23304?aff=l4todz91fb"
   },
   {
     "id": "feed-23222",
@@ -3998,5 +3982,21 @@
     "price": "119 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2704812_1776985617.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-v-golfovem-resortu-s-pronajmem-a-plazemi-thracian-cliffs-kavarna/27048?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27039",
+    "title": "2+kk s výhledem na bazén - klid a resortní život - Slunečné pobřeží",
+    "country": "cz",
+    "price": "71 400 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27039_9411602619.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-klid-a-resortni-zivot-slunecne-pobrezi/27039?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27178",
+    "title": "Luxusní 2+kk jen 250 metrů od pláže v exkluzivním komplexu J’Adore Secret Garden, Slunečné pobřeží",
+    "country": "cz",
+    "price": "99 800 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27178_3708344249.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-jen-250-metru-od-plaze-v-exkluzivnim-komplexu-j-adore-secret-garden-slunecne-pobrezi/27178?aff=l4todz91fb"
   }
 ]
