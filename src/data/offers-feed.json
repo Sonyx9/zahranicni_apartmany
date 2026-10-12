@@ -216,14 +216,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/kompletne-vybaveny-apartman-3-kk-v-bansku-dokonale-spojeni-komfortu-a-horske-atmosfery/16191?aff=l4todz91fb"
   },
   {
-    "id": "feed-16225",
-    "title": "Nový 2+kk v domě Helena Residence, Burgas",
-    "country": "cz",
-    "price": "93 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16225_8658743546.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-2-kk-v-dome-helena-residence-burgas/16225?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16246",
     "title": "3+kk v novostavbě a s výhledem na moře, 100 metru od pláže a krásných stezkách, Kavarna, Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "99 800 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27178_3708344249.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-2-kk-jen-250-metru-od-plaze-v-exkluzivnim-komplexu-j-adore-secret-garden-slunecne-pobrezi/27178?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26623",
+    "title": "Prémiové studio v prestižní rezidenci v první linii u moře s vysokým investičním výnosem",
+    "country": "cz",
+    "price": "95 920 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26623_5595130397.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premiove-studio-v-prestizni-rezidenci-v-prvni-linii-u-more-s-vysokym-investicnim-vynosem/26623?aff=l4todz91fb"
   }
 ]

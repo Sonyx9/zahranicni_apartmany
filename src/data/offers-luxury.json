@@ -2680,14 +2680,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-3-1-se-soukromym-bazenem-a-velkorysym-pozemkem-v-oblasti-peyia-kypr/29282?aff=l4todz91fb"
   },
   {
-    "id": "feed-29273",
-    "title": "Aquamarine Coastal Villas - Vila č. 33",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/aquamarine-coastal-villas-vila-c-33/29273?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29272",
     "title": "Exkluzivní vila 3+1 na velkorysém pozemku v prestižní golfové lokalitě Kouklia, Kypr",
     "country": "cz",
@@ -3102,14 +3094,6 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32289_17849316251.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegia-sea-caves-paphos/32289?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-32288",
-    "title": "Aquamarine Coastal Villas - Vila č. 34",
-    "country": "cz",
-    "price": "1.1 mil. €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/aquamarine-coastal-villas-vila-c-34/32288?aff=l4todz91fb"
   },
   {
     "id": "feed-32287",
@@ -3998,5 +3982,21 @@
     "price": "520 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32015_17849157381.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-laneia-limassol/32015?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32010",
+    "title": "Samostatně stojící vila v Tremithousa, Paphos",
+    "country": "cz",
+    "price": "1.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32010_17849157161.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tremithousa-paphos/32010?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32008",
+    "title": "Samostatně stojící vila v Tsada - Minthis Hills, Paphos",
+    "country": "cz",
+    "price": "2.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32008_17849154451.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsada-minthis-hills-paphos/32008?aff=l4todz91fb"
   }
 ]
