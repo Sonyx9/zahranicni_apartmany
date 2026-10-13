@@ -2096,14 +2096,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-malaga/22160?aff=l4todz91fb"
   },
   {
-    "id": "feed-22089",
-    "title": "Impozantní vila → privátní bazén, 3 km od moře → Marbella",
-    "country": "cz",
-    "price": "2.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22089_17656023930.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/impozantni-vila-privatni-bazen-3-km-od-more-marbella/22089?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21997",
     "title": "Exkluzivní vily → výhled na moře a 3 km od pláže → La Capellania",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.2 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32008_17849154451.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsada-minthis-hills-paphos/32008?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32006",
+    "title": "Samostatně stojící vila v Tremithousa, Paphos",
+    "country": "cz",
+    "price": "1.1 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32006_17849154351.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tremithousa-paphos/32006?aff=l4todz91fb"
   }
 ]
