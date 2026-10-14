@@ -2600,14 +2600,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-velkym-pozemkem-a-bazenem-a-vyhledem-na-more-v-nejprestiznejsi-casti-ostrova/30214?aff=l4todz91fb"
   },
   {
-    "id": "feed-30235",
-    "title": "Luxusní vila s bazénem, Benahavís, Španělsko",
-    "country": "cz",
-    "price": "4.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30235_17831434180.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-bazenem-benahavis-spanelsko/30235?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28823",
     "title": "Exkluzivní vila 4+1 se střešní terasou v klidné lokalitě Pernera, Kypr",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32006_17849154351.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tremithousa-paphos/32006?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-32004",
+    "title": "Samostatně stojící vila v Ayios Athanasios, Limassol",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32004_17849154221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-ayios-athanasios-limassol/32004?aff=l4todz91fb"
   }
 ]
