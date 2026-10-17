@@ -2512,14 +2512,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-tripatrovy-dum-s-vyhledem-na-more-a-velkou-zahradou-v-kosaritsa-colakova-cesma/29825?aff=l4todz91fb"
   },
   {
-    "id": "feed-29926",
-    "title": "Luxusní vila, blízko moře, Finestrat",
-    "country": "cz",
-    "price": "2.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29926_17824522070.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-blizko-more-finestrat/29926?aff=l4todz91fb"
-  },
-  {
     "id": "feed-30104",
     "title": "Prostorná dvoupodlažní vila s panoramatickým výhledem na moře – Floral Hills, Aheloy",
     "country": "cz",
@@ -2766,14 +2758,6 @@
     "price": "1.6 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31201_17841842310.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-u-puerto-banus-atalaya-estepona/31201?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31211",
-    "title": "Exkluzivní vila u golfu, La Finca Golf, Orihuela Costa",
-    "country": "cz",
-    "price": "890 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31211_17842657650.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-u-golfu-la-finca-golf-orihuela-costa/31211?aff=l4todz91fb"
   },
   {
     "id": "feed-30016",
@@ -3998,5 +3982,21 @@
     "price": "635 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31970_17849136261.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v6/31970?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31968",
+    "title": "Samostatně stojící vila v Pegii - St. George, Paphos",
+    "country": "cz",
+    "price": "3.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31968_17849133521.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-st-george-paphos/31968?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31967",
+    "title": "Samostatně stojící vila v Zygi, Larnaka",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31967_17849133451.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-zygi-larnaka/31967?aff=l4todz91fb"
   }
 ]

@@ -2848,14 +2848,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-s-terasou-komplex-orchid-fort-club-slunecni-pobrezi/23221?aff=l4todz91fb"
   },
   {
-    "id": "feed-23268",
-    "title": "Slunný 2+kk apartmán s přímým výhledem na moře na samém pláži, Sveti Vlas - Elenite",
-    "country": "cz",
-    "price": "130 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23268_6793734518.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunny-2-kk-apartman-s-primym-vyhledem-na-more-na-samem-plazi-sveti-vlas-elenite/23268?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23186",
     "title": "2+kk v komplexu Barco del Sol se střešním bazénem, Sluneční pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "87 100 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27173_3634601458.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/mezonetovy-2-kk-s-vyhledem-na-bazen-komplex-jen-500m-od-plaze-slunecni-pobrezi/27173?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27172",
+    "title": "Prostorný apartmán 1+kk s velikou terasou jen pár minut od pláže, Slunečné pobřeží",
+    "country": "cz",
+    "price": "84 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27172_3624322856.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-1-kk-s-velikou-terasou-jen-par-minut-od-plaze-slunecne-pobrezi/27172?aff=l4todz91fb"
   }
 ]
