@@ -968,14 +968,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-city-residence-slunecni-pobrezi-kousek-od-plaze-moznost-na-splatky/17777?aff=l4todz91fb"
   },
   {
-    "id": "feed-18574",
-    "title": "2+kk v celoročním komplexu Anželika, Sveti Vlas",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18574_2599967497.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-v-celorocnim-komplexu-anzelika-sveti-vlas/18574?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18573",
     "title": "2+kk, výhled na moře, dva balkony, komplex Rutland Bay, Ravda",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "84 900 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27172_3624322856.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-1-kk-s-velikou-terasou-jen-par-minut-od-plaze-slunecne-pobrezi/27172?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27219",
+    "title": "Prostorné studio s terasou pár minut od pláže a minimálními náklady, Slunečné pobřeží",
+    "country": "cz",
+    "price": "63 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27219_17774784388.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-terasou-par-minut-od-plaze-a-minimalnimi-naklady-slunecne-pobrezi/27219?aff=l4todz91fb"
   }
 ]

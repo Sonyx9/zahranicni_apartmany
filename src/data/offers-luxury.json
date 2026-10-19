@@ -3848,14 +3848,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32017?aff=l4todz91fb"
   },
   {
-    "id": "feed-32015",
-    "title": "Samostatně stojící vila v Laneia, Limassol",
-    "country": "cz",
-    "price": "551 250 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-laneia-limassol/32015?aff=l4todz91fb"
-  },
-  {
     "id": "feed-32008",
     "title": "Samostatně stojící vila v Tsada - Minthis Hills, Paphos",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.3 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31967_17849133451.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-zygi-larnaka/31967?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31964",
+    "title": "Samostatně stojící vila v Cape Greco, Famagusta",
+    "country": "cz",
+    "price": "1.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31964_17849133331.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-cape-greco-famagusta/31964?aff=l4todz91fb"
   }
 ]
