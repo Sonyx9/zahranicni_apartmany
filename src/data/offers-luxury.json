@@ -2408,14 +2408,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-4-1-se-stresni-terasou-v-klidne-lokalite-pernera-kypr/28823?aff=l4todz91fb"
   },
   {
-    "id": "feed-29300",
-    "title": "Moderní vila 3+1 se soukromým bazénem a rozlehlým pozemkem u Limassolu",
-    "country": "cz",
-    "price": "508 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29300_17815518381.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-3-1-se-soukromym-bazenem-a-rozlehlym-pozemkem-u-limassolu/29300?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29298",
     "title": "Luxusní vila 3+1 s bazénem ve vyhledávané oblasti Peyia, Kypr",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "587 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31873_17849085161.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/santa-elena-v3/31873?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31872",
+    "title": "Samostatně stojící vila v Potamos Germasogeias, Limassol",
+    "country": "cz",
+    "price": "4.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31872_17849082481.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-potamos-germasogeias-limassol/31872?aff=l4todz91fb"
   }
 ]
