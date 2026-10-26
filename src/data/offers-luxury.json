@@ -3320,14 +3320,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsada-minthis-hills-paphos/31842?aff=l4todz91fb"
   },
   {
-    "id": "feed-31839",
-    "title": "Bungalov v Monagroulli, Limassol",
-    "country": "cz",
-    "price": "546 735 €",
-    "image": "/images/placeholders/property-1.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/bungalov-v-monagroulli-limassol/31839?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31836",
     "title": "Samostatně stojící vila v Pegia - Sea Caves, Paphos",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "250 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31612_17848935281.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pera-pedi-limassol/31612?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31611",
+    "title": "Samostatně stojící vila v turistické oblasti Pyla, Larnaka",
+    "country": "cz",
+    "price": "578 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31611_17848935221.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-turisticke-oblasti-pyla-larnaka/31611?aff=l4todz91fb"
   }
 ]
