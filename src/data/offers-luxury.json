@@ -952,44 +952,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velka-vila-s-bazenem-a-nadhernym-vyhledem-v-pafosu/23328?aff=l4todz91fb"
   },
   {
-    "id": "feed-23369",
-    "title": "Krásná, moderní vila s bazénem v Medulinu na Istrii – ideální investiční příležitost",
-    "country": "cz",
-    "price": "1.4 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23369_0397267607.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasna-moderni-vila-s-bazenem-v-medulinu-na-istrii-idealni-investicni-prilezitost/23369?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23447",
     "title": "Luxusní vila 5+kk u moře v prestižním resortu v Umag Savudrija – vaše soukromá oáza na Istrii",
     "country": "cz",
     "price": "2.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2344716_1770205397.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-5-kk-u-more-v-prestiznim-resortu-v-umag-savudrija-vase-soukroma-oaza-na-istrii/23447?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23574",
-    "title": "Moderní luxusní vila s bazénem a výhledem na moře Tribunj",
-    "country": "cz",
-    "price": "900 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/235740_1770639914.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-luxusni-vila-s-bazenem-a-vyhledem-na-more-tribunj/23574?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23577",
-    "title": "Nova, luksuzní vila, 150 m od moře, panoramatický výhled, bazén, garáž v Betina, Tisno",
-    "country": "cz",
-    "price": "1.3 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/235774_1770641380.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nova-luksuzni-vila-150-m-od-more-panoramaticky-vyhled-bazen-garaz-v-betina-tisno/23577?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-23594",
-    "title": "Designová vila s bazénem a saunou 350 m od moře Šibenik",
-    "country": "cz",
-    "price": "950 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2359410_1770649402.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/designova-vila-s-bazenem-a-saunou-350-m-od-more-sibenik/23594?aff=l4todz91fb"
   },
   {
     "id": "feed-23850",
@@ -1798,6 +1766,14 @@
     "price": "1.5 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31057_17841118920.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-zahradou-a-bazenem-atalaya-estepona/31057?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31193",
+    "title": "Elegantní vily u moře, San Pedro Alcántara",
+    "country": "cz",
+    "price": "4.3 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31193_17841839270.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-vily-u-more-san-pedro-alcantara/31193?aff=l4todz91fb"
   },
   {
     "id": "feed-31201",
@@ -3998,5 +3974,29 @@
     "price": "578 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31611_17848935221.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-turisticke-oblasti-pyla-larnaka/31611?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31610",
+    "title": "Samostatně stojící vila v Souni-Zanakia, Limassol",
+    "country": "cz",
+    "price": "530 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31610_17849277491.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-souni-zanakia-limassol/31610?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31608",
+    "title": "Samostatně stojící vila v Panthea, Limassol",
+    "country": "cz",
+    "price": "2.2 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31608_17848932421.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-panthea-limassol/31608?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31607",
+    "title": "Samostatně stojící vila v Parekklisia, Limassol",
+    "country": "cz",
+    "price": "2.4 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31607_17848932361.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-parekklisia-limassol/31607?aff=l4todz91fb"
   }
 ]

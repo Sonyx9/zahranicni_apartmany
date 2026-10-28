@@ -744,14 +744,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-v-city-residence-slunecni-pobrezi-kousek-od-plaze-moznost-na-splatky/17776?aff=l4todz91fb"
   },
   {
-    "id": "feed-17769",
-    "title": "Prostorný 2+kk s verandou, v komplexu Aquamarin, kousek od pláže, Obzor",
-    "country": "cz",
-    "price": "72 400 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1776917_1749712551.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-2-kk-s-verandou-v-komplexu-aquamarin-kousek-od-plaze-obzor/17769?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17990",
     "title": "2+kk s výhledem na moře, nádherný komplex pro náročné Romans Paříž, Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "96 400 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27091_0561138576.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-more-a-pohodli-mesta-vas-apartman-2-kk-v-sarafovu-burgas/27091?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27136",
+    "title": "Moře, historie a klidné bydlení - vaše studio v Alexandrov Plaza, Nesebar",
+    "country": "cz",
+    "price": "69 605 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2713612_1777264228.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-historie-a-klidne-bydleni-vase-studio-v-alexandrov-plaza-nesebar/27136?aff=l4todz91fb"
   }
 ]
