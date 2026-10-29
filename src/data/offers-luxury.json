@@ -1176,14 +1176,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-3loznicova-vila-400-m-od-plaze-v-prestizni-lokalite-tombs-of-the-kings-paphos/26981?aff=l4todz91fb"
   },
   {
-    "id": "feed-27076",
-    "title": "Exkluzivní vily, v první linii s výhledem na moře, Marbella",
-    "country": "cz",
-    "price": "8.0 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27076_17770097360.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-v-prvni-linii-s-vyhledem-na-more-marbella/27076?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26997",
     "title": "Prostorný dům u moře → vysoký investiční potenciál a klidná lokalita → Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "2.4 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31607_17848932361.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-parekklisia-limassol/31607?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31601",
+    "title": "Samostatně stojící vila v Tremithousa, Paphos",
+    "country": "cz",
+    "price": "1.8 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31601_17848929171.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tremithousa-paphos/31601?aff=l4todz91fb"
   }
 ]
