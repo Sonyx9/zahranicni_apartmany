@@ -1152,14 +1152,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulne-studio-s-vyhledem-na-bazen-v-jasmine-club-slunecne-pobrezi/18897?aff=l4todz91fb"
   },
   {
-    "id": "feed-18936",
-    "title": "2+kk s nádherným výhledem na moře, perfektní stav, první linií, Sveti Vlas- Elenite",
-    "country": "cz",
-    "price": "120 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18936_0956874998.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-nadhernym-vyhledem-na-more-perfektni-stav-prvni-linii-sveti-vlas-elenite/18936?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18964",
     "title": "Prostorný 3+kk ve výborném komplexu Privilege Fort Beach, Sveti Vlas",
     "country": "cz",
@@ -2696,14 +2688,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-a-bazen-za-dvermi-dvoupokojovy-apartman-ve-sveti-vlas/23038?aff=l4todz91fb"
   },
   {
-    "id": "feed-23121",
-    "title": "Dvoupokojový apartmán v první linie u moře a klid pláže, Obzor, Bulharsko",
-    "country": "cz",
-    "price": "88 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/23121_4349846047.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dvoupokojovy-apartman-v-prvni-linie-u-more-a-klid-plaze-obzor-bulharsko/23121?aff=l4todz91fb"
-  },
-  {
     "id": "feed-23112",
     "title": "Útulný 1+kk s výhledem na bazén, prostorná terasa, komplex  Midia Resort, Aheloy",
     "country": "cz",
@@ -3326,14 +3310,6 @@
     "price": "77 300 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25563_0462263307.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-dvoupokojovy-apartman-par-kroku-od-plaze-pohodli-a-investice-na-slunecnem-pobrezi/25563?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-25627",
-    "title": "2+kk s terasou a nádherným výhledem na moře v městečku Obzor, Bulharsko",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2562729_1773159899.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-a-nadhernym-vyhledem-na-more-v-mestecku-obzor-bulharsko/25627?aff=l4todz91fb"
   },
   {
     "id": "feed-25629",
@@ -3998,5 +3974,29 @@
     "price": "69 605 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2713612_1777264228.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-historie-a-klidne-bydleni-vase-studio-v-alexandrov-plaza-nesebar/27136?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27399",
+    "title": "Krásný apartmán pro znalce v srdci Hurghady, vhodný na celoroční bydlení a na pronájem",
+    "country": "cz",
+    "price": "68 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/273991_1778004255.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/krasny-apartman-pro-znalce-v-srdci-hurghady-vhodny-na-celorocni-bydleni-a-na-pronajem/27399?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27480",
+    "title": "Nový apartmán 2+kk s výhledem na moře – Storia Del Mare, Hurghada, Ihned k nastěhování",
+    "country": "cz",
+    "price": "100 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2748012_1778186111.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novy-apartman-2-kk-s-vyhledem-na-more-storia-del-mare-hurghada-ihned-k-nastehovani/27480?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27483",
+    "title": "Luxusní apartmán 2+kk se zahradou a výhledem na moře, 300m od pláže, Azzurra Sahl Hasheesh",
+    "country": "cz",
+    "price": "122 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2748311_1778186746.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-apartman-2-kk-se-zahradou-a-vyhledem-na-more-300m-od-plaze-azzurra-sahl-hasheesh/27483?aff=l4todz91fb"
   }
 ]
