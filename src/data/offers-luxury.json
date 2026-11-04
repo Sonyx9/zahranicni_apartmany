@@ -1032,14 +1032,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/impozantni-ctyrpodlazni-vila-s-bazenem-a-nadhernou-zahradou-v-kosarici/25818?aff=l4todz91fb"
   },
   {
-    "id": "feed-25967",
-    "title": "Exkluzivní byty, 400 m od moře se společným bazénem, La Vila Joiosa",
-    "country": "cz",
-    "price": "650 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25967_17740743530.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-byty-400-m-od-more-se-spolecnym-bazenem-la-vila-joiosa/25967?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26566",
     "title": "Elegantní vila 4+1 v klidné přímořské lokalitě – prostor, soukromí a středomořský životní styl",
     "country": "cz",
@@ -1544,14 +1536,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-3-1-se-zahradou-v-klidne-lokalite-oroklini-pobliz-larnaky-kypr/28807?aff=l4todz91fb"
   },
   {
-    "id": "feed-30147",
-    "title": "Luxusní vila s výhledem na moře, Cumbre del Sol, Benitachell",
-    "country": "cz",
-    "price": "2.2 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30147_17829697340.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-cumbre-del-sol-benitachell/30147?aff=l4todz91fb"
-  },
-  {
     "id": "feed-28950",
     "title": "Moderní vila 4+1 s prostorným pozemkem v klidné lokalitě Sotira",
     "country": "cz",
@@ -1862,14 +1846,6 @@
     "price": "397 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/314330_1784642485.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-s-bazenem-a-prostornymi-terasami-v-golfove-lokalite-kypr/31433?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-31481",
-    "title": "Luxusní vily s výhledem na moře, Benahavís",
-    "country": "cz",
-    "price": "6.5 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31481_17846984760.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vily-s-vyhledem-na-more-benahavis/31481?aff=l4todz91fb"
   },
   {
     "id": "feed-31488",
@@ -3998,5 +3974,29 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31564_17848002181.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tala-paphos/31564?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31563",
+    "title": "Samostatně stojící vila v Chlorace, Paphos",
+    "country": "cz",
+    "price": "780 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31563_17848002121.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/31563?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31561",
+    "title": "Samostatně stojící vila v Dromolaxii, Larnaka",
+    "country": "cz",
+    "price": "950 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31561_17848001951.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-dromolaxii-larnaka/31561?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31556",
+    "title": "Samostatně stojící vila v Kouklii - Aphrodite Hills, Paphos",
+    "country": "cz",
+    "price": "3.0 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31556_17848001721.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kouklii-aphrodite-hills-paphos/31556?aff=l4todz91fb"
   }
 ]
