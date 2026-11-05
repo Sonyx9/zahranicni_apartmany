@@ -475,7 +475,7 @@
     "id": "feed-17812",
     "title": "Dům 4+kk s výhledem na moře, komplex Victoria Casa, Pomorie, možnost na splátky",
     "country": "cz",
-    "price": "249 000 €",
+    "price": "265 300 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/178124_1750066727.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/dum-4-kk-s-vyhledem-na-more-komplex-victoria-casa-pomorie-moznost-na-splatky/17812?aff=l4todz91fb"
   },
@@ -1118,14 +1118,6 @@
     "price": "3.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/22160_17656612300.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-soukromy-bazen-malaga/22160?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-21997",
-    "title": "Exkluzivní vily → výhled na moře a 3 km od pláže → La Capellania",
-    "country": "cz",
-    "price": "940 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21997_17655979920.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-vyhled-na-more-a-3-km-od-plaze-la-capellania/21997?aff=l4todz91fb"
   },
   {
     "id": "feed-21980",
@@ -2747,7 +2739,7 @@
     "id": "feed-32038",
     "title": "Samostatně stojící vila v Tala, Paphos",
     "country": "cz",
-    "price": "1.3 mil. €",
+    "price": "1.1 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32038_17849169471.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tala-paphos/32038?aff=l4todz91fb"
   },
@@ -3998,5 +3990,13 @@
     "price": "3.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31556_17848001721.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-kouklii-aphrodite-hills-paphos/31556?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31551",
+    "title": "Samostatně stojící vila v Tsadě, Paphos",
+    "country": "cz",
+    "price": "895 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31551_17848001541.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-tsade-paphos/31551?aff=l4todz91fb"
   }
 ]
