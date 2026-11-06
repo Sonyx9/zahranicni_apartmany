@@ -3192,14 +3192,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-byt-2-kk-s-vyhledem-na-more-a-klidna-lokalita-sveti-vlas/25370?aff=l4todz91fb"
   },
   {
-    "id": "feed-25491",
-    "title": "Prostorný 3+kk, komplex Eden, Sluneční pobřeží",
-    "country": "cz",
-    "price": "99 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/254911_1772791064.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-komplex-eden-slunecni-pobrezi/25491?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25492",
     "title": "Prostorný 3+kk pouze 500m od pláže, komplex Sun City 3, Sluneční pobřeží",
     "country": "cz",
@@ -3600,28 +3592,12 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-3-kk-v-komplexu-summer-dreams-top-poloha-slunecni-pobrezi/26446?aff=l4todz91fb"
   },
   {
-    "id": "feed-26207",
-    "title": "Slunce, prostor a dvě terasy s výhledem na moře - vaše studio v Ivet, Sveti Vlas",
-    "country": "cz",
-    "price": "84 700 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26207_6075942872.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-prostor-a-dve-terasy-s-vyhledem-na-more-vase-studio-v-ivet-sveti-vlas/26207?aff=l4todz91fb"
-  },
-  {
     "id": "feed-26209",
     "title": "2+kk apartmán s nádherným výhledem na moře, Macon Residence, Sveti Vlas",
     "country": "cz",
     "price": "117 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26209_6112285601.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-apartman-s-nadhernym-vyhledem-na-more-macon-residence-sveti-vlas/26209?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-26210",
-    "title": "Váš 2+kk v luxusním komplexu Harmony 8, Sluneční pobřeží",
-    "country": "cz",
-    "price": "105 300 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2621011_1774611923.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vas-2-kk-v-luxusnim-komplexu-harmony-8-slunecni-pobrezi/26210?aff=l4todz91fb"
   },
   {
     "id": "feed-26215",
@@ -3686,14 +3662,6 @@
     "price": "69 300 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/265080_1775032942.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-1-kk-v-magnolia-residence-slunecni-pobrezi/26508?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-26504",
-    "title": "2+kk s výhledem na moře, jen 50 metrů od pláže – Carevo",
-    "country": "cz",
-    "price": "125 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26504_0304550273.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-jen-50-metru-od-plaze-carevo/26504?aff=l4todz91fb"
   },
   {
     "id": "feed-26526",
@@ -3998,5 +3966,37 @@
     "price": "115 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27478_1771244423.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zelen-klid-a-letni-atmosfera-jen-par-minut-od-more-komplex-aphrodite-gardens-slunecne-pobrezi/27478?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27353",
+    "title": "Klidné studio v novostavbě jen pár minut od moře - Nesebar",
+    "country": "cz",
+    "price": "55 900 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2735323_1777896457.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klidne-studio-v-novostavbe-jen-par-minut-od-more-nesebar/27353?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-26123",
+    "title": "Stylový 2+kk u moře – váš nový apartmán v komplexu Emilia Romana Este na Slunečném pobřeží",
+    "country": "cz",
+    "price": "123 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/26123_4412727365.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-2-kk-u-more-vas-novy-apartman-v-komplexu-emilia-romana-este-na-slunecnem-pobrezi/26123?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27378",
+    "title": "Světlý apartmán s balkonem a resortním zázemím u moře - Sveti Vlas",
+    "country": "cz",
+    "price": "127 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27378_9823390840.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-apartman-s-balkonem-a-resortnim-zazemim-u-more-sveti-vlas/27378?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27578",
+    "title": "Slunce, klid a chytrá investice – studio v Grand Kamelia na Slunečném pobřeží",
+    "country": "cz",
+    "price": "55 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27578_5011000142.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-klid-a-chytra-investice-studio-v-grand-kamelia-na-slunecnem-pobrezi/27578?aff=l4todz91fb"
   }
 ]
