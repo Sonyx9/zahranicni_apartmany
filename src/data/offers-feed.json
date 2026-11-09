@@ -528,22 +528,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/klid-prostor-a-priroda-dvojdum-s-potencialem-v-oblasti-burgas-lozarevo/16846?aff=l4todz91fb"
   },
   {
-    "id": "feed-16852",
-    "title": "Prostorný 1+kk, v Serena Residence, Sozopol",
-    "country": "cz",
-    "price": "69 350 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16852_4199335997.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-v-serena-residence-sozopol/16852?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-16861",
-    "title": "Studio s výhledem na přírodu v prestižním komplexu Serena Residence – Sozopol",
-    "country": "cz",
-    "price": "54 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1686126_1743480808.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/studio-s-vyhledem-na-prirodu-v-prestiznim-komplexu-serena-residence-sozopol/16861?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16892",
     "title": "Luxusní 2+kk v Lago y Mar, investiční možnost na splátky! Burgas, Bulharsko",
     "country": "cz",
@@ -678,14 +662,6 @@
     "price": "101 700 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17228_8328888815.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-apartman-s-dechberoucim-vyhledem-na-more-jen-200-metru-od-plaze/17228?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-16862",
-    "title": "2+kk s výhledem na přírodu v prestižním komplexu Serena Residence – Sozopol",
-    "country": "cz",
-    "price": "68 300 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/1686221_1743481553.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-prirodu-v-prestiznim-komplexu-serena-residence-sozopol/16862?aff=l4todz91fb"
   },
   {
     "id": "feed-17306",
@@ -910,14 +886,6 @@
     "price": "70 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18526_0613999768.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-bazen-v-komplexu-rose-residence-jen-450m-od-plaze-slunecni-pobrezi/18526?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-18502",
-    "title": "2+kk s výhledem na moře, v rezidenčním komplexu Sozopol Bay View, Sozopol",
-    "country": "cz",
-    "price": "92 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18502_9862308703.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-v-rezidencnim-komplexu-sozopol-bay-view-sozopol/18502?aff=l4todz91fb"
   },
   {
     "id": "feed-18527",
@@ -3998,5 +3966,37 @@
     "price": "55 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27578_5011000142.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-klid-a-chytra-investice-studio-v-grand-kamelia-na-slunecnem-pobrezi/27578?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27579",
+    "title": "Moře na dosah, klidná atmosféra a pohodlí pro každý den – váš 2+kk apartmán ve Sveti Vlas",
+    "country": "cz",
+    "price": "88 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27579_177850263514.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-na-dosah-klidna-atmosfera-a-pohodli-pro-kazdy-den-vas-2-kk-apartman-ve-sveti-vlas/27579?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27608",
+    "title": "Moře přímo před vámi, městský život za rohem a pohodlí bez zbytečných poplatků – váš 2+kk v Pomorie",
+    "country": "cz",
+    "price": "122 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27608_5897691187.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/more-primo-pred-vami-mestsky-zivot-za-rohem-a-pohodli-bez-zbytecnych-poplatku-vas-2-kk-v-pomorie/27608?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27670",
+    "title": "2+kk s terasou, pouze 100 metrů od pláže, Sveti Vlas, komplex Raduga",
+    "country": "cz",
+    "price": "91 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27670_7570728835.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-terasou-pouze-100-metru-od-plaze-sveti-vlas-komplex-raduga/27670?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27767",
+    "title": "Výjimečný apartmán v elegantním komplexu plném zeleně, Slunečné pobřeží",
+    "country": "cz",
+    "price": "110 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27767_1040102831.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyjimecny-apartman-v-elegantnim-komplexu-plnem-zelene-slunecne-pobrezi/27767?aff=l4todz91fb"
   }
 ]
