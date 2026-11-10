@@ -3816,14 +3816,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorne-studio-s-terasou-par-minut-od-plaze-a-minimalnimi-naklady-slunecne-pobrezi/27219?aff=l4todz91fb"
   },
   {
-    "id": "feed-27329",
-    "title": "Moderní dvoupokojový apartmán s výhledem na moře, možnost splátek a investiční potenciál v Hurghadě",
-    "country": "cz",
-    "price": "74 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2732915_1777723972.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-dvoupokojovy-apartman-s-vyhledem-na-more-moznost-splatek-a-investicni-potencial-v-hurghade/27329?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27040",
     "title": "Prostorný 2+kk s výhledem  na bazén, v komplexu Sunny Day 5, Tankovo",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "110 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27767_1040102831.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vyjimecny-apartman-v-elegantnim-komplexu-plnem-zelene-slunecne-pobrezi/27767?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27766",
+    "title": "Stylový 2+kk v exkluzivním komplexu Venera Palace – Slunečné pobřeží",
+    "country": "cz",
+    "price": "129 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27766_2149333232.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-2-kk-v-exkluzivnim-komplexu-venera-palace-slunecne-pobrezi/27766?aff=l4todz91fb"
   }
 ]
