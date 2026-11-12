@@ -3880,14 +3880,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-1-kk-s-panoramatickym-vyhledem-na-more-sveti-vlas-bulharsko/27379?aff=l4todz91fb"
   },
   {
-    "id": "feed-27519",
-    "title": "Útulný apartmán s výhledem na moře v centru města Byala, top cena",
-    "country": "cz",
-    "price": "52 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27519_2559508952.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-apartman-s-vyhledem-na-more-v-centru-mesta-byala-top-cena/27519?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27467",
     "title": "Studio u moře na Slunečném pobřeží– klidné zázemí jen 600 metrů od pláže, nízký poplatek za údržbu",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "129 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27766_2149333232.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-2-kk-v-exkluzivnim-komplexu-venera-palace-slunecne-pobrezi/27766?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27792",
+    "title": "Velkorysé studio s atmosférou dvoupokojového apartmánu a SPA zázemím - Pomorie",
+    "country": "cz",
+    "price": "84 400 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27792_1760069513.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velkoryse-studio-s-atmosferou-dvoupokojoveho-apartmanu-a-spa-zazemim-pomorie/27792?aff=l4todz91fb"
   }
 ]
