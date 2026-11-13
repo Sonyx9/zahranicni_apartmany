@@ -1016,14 +1016,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-apartman-2-kk-v-modernim-komplexu-u-plaze-s-primym-vyhledem-na-more-pattaya/18668?aff=l4todz91fb"
   },
   {
-    "id": "feed-18640",
-    "title": "1+kk s terasou, v komplexu Fregata, Sveti Vlas",
-    "country": "cz",
-    "price": "59 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18640_6917853740.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-s-terasou-v-komplexu-fregata-sveti-vlas/18640?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18730",
     "title": "První linie! Kompletně vybavený apartmán 2+kk s přímým výhledem na moře – Obzor Beach Resort.",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "84 400 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27792_1760069513.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/velkoryse-studio-s-atmosferou-dvoupokojoveho-apartmanu-a-spa-zazemim-pomorie/27792?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27771",
+    "title": "Prémiové studio pár kroků od moře s investičním potenciálem v historickém Nesebaru",
+    "country": "cz",
+    "price": "114 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27771_17791164321.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premiove-studio-par-kroku-od-more-s-investicnim-potencialem-v-historickem-nesebaru/27771?aff=l4todz91fb"
   }
 ]
