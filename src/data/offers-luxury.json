@@ -1128,14 +1128,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vily-soukromy-bazen-terasy-a-2-km-od-more-marbella/21980?aff=l4todz91fb"
   },
   {
-    "id": "feed-21731",
-    "title": "Exkluzivní vila → privátní bazén, 1 km od golfu, 4 km od moře → Xàbia",
-    "country": "cz",
-    "price": "1.6 mil. €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/21731_17655844980.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-vila-privatni-bazen-1-km-od-golfu-4-km-od-more-xabia/21731?aff=l4todz91fb"
-  },
-  {
     "id": "feed-21629",
     "title": "Elegantní vila → výhled na moře a blízkost letiště → Calpe",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "5.0 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31437_17846460431.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-pegii-coral-bay-paphos/31437?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31314",
+    "title": "Luxusní vila s výhledem na moře, Limassol",
+    "country": "cz",
+    "price": "1.9 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31314_17843485780.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-limassol/31314?aff=l4todz91fb"
   }
 ]

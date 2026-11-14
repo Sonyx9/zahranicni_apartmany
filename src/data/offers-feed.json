@@ -504,14 +504,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/nadherny-2-kk-top-investice-v-pomorie/16735?aff=l4todz91fb"
   },
   {
-    "id": "feed-16758",
-    "title": "3+kk s výhledem na bazén, v komplexu Royal Dreams jen 300 metrů od pláže Cacao Beach",
-    "country": "cz",
-    "price": "116 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16758_8966068317.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-vyhledem-na-bazen-v-komplexu-royal-dreams-jen-300-metru-od-plaze-cacao-beach/16758?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16727",
     "title": "Nový 1+kk, exkluzivní příležitost, projekt v prestižní lokalitě, v srdci Pomorie",
     "country": "cz",
@@ -1574,14 +1566,6 @@
     "price": "91 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19770_1744571362.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zrekonstruovany-2-kk-s-terasou-v-komplexu-kamelia-garden-2-slunecni-pobrezi/19770?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-19799",
-    "title": "3+kk s úchvatným výhledem na moře, v žádaném 5 hvězdičkovém komplexu, Pomorie",
-    "country": "cz",
-    "price": "125 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19799_1636121043.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-s-uchvatnym-vyhledem-na-more-v-zadanem-5-hvezdickovem-komplexu-pomorie/19799?aff=l4todz91fb"
   },
   {
     "id": "feed-19797",
@@ -3998,5 +3982,21 @@
     "price": "114 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27771_17791164321.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premiove-studio-par-kroku-od-more-s-investicnim-potencialem-v-historickem-nesebaru/27771?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27927",
+    "title": "Prémiové studio v Sahl Hasheesh | Ihned k nastěhování",
+    "country": "cz",
+    "price": "106 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27927_4792237052.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premiove-studio-v-sahl-hasheesh-ihned-k-nastehovani/27927?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-27933",
+    "title": "Luxusně vybavený 1+kk v parádním komplexu Premier Fort Beach, Sveti Vlas",
+    "country": "cz",
+    "price": "74 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2793313_1779488547.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusne-vybaveny-1-kk-v-paradnim-komplexu-premier-fort-beach-sveti-vlas/27933?aff=l4todz91fb"
   }
 ]
