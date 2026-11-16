@@ -392,14 +392,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/exkluzivni-projekt-luxusnich-vil-v-gruzii-diamond-star-villas-batumi/17090?aff=l4todz91fb"
   },
   {
-    "id": "feed-17246",
-    "title": "Polyfunkční vila s bazénem a výhledem na moře – ideální pro luxusní bydlení i podnikání",
-    "country": "cz",
-    "price": "630 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/17246_9981645641.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/polyfunkcni-vila-s-bazenem-a-vyhledem-na-more-idealni-pro-luxusni-bydleni-i-podnikani/17246?aff=l4todz91fb"
-  },
-  {
     "id": "feed-17282",
     "title": "Městský dům vedle pláže Kavatsi v Sozopolu",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.9 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31314_17843485780.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-na-more-limassol/31314?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31313",
+    "title": "Luxusní vila v kopcích s bazénem, Limassol",
+    "country": "cz",
+    "price": "1.8 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31313_17843485710.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-v-kopcich-s-bazenem-limassol/31313?aff=l4todz91fb"
   }
 ]
