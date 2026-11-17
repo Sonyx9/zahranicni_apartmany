@@ -1408,14 +1408,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-se-stresni-terasou-a-soukromym-bazenem-v-prestizni-lokalite-pafosu-kypr/29505?aff=l4todz91fb"
   },
   {
-    "id": "feed-29383",
-    "title": "Moderní vila s bazénem v klidném resortu Mazarrón Country Club, Španělsko",
-    "country": "cz",
-    "price": "239 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29383_6242073538.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-s-bazenem-v-klidnem-resortu-mazarron-country-club-spanelsko/29383?aff=l4todz91fb"
-  },
-  {
     "id": "feed-29517",
     "title": "Exkluzivní vila s panoramatickou střešní terasou a bazénem v blízkosti pláže – Pafos, Kypr",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31313_17843485710.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-v-kopcich-s-bazenem-limassol/31313?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31312",
+    "title": "Luxusní vila s výhledem, Limassol",
+    "country": "cz",
+    "price": "1.8 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31312_17843485640.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-limassol/31312?aff=l4todz91fb"
   }
 ]
