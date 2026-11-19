@@ -392,14 +392,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/vybaveny-2-kk-v-the-green-paradise-primorsko-bulharsko/16538?aff=l4todz91fb"
   },
   {
-    "id": "feed-16542",
-    "title": "3+kk, v Lighthouse Golf and Spa Resort, Balčik",
-    "country": "cz",
-    "price": "110 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/16542_7837810168.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/3-kk-v-lighthouse-golf-and-spa-resort-balcik/16542?aff=l4todz91fb"
-  },
-  {
     "id": "feed-16540",
     "title": "2+kk s výhledem na bazén, komplex The Green Paradise, Primorsko, Bulharsko",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "110 000 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28201_2258414216.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-2-kk-na-klic-s-aktem-16-v-primorsku-jen-par-minut-od-plaze/28201?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28386",
+    "title": "Útulný 1+kk s výhledem na bazén, komplex Orchid Fort, Sluneční pobřeží",
+    "country": "cz",
+    "price": "63 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/283866_1780316182.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-s-vyhledem-na-bazen-komplex-orchid-fort-slunecni-pobrezi/28386?aff=l4todz91fb"
   }
 ]
