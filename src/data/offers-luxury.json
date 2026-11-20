@@ -624,14 +624,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/moderni-vila-2-1-s-bazenem-dve-koupelny-350-m-od-more/19541?aff=l4todz91fb"
   },
   {
-    "id": "feed-19807",
-    "title": "Novostavba, moderní rodinný dům pouze 400 m od pláže, soukromí, komfort a výhled na moře, Pomorie",
-    "country": "cz",
-    "price": "400 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/19807_1730693875.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/novostavba-moderni-rodinny-dum-pouze-400-m-od-plaze-soukromi-komfort-a-vyhled-na-more-pomorie/19807?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19836",
     "title": "3+kk, s výhledem na moře, 100m od pláže, komplex Villa Aristo, Sveti Vlas",
     "country": "cz",
@@ -1904,14 +1896,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-konia-paphos/32297?aff=l4todz91fb"
   },
   {
-    "id": "feed-32295",
-    "title": "Samostatně stojící vila v Chlorace, Paphos",
-    "country": "cz",
-    "price": "780 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/32295_17849319291.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-chlorace-paphos/32295?aff=l4todz91fb"
-  },
-  {
     "id": "feed-32294",
     "title": "Dvojdomek v Agios Tychonas, Limassol",
     "country": "cz",
@@ -3104,14 +3088,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-laiki-lefkothea-limassol/31870?aff=l4todz91fb"
   },
   {
-    "id": "feed-31869",
-    "title": "Samostatně stojící vila v Petridii, Paphos",
-    "country": "cz",
-    "price": "750 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31869_17849082321.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/samostatne-stojici-vila-v-petridii-paphos/31869?aff=l4todz91fb"
-  },
-  {
     "id": "feed-31866",
     "title": "Samostatně stojící vila v Kouklii - Aphrodite Hills, Paphos",
     "country": "cz",
@@ -3998,5 +3974,29 @@
     "price": "1.8 mil. €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31312_17843485640.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-vila-s-vyhledem-limassol/31312?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-31310",
+    "title": "Luxusní dům s bazénem a výhledem, Limassol",
+    "country": "cz",
+    "price": "1.8 mil. €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/31310_17843485500.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/luxusni-dum-s-bazenem-a-vyhledem-limassol/31310?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30042",
+    "title": "Premier Residences - Vila č. 6 Fáze 38",
+    "country": "cz",
+    "price": "465 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30042_17826426251.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/premier-residences-vila-c-6-faze-38/30042?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-30028",
+    "title": "Viewpoint Hills - Vila č. 1253",
+    "country": "cz",
+    "price": "950 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/30028_17826156371.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/viewpoint-hills-vila-c-1253/30028?aff=l4todz91fb"
   }
 ]
