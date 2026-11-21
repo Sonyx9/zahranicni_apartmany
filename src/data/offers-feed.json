@@ -3080,14 +3080,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-vyhledem-na-more-top-lokace-150-metru-od-plaze-krasny-komplex-babylon/25574?aff=l4todz91fb"
   },
   {
-    "id": "feed-25571",
-    "title": "Elegantní 2+kk s výhledem na bazén - stylové bydlení v komplexu Sweet Homes 7, Sluneční pobřeží",
-    "country": "cz",
-    "price": "110 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25571_0605063495.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-2-kk-s-vyhledem-na-bazen-stylove-bydleni-v-komplexu-sweet-homes-7-slunecni-pobrezi/25571?aff=l4todz91fb"
-  },
-  {
     "id": "feed-25569",
     "title": "Světlý dvoupokojový apartmán se dvěma balkony u bazénu – klid a pohodlí na Slunečném pobřeží",
     "country": "cz",
@@ -3102,14 +3094,6 @@
     "price": "68 500 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/255620_1773044548.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/utulny-1-kk-v-elitnim-komplexu-cascadas-2-slunecni-pobrezi/25562?aff=l4todz91fb"
-  },
-  {
-    "id": "feed-25566",
-    "title": "Světlý dvoupokojový apartmán s výhledem na bazén – pár kroků od pláže Cacao Beach, Slunečné pobřeží",
-    "country": "cz",
-    "price": "82 800 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/25566_0563904327.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-dvoupokojovy-apartman-s-vyhledem-na-bazen-par-kroku-od-plaze-cacao-beach-slunecne-pobrezi/25566?aff=l4todz91fb"
   },
   {
     "id": "feed-25572",
@@ -3998,5 +3982,21 @@
     "price": "67 400 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28876_6588912918.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticke-studio-s-terasou-a-vyhledem-na-more-v-prestiznim-resortu-sveti-vlas/28876?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28895",
+    "title": "Panoramatický 2+kk v první linii u moře s dechberoucím výhledem, komplex Tiva Del Mar, Sveti Vlas",
+    "country": "cz",
+    "price": "86 500 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28895_6690629558.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/panoramaticky-2-kk-v-prvni-linii-u-more-s-dechberoucim-vyhledem-komplex-tiva-del-mar-sveti-vlas/28895?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-28875",
+    "title": "Elegantní apartmán 2+kk → nekonečné panorama moře → Sveti Vlas",
+    "country": "cz",
+    "price": "103 800 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28875_6545804922.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-apartman-2-kk-nekonecne-panorama-more-sveti-vlas/28875?aff=l4todz91fb"
   }
 ]
