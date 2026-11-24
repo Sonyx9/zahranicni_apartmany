@@ -1624,14 +1624,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/slunce-klid-a-vyhled-na-more-vas-apartman-v-sea-dreams-apartment-sveti-vlas/19904?aff=l4todz91fb"
   },
   {
-    "id": "feed-19902",
-    "title": "1+kk, top poloha, komplex Gerber 2, Sluneční pobřeží",
-    "country": "cz",
-    "price": "53 900 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/199021_1762432463.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/1-kk-top-poloha-komplex-gerber-2-slunecni-pobrezi/19902?aff=l4todz91fb"
-  },
-  {
     "id": "feed-19913",
     "title": "2+kk s výhledem na moře v prestižním komplexu Crown Fort Club, Sveti Vlas",
     "country": "cz",
@@ -3800,14 +3792,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/stylovy-2-kk-u-more-vas-novy-apartman-v-komplexu-emilia-romana-este-na-slunecnem-pobrezi/26123?aff=l4todz91fb"
   },
   {
-    "id": "feed-27378",
-    "title": "Světlý apartmán s balkonem a resortním zázemím u moře - Sveti Vlas",
-    "country": "cz",
-    "price": "127 500 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/27378_9823390840.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/svetly-apartman-s-balkonem-a-resortnim-zazemim-u-more-sveti-vlas/27378?aff=l4todz91fb"
-  },
-  {
     "id": "feed-27578",
     "title": "Slunce, klid a chytrá investice – studio v Grand Kamelia na Slunečném pobřeží",
     "country": "cz",
@@ -3998,5 +3982,21 @@
     "price": "103 800 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/28875_6545804922.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/elegantni-apartman-2-kk-nekonecne-panorama-more-sveti-vlas/28875?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-29086",
+    "title": "Mořská panoramata a klid bez davů – vaše studio v Byale",
+    "country": "cz",
+    "price": "56 000 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/29086_0574220902.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/morska-panoramata-a-klid-bez-davu-vase-studio-v-byale/29086?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22980",
+    "title": "Praktický apartmán, terasa a klid blízko centra Ulcinje",
+    "country": "cz",
+    "price": "69 228 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229803_1768983678.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prakticky-apartman-terasa-a-klid-blizko-centra-ulcinje/22980?aff=l4todz91fb"
   }
 ]
