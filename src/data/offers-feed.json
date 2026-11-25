@@ -2096,14 +2096,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-s-balkonem-v-dobre-vybavenem-komplexu-sunny-day-6-u-slunecniho-pobrezi/20135?aff=l4todz91fb"
   },
   {
-    "id": "feed-20791",
-    "title": "Prostorný apartmán se 2 ložnicemi v komplexu Elite 1 – jen 200 metrů od pláže na Slunečném pobřeží",
-    "country": "cz",
-    "price": "110 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/2079118_1764594037.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prostorny-apartman-se-2-loznicemi-v-komplexu-elite-1-jen-200-metru-od-plaze-na-slunecnem-pobrezi/20791?aff=l4todz91fb"
-  },
-  {
     "id": "feed-20786",
     "title": "2+kk s výhledem na bazén, v komplexu Avalon, Slunečné pobřeží",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "69 228 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229803_1768983678.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prakticky-apartman-terasa-a-klid-blizko-centra-ulcinje/22980?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22979",
+    "title": "Příjemný apartmán s terasou v Ulcinj",
+    "country": "cz",
+    "price": "62 028 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229796_1768983213.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prijemny-apartman-s-terasou-v-ulcinj/22979?aff=l4todz91fb"
   }
 ]
