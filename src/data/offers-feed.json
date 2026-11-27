@@ -792,14 +792,6 @@
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/hezky-2-kk-v-komplexu-stela-polaris-1-400m-od-plaze-slunecni-pobrezi/18386?aff=l4todz91fb"
   },
   {
-    "id": "feed-18394",
-    "title": "2+kk hned u pláže, komplex Colosseum, Sluneční pobřeží",
-    "country": "cz",
-    "price": "58 000 €",
-    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/18394_3713164525.jpg",
-    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/2-kk-hned-u-plaze-komplex-colosseum-slunecni-pobrezi/18394?aff=l4todz91fb"
-  },
-  {
     "id": "feed-18457",
     "title": "3+kk s výhledem na moře, veliká terasa, bohatě vybavený komplex Imperial Fort Club, Sveti Vlas",
     "country": "cz",
@@ -3998,5 +3990,13 @@
     "price": "62 028 €",
     "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229796_1768983213.jpg",
     "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/prijemny-apartman-s-terasou-v-ulcinj/22979?aff=l4todz91fb"
+  },
+  {
+    "id": "feed-22976",
+    "title": "Zařízený útulný apartmán, 2 patro v Ulcinj",
+    "country": "cz",
+    "price": "54 414 €",
+    "image": "https://s1.system.softreal.cz/mojenemovitostumore/softreal/img/uploads/big/229761_1768981117.jpg",
+    "url": "https://www.mojenemovitostumore.cz/nemovitosti/detail/zarizeny-utulny-apartman-2-patro-v-ulcinj/22976?aff=l4todz91fb"
   }
 ]
